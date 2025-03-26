@@ -216,7 +216,7 @@
 
 選單中每個 Icon 對應的類型說明：
 
-<table><thead><tr><th width="195">類型</th><th>Icon</th></tr></thead><tbody><tr><td>文字</td><td><img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="original"></td></tr><tr><td>數字</td><td><img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="original"></td></tr><tr><td>日期</td><td><img src="../../.gitbook/assets/image (5) (3).png" alt="" data-size="original"></td></tr><tr><td>日期與時間</td><td><img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original"></td></tr><tr><td>布林值</td><td><img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="original"></td></tr></tbody></table>
+<table><thead><tr><th width="195">類型</th><th>Icon</th></tr></thead><tbody><tr><td>文字</td><td><img src="../../.gitbook/assets/image (3) (2).png" alt="" data-size="original"></td></tr><tr><td>數字</td><td><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="original"></td></tr><tr><td>日期</td><td><img src="../../.gitbook/assets/image (5) (3).png" alt="" data-size="original"></td></tr><tr><td>日期與時間</td><td><img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="original"></td></tr><tr><td>布林值</td><td><img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="original"></td></tr></tbody></table>
 
 於對話2.0頁面，按鉛筆圖示即可編輯顧客既有的自訂屬性內容，但不可以更換自訂屬性的類型，例如將文字類型改為數字類。\
 以下圖為例，按鉛筆圖示後，可編輯自訂屬性值，但不可將數字類型變更為其他類型。

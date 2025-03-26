@@ -31,13 +31,13 @@ hidden: true
       <figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
   4.  將圖片的 URL 設定為任意值&#x20;
 
-      <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
   5.  複製 JSON 格式填入 「 內容設定 / JSON 內容 」&#x20;
 
       <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>LINE Flex Message Simulator 中複製訊息 JSON 內容</p></figcaption></figure>
   6.  複製追蹤訊息開封率的追蹤碼，並將JSON 中該圖片 URL 更換為此追蹤碼
 
-      <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -51,14 +51,14 @@ hidden: true
     <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 2.  將想要追蹤的按鈕或圖片連結複製並填入下方 URL 區塊中，若有多個按鈕需要追蹤依序透過「新增 URL」 按鈕新增
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 3.  複製追蹤碼後，將對應的 URL 替換成追蹤碼
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4. 特殊情境：若需要追蹤點擊的按鈕或圖片連結有包含品牌自訂變數、Omnichat 系統屬性變數、自訂屬性，請將變數部分依照以下邏輯調整後直接填入 URL 設定中

@@ -93,7 +93,7 @@ OSM設定 --> 功能設定 --> 導流功能設定 --> 產品目錄查詢。
 
 ![](<../../.gitbook/assets/image (2) (2).png>)
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
 #### 如何取得 Cyberbiz 產品目錄網址 <a href="#cyberbiz-product-feed" id="cyberbiz-product-feed"></a>
 
