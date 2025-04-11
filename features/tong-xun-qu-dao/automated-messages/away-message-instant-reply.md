@@ -65,3 +65,9 @@ description: 當收到消費者送出訊息至社群時，系統即時發送回�
 添加一個即時回覆，在「**特定時間**」下，勾選 **星期一至星期五**，時間設為 **10:00 至 19:00**
 
 <figure><img src="../../../.gitbook/assets/範例5.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+當客人第一次傳送訊息到您的 Instagram 帳號時，如果傳送的時間符合離線訊息或即時回覆的設定，系統會先發送「歡迎訊息」，客人在收到歡迎訊息後再次傳送的訊息，才會觸發離線訊息或即時回覆。
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/IG即時.png" alt=""><figcaption></figcaption></figure>

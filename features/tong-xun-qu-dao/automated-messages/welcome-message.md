@@ -30,6 +30,12 @@ description: 當消費者第一次透過 Facebook Messenger、LINE、WhatsApp、
 
 ![](<../../../.gitbook/assets/iOS 的影像.png>)
 
+### Instagram
+
+當客人**第一次**傳送訊息到你的Instagram帳號時，自動發送「**歡迎訊息**」
+
+<figure><img src="../../../.gitbook/assets/歡迎訊息 (3).png" alt=""><figcaption></figcaption></figure>
+
 ### LINE
 
 當客人「**加入好友**」後，自動發送「**歡迎訊息**」
