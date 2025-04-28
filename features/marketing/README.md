@@ -35,3 +35,7 @@ description: Omnichat 提供多元自動化功能，讓電商用戶減少人力�
 {% content-ref url="quan-qu-dao-gu-kelcheng-jia-gou-gong-neng.md" %}
 [quan-qu-dao-gu-kelcheng-jia-gou-gong-neng.md](quan-qu-dao-gu-kelcheng-jia-gou-gong-neng.md)
 {% endcontent-ref %}
+
+{% content-ref url="zi-dong-hua-pai-cheng.md" %}
+[zi-dong-hua-pai-cheng.md](zi-dong-hua-pai-cheng.md)
+{% endcontent-ref %}

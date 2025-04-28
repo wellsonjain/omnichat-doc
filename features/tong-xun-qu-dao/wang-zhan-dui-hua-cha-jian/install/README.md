@@ -120,3 +120,7 @@ description: 安裝 Omnichat 到官網過程非常簡單，只需花一分鐘時
 {% content-ref url="google-tag-manager.md" %}
 [google-tag-manager.md](google-tag-manager.md)
 {% endcontent-ref %}
+
+{% content-ref url="bv-shop-an-zhuang-omnichat.md" %}
+[bv-shop-an-zhuang-omnichat.md](bv-shop-an-zhuang-omnichat.md)
+{% endcontent-ref %}
