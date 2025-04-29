@@ -75,25 +75,37 @@ _**自訂版型：可以在預覽頁面新增自定義區塊，且新增預覽�
 目前暫時支援一種格式，無支援其他 LINE OA 後台樣版格式
 {% endhint %}
 
-10\. 定義行動：可選「文字訊息」、「開啟 URL」、「機器人模組」三種行動
+10\. 定義行動：可選「文字訊息」、「開啟 URL」、「機器人模組」、「切換圖文選單」 四種行動
 
 * 文字訊息
-* 開啟 URL：須填入『https://』 開頭網址
 
-{% hint style="info" %}
-開啟 URL 僅能填寫網址，不能追加任何其他非網址的文字訊息
+<figure><img src="../../../.gitbook/assets/截圖 2025-04-28 下午6.03.40 (1).png" alt="" width="563"><figcaption><p>文字訊息</p></figcaption></figure>
+
+* 開啟 URL：
+  * 支援貼標（最多20個），須先設定 Line 綁定 Liff ID（請參考[綁定Liff設定教學](../../tong-xun-qu-dao/integrations/line-2.0/she-qun-shen-fen-bang-ding-liff-she-ding.md)）。
+  * 『https://』 網址，不能追加任何其他非網址的文字訊息
+
+<figure><img src="../../../.gitbook/assets/開啟URL需Liff (2).jpg" alt=""><figcaption><p>開啟URL</p></figcaption></figure>
+
+{% hint style="warning" %}
+以下網址不支援貼標（即使設定有放入標籤）：
+
+* [https://line.me/R/](https://line.me/R/)
+* [https://ig.me](https://ig.me/)
+* tel:
 {% endhint %}
 
-* 機器人模組：文字訊息為客人點擊後顯示的文字內容，這是非必填欄位 ; 標籤可新增五個且也為非必填欄位
-* 切換圖文選單
+<div><figure><img src="../../../.gitbook/assets/截圖 2025-04-28 下午11.50.16 (1).png" alt=""><figcaption><p>tel:網址不支援貼標（放置的標籤無法貼上）</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_3878.PNG" alt="" width="188"><figcaption><p>點擊tel: 畫面</p></figcaption></figure></div>
 
-{% hint style="info" %}
-請留意！圖文選單的三種行動中，**只有選擇 「機器人模組」 時，有支援貼標籤**，其他兩種行動（開啟 URL 和文字訊息）皆無支援貼標籤
-{% endhint %}
+* 機器人模組：支援貼標（最多 20個）; 文字訊息為客人點擊後顯示的文字內容（非必填）&#x20;
 
-![](<../../../.gitbook/assets/截圖 2022-03-28 下午7.04.36.png>)
+<figure><img src="../../../.gitbook/assets/截圖 2025-04-28 下午11.22.51 (2).png" alt="" width="563"><figcaption><p>機器人模組</p></figcaption></figure>
 
-若選擇新增為主要選單，在定義行動中第一時間會沒有關聯的次要選單可以選擇，並同時會跳出提示訊息告知您下一步行動
+* 切換圖文選單：支援貼標（最多 20個）
+
+<figure><img src="../../../.gitbook/assets/截圖 2025-04-28 下午11.32.11.png" alt="" width="563"><figcaption><p>切換圖文選單</p></figcaption></figure>
+
+目前所在圖文選單是主要選單，在定義行動中第一時間會沒有關聯的次要選單可以選擇，並同時會跳出提示訊息告知您下一步行動。
 
 ### 步驟三：設定完成
 

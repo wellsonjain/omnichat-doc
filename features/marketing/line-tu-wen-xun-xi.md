@@ -1,25 +1,21 @@
 # LINE 圖文訊息
 
 {% hint style="info" %}
-設定完圖文訊息後，請在「 LINE 專用平台機器人」內使用「圖文訊息卡片」\
-\
-設定步驟可參考：[https://reurl.cc/8q6m9g](https://reurl.cc/8q6m9g)
+設定完圖文訊息後，請在 「 LINE 專用平台機器人」 內使用 「圖文訊息卡片」 （設定步驟請參考[此篇](chatbot-builder/ji-qi-ren-mo-zu-she-ding/line-xian-ding-ji-qi-ren.md)
 {% endhint %}
-
-
-
-<figure><img src="../../.gitbook/assets/圖文訊息1.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### **點擊新增圖文訊息後，跟著以下步驟即可設定內容：**
 
+圖文訊息支援複製及刪除動作。
+
+<figure><img src="../../.gitbook/assets/截圖 2025-04-29 上午12.10.35.png" alt=""><figcaption><p>新增圖文訊息</p></figcaption></figure>
+
 #### 步驟**一**：選擇模板
 
-<figure><img src="../../.gitbook/assets/圖文訊息2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-04-29 上午10.45.31.png" alt=""><figcaption><p>選擇模板-支援透明背景圖</p></figcaption></figure>
 
 {% hint style="info" %}
-1. 無法顯示透明背景，格式須為 JPEG、JPG、PNG
+1. 新增支援使用透明背景（<mark style="color:red;">記得勾選 「啟用」 顯示透明背景</mark>），格式須為 JPEG、JPG、PNG
 2.  可上傳的圖片尺寸：
 
     正方形版型：1040 x 1040 px
@@ -29,9 +25,11 @@
     檔案大小限制 10 MB
 {% endhint %}
 
-#### 步驟二 定義行動：輸入 URL、影片、機器人模組或是文字訊息
+<figure><img src="../../.gitbook/assets/IMG_E16D9E625FEC-1.jpeg" alt="" width="375"><figcaption><p>LINE前台實際呈現畫面</p></figcaption></figure>
 
-若選擇的行動為 URL、影片、機器人模組，可以額外為觸發行動的客人貼上標籤
+#### 步驟二 定義行動：文字訊息、開啟 URL、影片文字訊息、機器人模組
+
+若選擇的行動為 開啟URL、影片文字訊息、機器人模組，可以同步為觸發行動的客人貼上標籤
 
 {% hint style="warning" %}
 1. 自動貼標動作若網址為短網址、縮網址、轉網址或網址非帶有 Omnichat 網站插件的網頁時，上述情況**均可做到自動貼標**。
@@ -57,7 +55,7 @@
 * 用戶可以自訂當客人的 LINE 收到圖文訊息時所顯示的新訊息通知
 * 「聊天列表的預覽標題」欄位：字數上限 100 字
 
-<figure><img src="../../.gitbook/assets/圖文訊息4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-04-29 上午12.51.56.png" alt=""><figcaption></figcaption></figure>
 
 #### 步驟四： 按下 「儲存」 按鈕之後，即完成設定！
 
