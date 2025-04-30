@@ -77,7 +77,7 @@
   * [自訂屬性（加購功能）](features/she-qun-ke-hu-zi-liao-ping-tai/zi-ding-shu-xing-jia-gou-gong-neng.md)
   * [標籤管理](features/she-qun-ke-hu-zi-liao-ping-tai/biao-qian-guan-li.md)
   * [匯入顧客資料](features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/README.md)
-    * [匯入顧客名單（CDP 方案限定）](features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-gu-ke-ming-dan-cdp-fang-an-xian-ding.md)
+    * [匯入顧客名單](features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-gu-ke-ming-dan.md)
     * [匯入社群聯絡人](features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-she-qun-lian-luo-ren.md)
 * [推播](features/tui-bo/README.md)
   * [推播紀錄](features/tui-bo/tui-bo-ji-lu.md)

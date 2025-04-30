@@ -6,8 +6,8 @@ description: 可匯入新增顧客名單或既有顧客資料，包含品牌端�
 
 
 
-{% content-ref url="hui-ru-gu-ke-ming-dan-cdp-fang-an-xian-ding.md" %}
-[hui-ru-gu-ke-ming-dan-cdp-fang-an-xian-ding.md](hui-ru-gu-ke-ming-dan-cdp-fang-an-xian-ding.md)
+{% content-ref url="hui-ru-gu-ke-ming-dan.md" %}
+[hui-ru-gu-ke-ming-dan.md](hui-ru-gu-ke-ming-dan.md)
 {% endcontent-ref %}
 
 
