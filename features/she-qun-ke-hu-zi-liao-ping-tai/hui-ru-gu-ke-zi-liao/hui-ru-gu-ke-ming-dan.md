@@ -2,7 +2,7 @@
 description: 以 Member ID 為唯一識別值來匯入會員基本資料
 ---
 
-# 匯入顧客名單（CDP 方案限定）
+# 匯入顧客名單
 
 <div align="center"><figure><img src="../../../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure></div>
 

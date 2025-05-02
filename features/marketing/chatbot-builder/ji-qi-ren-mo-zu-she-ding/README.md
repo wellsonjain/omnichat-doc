@@ -169,7 +169,7 @@ description: 機器人模組支援不同類型卡片來應用在各個社群渠�
 「快速回覆卡片」 ＆ 「用戶輸入卡片」，不能同時放在同一個對話模組
 {% endhint %}
 
-![](<../../../../.gitbook/assets/10 (1).png>)
+![](<../../../../.gitbook/assets/10 (1) (1).png>)
 
 ### 六、條件分流卡片（加購項目） <a href="#conditionalreplycard" id="conditionalreplycard"></a>
 

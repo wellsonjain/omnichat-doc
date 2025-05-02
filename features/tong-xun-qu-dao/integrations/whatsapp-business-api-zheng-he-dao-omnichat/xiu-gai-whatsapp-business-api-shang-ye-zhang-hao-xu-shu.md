@@ -26,4 +26,4 @@ description: >-
 
 請選擇 Update OBA Display Name ，並依照需修改的內容填入相關資訊，並點選提交後，待 WhatsApp 審查成功即完成！
 
-<div><figure><img src="../../../../.gitbook/assets/oba-support-2.png" alt=""><figcaption><p>English version</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>中文介面</p></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/oba-support-2.png" alt=""><figcaption><p>English version</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>中文介面</p></figcaption></figure></div>

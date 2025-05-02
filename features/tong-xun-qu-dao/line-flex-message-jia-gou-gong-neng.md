@@ -31,7 +31,7 @@ hidden: true
       <figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
   4.  將圖片的 URL 設定為任意值&#x20;
 
-      <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
   5.  複製 JSON 格式填入 「 內容設定 / JSON 內容 」&#x20;
 
       <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>LINE Flex Message Simulator 中複製訊息 JSON 內容</p></figcaption></figure>
@@ -53,12 +53,12 @@ hidden: true
 
     <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 3.  複製追蹤碼後，將對應的 URL 替換成追蹤碼
 
     <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 4. 特殊情境：若需要追蹤點擊的按鈕或圖片連結有包含品牌自訂變數、Omnichat 系統屬性變數、自訂屬性，請將變數部分依照以下邏輯調整後直接填入 URL 設定中
@@ -68,7 +68,7 @@ hidden: true
    2. 連結包含「Omnichat 系統屬性變數」 或 「自訂屬性」
       *   可直接點選變數按鈕填入
 
-          <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
       * 可直接輸入並使用雙大括號來表示，例：https://example.com/?abc=\{{key\}}
       * 雙大括弧中只可包含&#x20;
         * Omnichat 支援的系統變數

@@ -6,30 +6,28 @@ description: 跨社群一鍵整合功能，提供 「跨社群渠道跳轉、綁
 
 功能權限：管理員、主管、行銷人員、行銷客服
 
-1. **新增活動**
+### 步驟 1 新增活動
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-22 下午12.02.27.png" alt=""><figcaption></figcaption></figure>
 
-2. **設定整合渠道**\
-   \
-   用戶點擊 OmniLink 時，會從 「來源渠道」 跳轉到 「目標渠道」 。\
-   \
-   &#xNAN;**(1) 來源渠道**：支援 Facebook / LINE / WhatsApp / IG
+### **步驟 2 設定整合渠道**
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-22 下午12.07.02.png" alt=""><figcaption></figcaption></figure>
+用戶點擊 OmniLink 時，會從 「來源渠道」 跳轉到 「目標渠道」 。
 
-&#x20;        **(2) 目標渠道**：支援 LINE / WhatsApp（FB / IG 因官方平台限制，暫時無法支援，若未來有調整會再另行更新）
-
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-22 下午12.10.06.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="warning" %}
+{% hint style="info" %}
 目標渠道：如為LINE渠道
 
 * 前置作業：LINE 渠道須先 [**完成 Liff 設定**](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/she-ding-liff-id-xian-she-ding-login-channel)
 * 整合方式：客戶點擊跨社群卡片後，透過 Liff 自動完成整合、觸發成功或失敗訊息
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-22 下午1.05.35.png" alt=""><figcaption></figcaption></figure>
+&#x20;**來源渠道**：支援 Facebook / LINE / WhatsApp / IG
+
+<figure><img src="../../../.gitbook/assets/截圖 2024-09-22 下午12.07.02.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;**2. 目標渠道**：支援 LINE / WhatsApp（FB / IG 因官方平台限制，暫時無法支援，若未來有調整會再另行更新）
+
+<figure><img src="../../../.gitbook/assets/截圖 2024-09-22 下午12.10.06.png" alt=""><figcaption></figcaption></figure>
 
 3. **設定整合卡片內容**
 
@@ -77,7 +75,15 @@ description: 跨社群一鍵整合功能，提供 「跨社群渠道跳轉、綁
 貼標後連動影響：觸發旅程、LINE 圖文選單切換
 {% endhint %}
 
-### 整合渠道特殊狀況
+### 步驟 3 搭配機器人卡片使用活動設定：
+
+若您需要將跨社群一鍵整合活動搭配機器人卡片進行時，請在完成前面 2 個步驟後，再到自助設計機器人頁面，完成您的卡片設定！相關的設定說明細節，請參考以下頁面
+
+{% content-ref url="../../marketing/new-chatbot/omnilink-botcard.md" %}
+[omnilink-botcard.md](../../marketing/new-chatbot/omnilink-botcard.md)
+{% endcontent-ref %}
+
+### 補充說明、整合渠道特殊狀況
 
 1. **若客戶於封鎖 LINE 狀態下點擊按鈕至 LINE 時**：
 

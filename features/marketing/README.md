@@ -28,8 +28,8 @@ description: Omnichat 提供多元自動化功能，讓電商用戶減少人力�
 [line-tu-wen-xun-xi.md](line-tu-wen-xun-xi.md)
 {% endcontent-ref %}
 
-{% content-ref url="whatsapp-biao-qing-bao-jia-gou-gong-neng.md" %}
-[whatsapp-biao-qing-bao-jia-gou-gong-neng.md](whatsapp-biao-qing-bao-jia-gou-gong-neng.md)
+{% content-ref url="whatsapp-tie-tu-bao-jia-gou-gong-neng.md" %}
+[whatsapp-tie-tu-bao-jia-gou-gong-neng.md](whatsapp-tie-tu-bao-jia-gou-gong-neng.md)
 {% endcontent-ref %}
 
 {% content-ref url="quan-qu-dao-gu-kelcheng-jia-gou-gong-neng.md" %}

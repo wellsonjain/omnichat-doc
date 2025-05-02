@@ -1,10 +1,10 @@
 ---
-description: 透過 Omnichat 後台製作 WhatsApp 表情包，可以代入到製作好的機器人模組！接下來就可以依照步驟進行設定唷！
+description: 透過 Omnichat 後台製作 WhatsApp 貼圖包，可以代入到製作好的機器人模組！接下來就可以依照步驟進行設定唷！
 ---
 
-# WhatsApp 表情包（加購功能）
+# WhatsApp 貼圖包（加購功能）
 
-### WhatsApp 貼圖尺寸說明
+### 貼圖WhatsApp 貼圖尺寸說明
 
 {% hint style="info" %}
 新增貼圖時，務必留意圖片格式限制，若格式有誤時會跳出提醒訊息且無法儲存，格式為：
@@ -30,4 +30,9 @@ description: 透過 Omnichat 後台製作 WhatsApp 表情包，可以代入到�
 
 <figure><img src="../../.gitbook/assets/截圖 2022-09-29 下午12.21.50.png" alt=""><figcaption></figcaption></figure>
 
-新增完畢後，就可以到機器人模組頁面新增一組 [WhatsApp 貼圖包卡片](chatbot-builder/ji-qi-ren-mo-zu-she-ding/whatsapp-xian-ding-ji-qi-ren.md#san-tie-tu-bao-ka-pian)唷！
+新增完畢後，就可以到機器人模組頁面新增一組 [WhatsApp 貼圖包卡片](chatbot-builder/ji-qi-ren-mo-zu-she-ding/whatsapp-xian-ding-ji-qi-ren.md#san-tie-tu-bao-ka-pian)唷！若需要查看相關設定說明，請點選至以下頁面
+
+{% content-ref url="new-chatbot/whatsapp-tie-tu-bao-ka-pian-jia-gou-gong-neng-whatsapp-only.md" %}
+[whatsapp-tie-tu-bao-ka-pian-jia-gou-gong-neng-whatsapp-only.md](new-chatbot/whatsapp-tie-tu-bao-ka-pian-jia-gou-gong-neng-whatsapp-only.md)
+{% endcontent-ref %}
+

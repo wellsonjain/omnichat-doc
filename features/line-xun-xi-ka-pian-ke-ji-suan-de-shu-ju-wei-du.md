@@ -35,7 +35,7 @@ description: LINE 各式的訊息卡片中，分別可計算的數據維度總�
 
 ### 輪播訊息卡片、圖片輪播訊息卡片
 
-<div><figure><img src="../.gitbook/assets/輪播訊息卡片.png" alt=""><figcaption><p>輪播訊息</p></figcaption></figure> <figure><img src="../.gitbook/assets/圖片輪播訊息卡片.png" alt=""><figcaption><p>圖片輪播訊息</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/輪播訊息卡片 (1).png" alt=""><figcaption><p>輪播訊息</p></figcaption></figure> <figure><img src="../.gitbook/assets/圖片輪播訊息卡片.png" alt=""><figcaption><p>圖片輪播訊息</p></figcaption></figure></div>
 
 ### 快速回覆卡片、用戶輸入卡片
 
