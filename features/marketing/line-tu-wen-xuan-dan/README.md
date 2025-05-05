@@ -88,11 +88,11 @@ _**自訂版型：可以在預覽頁面新增自定義區塊，且新增預覽�
 <figure><img src="../../../.gitbook/assets/開啟URL需Liff (2).jpg" alt=""><figcaption><p>開啟URL</p></figcaption></figure>
 
 {% hint style="warning" %}
-以下網址不支援貼標（即使設定有放入標籤）：
-
-* [https://line.me/R/](https://line.me/R/)
-* [https://ig.me](https://ig.me/)
-* tel:
+1. 若您先前已設定過Endpoint URL，現希望在圖文選單中使用貼標功能，請務必再次確認LIFF設定教學中的「[步驟三](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/she-qun-shen-fen-bang-ding-liff-she-ding#bu-zhou-san-jiang-endpoint-url-gai-cheng-httpspages.omnichat.ailiffbind.htmlliffidliffid-bing-an-xia)」是否為正確的Endpoint URL。
+2. 以下網址不支援貼標（即使設定有放入標籤）：
+   * [https://line.me/R/](https://line.me/R/)
+   * [https://ig.me](https://ig.me/)
+   * tel:
 {% endhint %}
 
 <div><figure><img src="../../../.gitbook/assets/截圖 2025-04-28 下午11.50.16 (1).png" alt=""><figcaption><p>tel:網址不支援貼標（放置的標籤無法貼上）</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/IMG_3878.PNG" alt="" width="188"><figcaption><p>點擊tel: 畫面</p></figcaption></figure></div>
