@@ -1,6 +1,6 @@
 # 產品目錄 (Product Feed)
 
-## 產品目錄是什麼？
+產品目錄是什麼？
 
 產品目錄 (Product Feed) 通常一個 csv / xml 檔案，檔案中記錄了你的網路商店裡賣的所有商品的細節資訊，像是商品圖片 / 商品編號 / 標題 / 價錢... 等等。一般來說電商開店平台裡都會提供產生產品目錄檔案的功能，現在要做的就是把這個產品目錄檔案上傳到 Omnichat。
 
@@ -148,13 +148,9 @@ QDM 開店平台的產品目錄格式是固定的，只要在官網網址最後�
 
 1. 請至 Shopify 後台安裝 [**Ako Retargeting Facebook Ads**](https://apps.shopify.com/ako-retargeting?locale=zh-CN)&#x20;
 2. 依照步驟完成 Ako Retargeting 與 Facebook Business 的連結，請參考[教學步驟](https://help.akohub.com/en/articles/6012829-how-to-connect-your-facebook-ad-account-with-akohub)
-3. 確認 Akohub 的狀態是否都有完成打勾，最後會看到 「You account are connected.」，表示已經完成連結（請參考下圖）
-
-<figure><img src="https://lh5.googleusercontent.com/6UOjch1aQNkPK6Wu6bDi4-PyzFpMBJOeErvicL5IuqJsDVR3n1mXVso1_uTzK5rLvi11hOL2xbYrhYCTntKszJZN9kmXaf1RSywZfxG7Ty1XLIVfdScUV7RQOzSBAO2uioFilmzMXEO7x4HuKRIdGq_mdVE9ldTc8ml0uoWjc0XRgcrxNZzKpHw0ho-u=nw" alt=""><figcaption><p>確認狀態是否都是綠色打勾</p></figcaption></figure>
-
-<div data-full-width="true"><figure><img src="https://lh4.googleusercontent.com/4309QAaiZhKlMna1xrJCo4c_r6s32cGJEj9szvzSg5uRcHwVXkMpQ8x_6-dicMnfRTV51OrpO2UkehX3YC2k1rKY5SKSnnOyWSHJtJzcwZQDIgThbg8kGcuVHoDV1kb4IeHYJhwyHJF3nTWIdBiQGCwwj2IEl6OPs36oUCTOS_WrTotStEM3iY6YlD6e=nw" alt=""><figcaption><p>完成連結畫面</p></figcaption></figure></div>
-
-4\. 確認您的目錄資料在 Facebook 在企業管理平台的狀態為「啟用」狀態
+3. 確認 Akohub 的狀態是否都有完成打勾，最後會看到 \
+   「You account are connected.」
+4. 確認您的目錄資料在 Facebook 在企業管理平台的狀態為<mark style="color:red;">**「啟用」狀態**</mark>
 
 <figure><img src="../../.gitbook/assets/截圖 2022-10-28 上午11.58.32.png" alt=""><figcaption></figcaption></figure>
 
