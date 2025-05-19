@@ -1,7 +1,7 @@
 # LINE 圖文訊息
 
 {% hint style="info" %}
-設定完圖文訊息後，請在 「 LINE 專用平台機器人」 內使用 「圖文訊息卡片」 （設定步驟請參考[此篇](chatbot-builder/ji-qi-ren-mo-zu-she-ding/line-xian-ding-ji-qi-ren.md) ）
+設定完圖文訊息後，請在 「 LINE 專用平台機器人」 內使用 「 圖文訊息卡片 」 （設定步驟請參考[此篇](chatbot-builder/ji-qi-ren-mo-zu-she-ding/line-xian-ding-ji-qi-ren.md) ）
 {% endhint %}
 
 ### **點擊新增圖文訊息後，跟著以下步驟即可設定內容：**
