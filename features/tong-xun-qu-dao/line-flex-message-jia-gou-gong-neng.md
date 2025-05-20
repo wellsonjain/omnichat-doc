@@ -37,7 +37,7 @@ hidden: true
       <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption><p>LINE Flex Message Simulator 中複製訊息 JSON 內容</p></figcaption></figure>
   6.  複製追蹤訊息開封率的追蹤碼，並將JSON 中該圖片 URL 更換為此追蹤碼
 
-      <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

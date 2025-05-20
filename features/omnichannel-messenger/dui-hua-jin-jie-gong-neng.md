@@ -158,3 +158,8 @@ Facebook 串接 Omnichat 等第三方廠商，對第三方廠商設有部分回�
 3. 其他主機、網路問題，則可能無法重新連線
 {% endhint %}
 
+### 圖片可在聊天室中透過拖拉下載到桌面
+
+只要直接將圖片拖曳到桌面，即可以直接下載儲存囉！
+
+<figure><img src="../../.gitbook/assets/截圖 2025-05-17 下午1.29.05.png" alt=""><figcaption></figcaption></figure>

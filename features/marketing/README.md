@@ -4,8 +4,8 @@ description: Omnichat 提供多元自動化功能，讓電商用戶減少人力�
 
 # 進階自動化功能
 
-{% content-ref url="facebook-comment-pm/" %}
-[facebook-comment-pm](facebook-comment-pm/)
+{% content-ref url="facebook-comment-pm.md" %}
+[facebook-comment-pm.md](facebook-comment-pm.md)
 {% endcontent-ref %}
 
 {% content-ref url="chatbot-builder/" %}

@@ -14,6 +14,8 @@
 
 [團隊成員名稱不可包含 「LINE」字樣](dui-hua-jin-jie-gong-neng.md#tuan-dui-cheng-yuan-ming-cheng-bu-ke-bao-han-line-zi-yang)
 
+[從聊天室拖拉圖片下載到桌面](dui-hua-jin-jie-gong-neng.md#cong-liao-tian-shi-tuo-la-tu-pian-xia-zai-dao-zhuo-mian)
+
 
 
 ## 訊息標籤 (Message tags)
@@ -232,3 +234,9 @@
 <table><thead><tr><th width="139">類型</th><th>注意事項</th><th>編輯畫面</th></tr></thead><tbody><tr><td>數字</td><td><ul><li>支援正負數及小數。</li><li>點箭頭單位為正負 1。</li><li>數字類型無法儲存開頭為 0 的數字，如 01、011。若要儲存這類數字，請使用文字類型的自訂屬性。</li></ul></td><td><img src="../../.gitbook/assets/image (9) (1).png" alt="" data-size="original"></td></tr><tr><td>文字</td><td><ul><li>上限為 1000 字。</li><li>暫不支援換行。</li></ul></td><td><img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="original"></td></tr><tr><td>日期</td><td><ul><li>點擊輸入框會開啟日期選單。</li><li>可鍵盤輸入日期。</li></ul></td><td><img src="../../.gitbook/assets/截圖 2024-09-26 上午11.47.42.png" alt="" data-size="original"></td></tr><tr><td>日期及時間</td><td><ul><li>點擊輸入框會開啟日期及時間選單。</li><li>可鍵盤輸入日期及時間。</li></ul></td><td><img src="../../.gitbook/assets/截圖 2024-09-26 上午11.54.11.png" alt="" data-size="original"></td></tr><tr><td>布林值</td><td></td><td><img src="../../.gitbook/assets/截圖 2024-09-26 上午11.58.02.png" alt="" data-size="original"></td></tr></tbody></table>
 
 若異動的自訂屬性值符合其他功能設定的條件，將會同步觸發相關功能，例如旅程、機器人條件分流卡片、會員卡等。
+
+## 從聊天室拖拉圖片下載到桌面
+
+想要快速下載圖片嗎？從聊天室直接拖拉圖片到桌面就可以下載完成囉！
+
+<figure><img src="../../.gitbook/assets/line.gif" alt=""><figcaption></figcaption></figure>
