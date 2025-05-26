@@ -8,6 +8,8 @@ description: 針對特定顧客進行分群分眾貼標，更迅速掌握顧客�
 
 {% hint style="info" %}
 標籤管理 > 貼標人數，數據每小時更新一次。
+
+若在其他行銷功能中新建立標籤（e.g 關鍵字自動回覆、機器人模組、圖文選單等），在建立完畢後，會需要有第一位社群好友被貼標後，才會在標籤管理頁面出現。
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/截圖 2025-05-09 下午1.02.34.png" alt=""><figcaption></figcaption></figure>
