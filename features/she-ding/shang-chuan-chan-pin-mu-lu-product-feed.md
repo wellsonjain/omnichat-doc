@@ -98,6 +98,14 @@ OSM設定 --> 功能設定 --> 導流功能設定 --> 產品目錄查詢。
 
 ![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
+{% hint style="info" %}
+注意：Omnichat主要是吃Shopline產品目錄內資料，因此如發現產品目錄內容持續抓取舊商品情境，需請您協助與Shopline顧問確認產品目錄內容或網址是否有異動。並將新的連結更新至Meta以及手動更新在Omnichat產品目錄中。
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/iScreen Shoter - 20250612114852984 (2).jpg" alt=""><figcaption></figcaption></figure>
+
+
+
 ### 如何取得 Cyberbiz 產品目錄網址 <a href="#cyberbiz-product-feed" id="cyberbiz-product-feed"></a>
 
 {% hint style="danger" %}
