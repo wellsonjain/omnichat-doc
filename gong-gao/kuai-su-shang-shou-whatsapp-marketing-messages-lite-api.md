@@ -1,5 +1,5 @@
 ---
-description: 用更好的方式，發送 WhatsApp 行銷訊息
+description: 用更好的方式，發送 WhatsApp 行銷訊息。公告日期：Jun 13, 2025
 ---
 
 # 快速上手 WhatsApp Marketing Messages Lite API
