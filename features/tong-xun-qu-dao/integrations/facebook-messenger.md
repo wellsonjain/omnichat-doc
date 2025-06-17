@@ -29,7 +29,7 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.07.56.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/截圖 2025-01-13 下午2.32.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-01-13 下午2.32.43.png" alt="" width="563"><figcaption></figcaption></figure>
 
 5\. 勾選你想要連接的 Facebook 專頁，然後按 「**下一步**」
 
@@ -39,7 +39,7 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 
 <div><figure><img src="../../../.gitbook/assets/截圖 2025-01-14 下午4.26.43.png" alt=""><figcaption><p>存取 「所有」 粉絲專頁</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/想使用的專頁.webp" alt=""><figcaption><p>存取 「目前」 粉絲專頁</p></figcaption></figure></div>
 
-6. 勾選你想要連接的商家，然後按「**下一步**」&#x20;
+6. 勾選你想要連接的商家，然後按 「**下一步」**&#x20;
 
 {% hint style="info" %}
 **注意：如有較多商家，不確定如何完整授權，建議可選取 「所有」 商家確保無遺漏。**
@@ -49,21 +49,31 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 
 7. Omnichat使用權限一覽，確認後點選右下角 「儲存」&#x20;
 
-<figure><img src="../../../.gitbook/assets/截圖 2025-01-14 下午4.27.23 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-01-14 下午4.27.23 (1).png" alt="" width="563"><figcaption><p>Omnichat 使用權限一覽</p></figcaption></figure>
 
-8. 點擊「**確定**」
+8. 點擊 「**前往 『企業整合工具』** 」 。
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.39.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FB 串接截圖 -3.png" alt="" width="563"><figcaption><p>前往 「企業整合工具」</p></figcaption></figure>
 
-9. 成功授權的 Facebook 專頁會在「**串接 Facebook 專頁**」部份列出，請勾選需要串接的 Facebook 粉專後點擊「**串接**」。
+9. 在左側列表找到 「企業整合工具」 ，點擊 Omnichat 旁的 **「檢視並編輯」** 。
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.10.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/FB 串接截圖 -4.png" alt=""><figcaption><p>企業整合工具設定</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.44.09.png" alt=""><figcaption></figcaption></figure>
+10. 下滑將所有權限項目都開啟，最下方 **「這個企業整合工具是否能傳送通知給你？」** 的設定選擇 **「是」** 。
+
+<div><figure><img src="../../../.gitbook/assets/FB 串接截圖 -5.png" alt=""><figcaption><p>將所有權限項目都開啟</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/FB 串接截圖 -6.png" alt=""><figcaption><p>將所有權限項目都開啟</p></figcaption></figure></div>
+
+11. 確認權限都有開啟後，回到 Omnichat 後台，成功授權的 Facebook 專頁會在 「**串接 Facebook 專頁**」 小畫面列出，請勾選需要串接的 Facebook 粉專後點擊 「**串接**」 。
+
+<figure><img src="../../../.gitbook/assets/FB 串接截圖 -7.png" alt=""><figcaption><p>勾選需要串接的粉絲專頁</p></figcaption></figure>
+
+12. 串接完成之後，畫面右上角會呈現 **「串接成功」** 的提示，並且在頁面列表當中也會出現串接好的 FB 粉專。
+
+<figure><img src="../../../.gitbook/assets/FB 串接截圖 -8.png" alt=""><figcaption><p>串接完成畫面</p></figcaption></figure>
 
 ## 常見問題
 
-### 1. 回覆 Facebook 事件時，彈出錯誤「_傳送訊息到 Facebook Messenger 失敗，請檢查 Facebook Messenger 整合是否設置成功_」
+### 1. 回覆 Facebook 事件時，彈出錯誤 「_傳送訊息到 Facebook Messenger 失敗，請檢查 Facebook Messenger 整合是否設置成功_」
 
 如果回覆 Facebook 事件時，出現以下畫面，請先初步確認只有ㄧ個事件有出現，還是多個事件都有出現：
 
@@ -86,84 +96,110 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 
 若您直接從 Facebook 原生後台 Messenger 收件夾回覆顧客，該回覆的訊息<mark style="color:red;">**不保證**</mark>能進到 Omnichat 的對話事件中，這是由於 Meta 官方針對第三方系統商分享對話資料經常有系統 Bug 導致該訊息無法正常出現在 Omnichat 後台，因此建議您非必要時<mark style="color:red;">**仍可以 Omnichat 系統端為主要回覆 Facebook 對話事件的平台**</mark>。
 
+
+
 ## 如何排解權限失效狀態
 
-### 1. 重新授權
+{% hint style="info" %}
+**權限失效原因**
 
 Facebook 的授權會因為以下原因而失效，授權失效後會影響 Omnichat 系統的功能：
 
 * 負責授權的 Facebook 用戶帳號更改密碼
 * 負責授權的 Facebook 用戶帳號開啟了雙重驗證
 * Facebook 偵測到用戶有異常行為，基於安全原因把授權取消
+{% endhint %}
+
+### 一、重新授權
 
 你可以根據以下步驟重新授權：
 
 1. 登入 [Omnichat 後台](https://app.omnichat.ai/)
-2. 在左側選單選擇「**通訊渠道 >** [**串接社群通訊渠道**](https://app.omnichat.ai/integration.html)」 _（點擊連結可直接進入團隊後台串接頁面）_
+2. 在左側選單選擇 「**通訊渠道 >** [**串接社群通訊渠道**](https://app.omnichat.ai/integration.html)」 _（點擊連結可直接進入團隊後台串接頁面）_
 3. 打開 **Facebook Messenger 分頁**
-4. 在**已串接的Facebook 專頁**，點擊「**解除串接**」把需要重新授權的 Facebook 專頁斷開連接
+4. 在**已串接的Facebook 專頁**，點擊 「**解除串接**」 把需要重新授權的 Facebook 專頁斷開連接
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.44.09 (1).png" alt=""><figcaption></figcaption></figure>
 
-5\. 斷開連接後，點擊「**串接** **Facebook** 專頁」
+5\. 斷開連接後，點擊 「**串接** **Facebook** 專頁」
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.01.45.png" alt=""><figcaption></figcaption></figure>
 
-6\. 點擊「**以** **OOO** **的身份繼續**」完成重新授權
+6\. 點擊 「**以** **OOO** **的身份繼續**」 完成重新授權
 
-<figure><img src="../../../.gitbook/assets/截圖 2025-01-13 下午2.19.55 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-01-13 下午2.19.55 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-7\. 成功重新授權後， Facebook 專頁會列出，請勾選需要串接的 Facebook 粉專後點擊「**串接**」。
+7\. 成功重新授權後， Facebook 專頁會列出，請勾選需要串接的 Facebook 粉專後點擊 「**串接**」。
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.10.00 (1).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-如果想要串接的專頁沒有出現，請回到「第6步」點擊下方 「**編輯設定**」 檢查是否有勾選想要串接的 Facebook 專頁及授權所有 Omnichat 要求的權限
+{% hint style="warning" %}
+如果想要串接的專頁沒有出現，請回到 「第6步」 點擊下方 「**編輯設定**」 檢查是否有勾選想要串接的 Facebook 專頁及授權所有 Omnichat 要求的權限（如下圖）。
 
-如果未跳出『編輯設定』可重新確認 Facebook 粉專設定，請查看是否點擊「**以** **OOO** **的身份繼續**」後可至『企業整合工具設定』調整。
+如果未跳出 「編輯設定」 ，請查看是否點擊 「**以** **OOO** **的身份繼續**」 後可至 「企業整合工具設定」 調整。
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/截圖 2025-01-13 下午2.19.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-01-13 下午2.19.55.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 2. 更改 Facebook 粉絲專頁的訊息主要接收者
+### 二、更改 Facebook 粉絲專頁的訊息主要接收者
 
-若您&#x70BA;**「舊版粉絲專頁」**&#x8ACB;參考此步驟，新版請往下繼續瀏覽。
+#### 若您為 **「舊版粉絲專頁」** 請參考此步驟，新版請往下繼續瀏覽。
 
 1. 粉絲專頁設定 > 進階訊息&#x20;
 
 <figure><img src="../../../.gitbook/assets/主要訊息接收者6" alt=""><figcaption></figcaption></figure>
 
-2. 找到交接通訊協定，並點擊「Messenger reciever」旁的設定按鈕
+2. 找到交接通訊協定，並點擊 「Messenger reciever」 旁的設定按鈕
 
 <figure><img src="../../../.gitbook/assets/主要訊息接收者7" alt=""><figcaption></figcaption></figure>
 
-將「主要接收者」設定成 Omnichat
+3. 將 「主要接收者」 設定成 Omnichat
 
 <figure><img src="../../../.gitbook/assets/主要訊息接收者8" alt=""><figcaption></figcaption></figure>
 
+#### 若您為 **「新版粉絲專頁」** 請參照下列圖文步驟
 
-
-若您&#x70BA;**「新版粉絲專頁」**&#x8ACB;參照下列圖文步驟
-
-1. 管理粉絲專頁頁面 > 從右上角的頭像點擊「設定與隱私」
+1. 管理粉絲專頁頁面 > 從右上角的頭像點擊 「設定與隱私」
 
 <figure><img src="../../../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
-2. 再點選「設定」>並選擇左側欄位的「粉絲專頁設定」
+2. 再點選 「設定」 > 選擇左側欄位的 **「🏳️ 粉絲專頁設定」**
 
 <figure><img src="../../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 
-3. 在粉絲專頁設定當中點選 「進階訊息」 右側&#x7684;**「查看」**&#x6309;鈕
+3. 在粉絲專頁設定當中點選 「進階訊息」 右側的 **「查看」** 按鈕
 
 <figure><img src="../../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
-4. 頁面找到 應用程式設定-交接通訊協定 > 在「Messenger 接收者」右側設定 > 選擇 「Omnichat」
+4. 頁面找到 「應用程式設定－交接通訊協定」 > 點擊 「Messenger 接收者」 右側的設定 > 選擇 「Omnichat」
 
-<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption><p>「Messenger 接收者」 右側的設定</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption><p>選擇 「Omnichat」</p></figcaption></figure>
 
+#### <mark style="background-color:red;">**若您的 「Messenger 接收者」 右側的設定反灰無法選擇（如下圖），請繼續往下看**</mark>
 
+<figure><img src="../../../.gitbook/assets/對話轉送（新功能）00拷貝.png" alt=""><figcaption></figcaption></figure>
+
+### 三、設定 「Messenger 對話指派－預設轉送應用程式」
+
+若 「Messenger 接收者」 右側的設定反灰無法選擇，請繼續往下看
+
+1. 在左側列表，點擊 **「🏳️ 粉絲專頁設定」** ，選擇 「Messenger 對話指派」
+
+<figure><img src="../../../.gitbook/assets/對話轉送（新功能）1拷貝.png" alt=""><figcaption></figcaption></figure>
+
+2. 在 「預設轉送應用程式」 點擊 「設定」
+
+<figure><img src="../../../.gitbook/assets/對話轉送（新功能）2拷貝.png" alt=""><figcaption></figcaption></figure>
+
+3. 選擇 **Omnichat**
+
+<figure><img src="../../../.gitbook/assets/對話轉送（新功能）3拷貝 (3).png" alt=""><figcaption></figcaption></figure>
+
+4. &#x20;**「預設轉送應用程式」** 設定完成畫面。
+
+<figure><img src="../../../.gitbook/assets/對話轉送（新功能）3拷貝 (1).png" alt=""><figcaption><p> 「預設轉送應用程式」 設定完成畫面。</p></figcaption></figure>
 
 ## 串接失敗之後台自動錯誤提示
 
