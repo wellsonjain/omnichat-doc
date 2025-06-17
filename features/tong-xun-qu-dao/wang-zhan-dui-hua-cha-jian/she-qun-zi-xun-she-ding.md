@@ -6,9 +6,9 @@ description: 電商用戶可於 Omnichat 後台設定，讓網站插件顯示其
 
 ## 設定方式
 
-![](<../../../.gitbook/assets/社群資訊設定 copy.png>)
+<figure><img src="../../../.gitbook/assets/截圖 2025-06-17 下午3.55.34.png" alt=""><figcaption></figcaption></figure>
 
-* 想要顯示在插件上面的社群渠道，點選該渠道右邊的開關後，就可以編輯修改，再按下『更改』按鈕更新儲存
+* 想要顯示在插件上面的社群渠道，點選該渠道右邊的開關後，就可以編輯修改，再按下『儲存』按鈕更新儲存
 
 ## 顯示
 

@@ -190,7 +190,7 @@
       * [自家官網 | 安裝](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/website.md)
       * [Shopify | 安裝 Omnichat](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/shopify.md)
       * [91 APP | 安裝 Omnichat](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/91app.md)
-      * [Cyberbiz | 安裝 Omnichat](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/cyberbiz-an-zhuang-omnichat.md)
+      * [CYBERBIZ | 安裝 Omnichat](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/cyberbiz-an-zhuang-omnichat.md)
       * [WACA | 安裝 Omnichat](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/waca.md)
       * [Easystore | 安裝 Omnichat](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/easystore.md)
       * [SHOPLINE | 安裝 Omnichat](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/shopline.md)

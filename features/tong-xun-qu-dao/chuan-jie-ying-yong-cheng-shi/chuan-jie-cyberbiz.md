@@ -149,6 +149,6 @@ CYBERBIZ 方案：
    * 若是先前從 CYBERBIZ 後台進行串接，則須從 CYBERBIZ 後台移除擴充功能
    * 若是先前從 Omnichat 後台進行串接，則須從 Omnichat  後台解除串接
 4. 顯示提示：此團隊已串接於其他商店
-   * 若想重新串接此團隊於另一個 Cyberbiz 商店，須將此團隊原有串接解除後再重新進行串接
+   * 若想重新串接此團隊於另一個 CYBERBIZ 商店，須將此團隊原有串接解除後再重新進行串接
    * 若是先前從 CYBERBIZ 後台進行串接，則須從 CYBERBIZ 後台移除擴充功能
    * 若是先前從 Omnichat 後台進行串接，則須從 Omnichat  後台解除串接

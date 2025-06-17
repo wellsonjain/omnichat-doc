@@ -7,7 +7,7 @@ description: >-
 # LINE 會員卡設定（加購功能）
 
 {% hint style="warning" %}
-1. 目前支援開店平台系統為 SHOPLINE, Cyberbiz 之品牌可自動同步官網會員資料使用。若您的開店平台系統為其他系統商（包含自架網站）者，則需要透過手動匯入顧客資料與完成手機綁定來比對，關於這個情境請與您的品牌顧問聯繫了解！
+1. 目前支援開店平台系統為 SHOPLINE, CYBERBIZ 之品牌可自動同步官網會員資料使用。若您的開店平台系統為其他系統商（包含自架網站）者，則需要透過手動匯入顧客資料與完成手機綁定來比對，關於這個情境請與您的品牌顧問聯繫了解！
 2. 該功能目前僅限使用在 **LINE** 渠道
 3. 在正式使用會員卡前，請先完成 **「手機簡訊費用儲值」** 流程，若尚未完成手機簡訊費用儲值，請洽詢您的 Omnichat 專人顧問，或可於線上聯繫我們。
 {% endhint %}
@@ -15,7 +15,7 @@ description: >-
 {% hint style="info" %}
 若需要自動同步串接官網會員資料，請先確認是否已完成以下功能後，再接續進行會員卡設定：
 
-* 條件 1 [串接應用程式 SHOPLINE](chuan-jie-ying-yong-cheng-shi/chuan-jie-shopline.md) / [串接應用程式 Cyberbiz ](chuan-jie-ying-yong-cheng-shi/chuan-jie-cyberbiz.md)
+* 條件 1 [串接應用程式 SHOPLINE](chuan-jie-ying-yong-cheng-shi/chuan-jie-shopline.md) / [串接應用程式CYBERBIZ](chuan-jie-ying-yong-cheng-shi/chuan-jie-cyberbiz.md)
 * 條件 2[ 手機綁定](../she-qun-bang-ding-guan-li/shou-ji-bang-ding-jia-gou-gong-neng.md)
 {% endhint %}
 

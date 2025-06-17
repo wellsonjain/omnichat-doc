@@ -66,7 +66,7 @@ description: 若店櫃人員需要大量發送訊息給客人，可以使用此�
 
 {% hint style="warning" %}
 * 退訂封鎖率計算公式：收到訊息24小時內退訂或封鎖的人數 ÷ 成功發送總人數
-* 封鎖率詳細計算方式請參考：[報告與詳情](broken-reference)
+* 封鎖率詳細計算方式請參考：[推播詳情](../tui-bo/tui-bo-xiang-qing.md)
 * 受眾人數為該次群發的「總人數」
 {% endhint %}
 

@@ -1,15 +1,15 @@
 ---
-description: 如何在 Cyberbiz 網店上安裝 Omnichat？
+description: 如何在 CYBERBIZ 網店上安裝 Omnichat？
 ---
 
-# Cyberbiz | 安裝 Omnichat
+# CYBERBIZ | 安裝 Omnichat
 
-使用 Cyberbiz 開店平台商，您有兩種方式可以安裝對話插件，請擇一操作即可
+使用 CYBERBIZ 開店平台商，您有兩種方式可以安裝對話插件，請擇一操作即可
 
-1. [在 Cyberbiz 後台來安裝對話插件](https://docs.omnichat.ai/features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/cyberbiz-an-zhuang-omnichat#shi-yong-cyberbiz-hou-tai-wei-zhi-lai-an-zhuang-cha-jian)
+1. [在 CYBERBIZ 後台來安裝對話插件](https://docs.omnichat.ai/features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/cyberbiz-an-zhuang-omnichat#shi-yong-cyberbiz-hou-tai-wei-zhi-lai-an-zhuang-cha-jian)
 2. [使用 Google Tag Manager 來安裝](https://docs.omnichat.ai/features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/install/cyberbiz-an-zhuang-omnichat#shi-yong-google-tag-manager-lai-jin-hang-an-zhuang)
 
-## 使用 Cyberbiz 後台位置來安裝插件
+## 使用 CYBERBIZ 後台位置來安裝插件
 
 ### 步驟 1
 
@@ -21,7 +21,7 @@ description: 如何在 Cyberbiz 網店上安裝 Omnichat？
 
 1. 輸入安裝 Omnichat 的網站地址
 2. 複製 Omnichat 安裝代碼
-3. 設定你的開店平台，選擇 Cyberbiz 並按下儲存
+3. 設定你的開店平台，選擇 CYBERBIZ 並按下儲存
 
 ![放上 Cyberbiz 網址](<../../../../.gitbook/assets/截圖 2022-02-15 下午6.39.32.png>)
 
@@ -29,7 +29,7 @@ description: 如何在 Cyberbiz 網店上安裝 Omnichat？
 
 ### 步驟 3
 
-登錄您的 Cyberbiz 商店管理：[https://sycafe.cyberbiz.co/user/sign\_in](https://sycafe.cyberbiz.co/user/sign_in)
+登錄您的 CYBERBIZ 商店管理：[https://sycafe.cyberbiz.co/user/sign\_in](https://sycafe.cyberbiz.co/user/sign_in)
 
 ### 步驟 4
 

@@ -13,7 +13,7 @@
 左邊側欄 **設定 -> 產品目錄**，進入頁面後按下 **上傳產品目錄** 按鈕，彈出視窗中會看到兩個選項
 
 1. [手動上傳檔案](shang-chuan-chan-pin-mu-lu-product-feed.md#shou-dong-shang-chuan-dang-an): 若您是自建網路商店或是使用其他開店平台，請選此選項
-2. [產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#chan-pin-mu-lu-wang-zhi): 若你使用的是 91App / WACA / SHOPLINE / Cyberbiz / meepShop / QDM / EasyStore 以上這些開店平台，請選此選項
+2. [產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#chan-pin-mu-lu-wang-zhi): 若你使用的是 91App / WACA / SHOPLINE / CYBERBIZ / meepShop / QDM / EasyStore 以上這些開店平台，請選此選項
 
 ## 手動上傳檔案
 
@@ -40,7 +40,7 @@
 
 ## 產品目錄網址
 
-若你是使用 **91App / WACA / SHOPLINE / Cyberbiz** / **Shopify / meepShop / QDM** 這幾家開店平台，你可以直接將開店平台的產品目錄網址複製到產品目錄網址這個輸入框，並在下拉選單選擇對應的開店平台，最後按下 **上傳**，就可以直接上傳產品目錄了。若是以此方法上傳產品目錄，Omnichat 會在 **每天凌晨 02:00** 到指定的網址去下載最新的產品目錄，做到自動更新。
+若你是使用 **91App / WACA / SHOPLINE / CYBERBIZ** / **Shopify / meepShop / QDM** 這幾家開店平台，你可以直接將開店平台的產品目錄網址複製到產品目錄網址這個輸入框，並在下拉選單選擇對應的開店平台，最後按下 **上傳**，就可以直接上傳產品目錄了。若是以此方法上傳產品目錄，Omnichat 會在 **每天凌晨 02:00** 到指定的網址去下載最新的產品目錄，做到自動更新。
 
 {% hint style="info" %}
 若你在按下上傳按鈕之後出現 **上傳失敗** 的彈出視窗，請檢查你的 **開店平台** 是否選擇正確，並請再次確認您的 **產品目錄網址** 輸入正確。\
@@ -52,7 +52,7 @@
 * [如何取得 91App 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#id-91app-product-feed)
 * [如何取得 WACA 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#waca-product-feed)
 * [如何取得 SHOPLINE 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#shopline-product-feed)
-* [如何取得 Cyberiz 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#cyberbiz-product-feed)
+* [如何取得 CYBERBIZ 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#cyberbiz-product-feed)
 * [如何取得 Shopify 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#shopify-product-feed)
 * [如何取得 meepShop 產品目網址](shang-chuan-chan-pin-mu-lu-product-feed.md#shopify-product-feed)
 * [如何取得 QDM 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#qdmproductfeed)
@@ -106,20 +106,20 @@ OSM設定 --> 功能設定 --> 導流功能設定 --> 產品目錄查詢。
 
 
 
-### 如何取得 Cyberbiz 產品目錄網址 <a href="#cyberbiz-product-feed" id="cyberbiz-product-feed"></a>
+### 如何取得 CYBERBIZ 產品目錄網址 <a href="#cyberbiz-product-feed" id="cyberbiz-product-feed"></a>
 
 {% hint style="danger" %}
-注意！Cyberbiz 用戶請使用 Google 的產品目錄(GMC) 連結進行上傳。如您使用 Facebook`產品目錄連結`，會造成 Facebook 產品目錄中的商品網址自帶 Facebook 的 UTM，導致 Omnichat 後台無法計算到`購物車再行銷的收益以及轉換率。`
+注意！CYBERBIZ 用戶請使用 Google 的產品目錄(GMC) 連結進行上傳。如您使用 Facebook`產品目錄連結`，會造成 Facebook 產品目錄中的商品網址自帶 Facebook 的 UTM，導致 Omnichat 後台無法計算到`購物車再行銷的收益以及轉換率。`
 {% endhint %}
 
-依照下圖的指示至 Cyberbiz 後台把產品動態網址複製下來上傳到 Omnichat 後台，詳細請參考Cyberbiz Google 產品目錄教學：[https://www.cyberbiz.io/support/?p=230](https://www.cyberbiz.io/support/?p=230)
+依照下圖的指示至 CYBERBIZ 後台把產品動態網址複製下來上傳到 Omnichat 後台，詳細請參考CYBERBIZ Google 產品目錄教學：[https://www.cyberbiz.io/support/?p=230](https://www.cyberbiz.io/support/?p=230)
 
-路徑：Cyberbiz 後台選單 --> 第三方整合 --> 谷歌 Google 設定 --> Google Merchant Center
+路徑：CYBERBIZ 後台選單 --> 第三方整合 --> 谷歌 Google 設定 --> Google Merchant Center
 
 <figure><img src="../../.gitbook/assets/1670466501745@2x_0.jpg" alt=""><figcaption><p>複製紅圈處網址回填 Omnichat 後台</p></figcaption></figure>
 
 {% hint style="info" %}
-**請務必將 Cyberbiz 產品目錄設定中的 「依款式展開商品」 的功能設定為&#x20;**<mark style="color:red;">**On 狀態**</mark>**。**
+**請務必將 CYBERBIZ 產品目錄設定中的 「依款式展開商品」 的功能設定為&#x20;**<mark style="color:red;">**On 狀態**</mark>**。**
 {% endhint %}
 
 ### 如何取得 meepShop 產品目錄網址 <a href="#shopify-product-feed" id="shopify-product-feed"></a>

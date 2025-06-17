@@ -18,7 +18,7 @@ description: 想從客人端得知對於客服回覆速度及品質的評價嗎�
 
 <figure><img src="../../.gitbook/assets/滿意度調查_發送時機.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/截圖 2023-05-08 上午10.25.51.png" alt=""><figcaption><p>事件結束後，手動決定發送</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-06-17 下午4.52.51.png" alt=""><figcaption></figcaption></figure>
 
 #### **滿意度調查（可自訂文字）**
 

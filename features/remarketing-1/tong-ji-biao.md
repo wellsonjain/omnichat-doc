@@ -4,7 +4,7 @@ description: 每小時更新一次，可以圖表化官網顧客行銷的觸發�
 
 # 統計圖表
 
-更多功能 ㄦUTM設定 及 展開統計圖表
+更多功能 UTM設定 及 展開統計圖表
 
 <figure><img src="../../.gitbook/assets/截圖 2025-01-08 上午11.37.55 (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
 
