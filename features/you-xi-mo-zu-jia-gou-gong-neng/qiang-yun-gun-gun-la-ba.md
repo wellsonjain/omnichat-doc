@@ -96,7 +96,9 @@ description: 賭場必備的拉霸機，心情隨著不停翻動的圖卡起伏�
 
 &#x20;6\.  中獎後發送訊息：遊戲中獎後可透過設定的渠道自動發送給得獎者（**注意：LINE 需收訊息費用**），並可使用聯絡人姓名參數功能
 
-&#x20;7\.  獎項圖片檔案為 png, jpeg, jpg，尺寸為 120 x 120 pixel
+&#x20;7\.  獎項圖片檔案為 png, jpeg, jpg，尺寸為 350 x 350 pixel
+
+<figure><img src="../../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 如您設定的遊戲是發佈在 LINE 渠道當領取獎品成功後，會增加提醒的視窗，提醒使用者要去 LINE 聊天室查看訊息
