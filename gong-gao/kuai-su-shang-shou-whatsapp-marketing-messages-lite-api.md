@@ -64,7 +64,25 @@ Omnichat 將於 6 月 18 日 啟動申請程序，Meta 將發送授權信件至�
 
     請提醒您的 BM 最高權限管理員 **查收信件**，並依據 Meta 信件中的連結完成 **授權流程**
 
-<figure><img src="../.gitbook/assets/image (501).png" alt=""><figcaption></figcaption></figure>
+**步驟一：**\
+點擊 Meta 郵件中的「Get Started（開始使用）」按鈕，進入 Meta Business Manager 平台，並點選「Review（檢視）」。
+
+<figure><img src="../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure>
+
+**步驟二：**\
+點選「Continue（繼續）」。
+
+<figure><img src="../.gitbook/assets/image (505).png" alt=""><figcaption></figcaption></figure>
+
+**步驟三：**\
+點選「Finish（完成）」。
+
+<figure><img src="../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
+
+**步驟四：**\
+完成後，畫面左下角會出現提示訊息，告知您已成功接受 MM Lite API 的啟用邀請。
+
+<figure><img src="../.gitbook/assets/image (507).png" alt=""><figcaption></figcaption></figure>
 
 完成授權後，MM Lite 功能將正式啟用，Omnichat 也會自動切換通道，開始使用 MM Lite 發送所有行銷訊息。
 
