@@ -17,12 +17,12 @@ description: 如何整合 Instagram Messenger 到 Omnichat？
 
 * 如先前切換商業帳戶時未與FB粉專相連，請再次確認先將你需要整合的 Instagram 帳號連接到你的 Facebook 粉專（可參考： [https://www.facebook.com/business/help/connect-instgram-to-page](https://www.facebook.com/business/help/connect-instgram-to-page) ）
 * 你的Facebook帳號需要擁有該 Facebook 粉專的**管理員權限**
-* 在 Instagram App 內，個人檔案 > 「≡」 設定和動態 > 訊息和限時動態回覆：
-  * 訊息控制項&#x20;
-    * 將 「潛在聯繫對像 / Potential connections」 底下，開啟接收 「你的 Instagram 粉絲 陌生訊息」
-    * 將 「其他 Instagram 用戶」 底下，開啟接收 「 其他 Instagram 用戶 陌生訊息 」
+* 在 Instagram App 內，個人檔案 > 「≡」 設定和動態 > 訊息和限時動態回覆 > 陌生訊息：
+  * 將 「你的Instagram粉絲」 跟 「其他Instagram用戶」底下，開啟接收 「陌生訊息」
+  * 將 「允許使用訊息功能」 開啟
+*
 
-<figure><img src="../../../.gitbook/assets/ig控制選項.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/截圖 2025-07-08 下午2.07.06.png" alt=""><figcaption></figcaption></figure>
 
 ### 串接步驟
 
