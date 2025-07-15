@@ -6,6 +6,8 @@ description: >-
 
 # 對話 2.0
 
+{% embed url="https://www.loom.com/share/39bb685cd016497282e408efc6b4268d?sid=e479bfde-6ae2-4250-8702-0e679e640da4" %}
+
 ## 對話分類及可視權限
 
 ### 對話分類
