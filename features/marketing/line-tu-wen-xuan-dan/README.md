@@ -89,7 +89,8 @@ _**自訂版型：可以在預覽頁面新增自定義區塊，且新增預覽�
 
 {% hint style="warning" %}
 1. 若您先前已設定過Endpoint URL，現希望在圖文選單中使用貼標功能，請務必再次確認LIFF設定教學中的「[步驟三](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/she-qun-shen-fen-bang-ding-liff-she-ding#bu-zhou-san-jiang-endpoint-url-gai-cheng-httpspages.omnichat.ailiffbind.htmlliffidliffid-bing-an-xia)」是否為正確的Endpoint URL。
-2. 以下網址不支援貼標（即使設定有放入標籤）：
+2. 以下網址**不支援貼標**（即使設定有放入標籤）：
+   * liff 連結，如：[https://liff.line.me/](https://liff.line.me/) 或 [line://app/](line://app/)
    * [https://ig.me](https://ig.me/)
    * tel:
 {% endhint %}
