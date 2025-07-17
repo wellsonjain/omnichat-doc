@@ -41,15 +41,51 @@ description: 適用平台：網站對話插件、Facebook、Instagram、LINE、W
 
 <div align="left"><figure><img src="../../../.gitbook/assets/按鈕中.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-1. **點擊觸發動作**
-   1. **回覆模組：**&#x7576;客人按下按鈕時，會前往對應的對話模組。
-   2. **開啟URL：**
-      1. 當客戶按下按鈕時，會打開瀏覽器前往該URL。
-      2. 若要讓客人點選URL的同時，完成[**機器人綁定**](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)，URL務必不能使用**短網址、縮址和轉址** 。
-      3. 點右下角的icon可替換參數。❗**請留意：網站對話插件平台不支援此功能**。
+1.  **點擊觸發動作**
 
-<div align="center"><figure><img src="../../../.gitbook/assets/右下角支援替換參數.png" alt="" width="375"><figcaption><p>右下角支援替換參數，惟網站對話插件平台不支援此功能</p></figcaption></figure></div>
+    1. **回覆模組：**&#x7576;客人按下按鈕時，會前往對應的對話模組。
+    2.  **開啟URL：**
 
+        1. 當客戶按下按鈕時，會打開瀏覽器前往該URL。
+        2. 若要讓客人點選URL的同時，完成[**機器人綁定**](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)，URL務必不能使用**短網址、縮址和轉址** 。
+        3. 點右下角的icon可替換參數。❗**請留意：網站對話插件平台不支援此功能**。
+
+        <div align="left"><figure><img src="../../../.gitbook/assets/右下角支援替換參數.png" alt="" width="375"><figcaption><p>右下角支援替換參數，惟網站對話插件平台不支援此功能</p></figcaption></figure></div>
+
+    {% hint style="success" %}
+    **向LINE 好友分享機器人訊息：**
+
+    您現在可以使用 **Chatbot 2.0** 設定動作，讓顧客能將聊天機器人的訊息分享給他們的 LINE 好友。此功能**僅支援 LINE 平台**，且**僅適用於 Chatbot 2.0**
+
+    <img src="../../../.gitbook/assets/image (511).png" alt="" data-size="original">
+
+    1. **支援卡片與按鈕類型**\
+       以下卡片按鈕可以支援設定此點擊觸發動作「分享給 LINE 好友」\
+
+       * 文字訊息 (包含真人客服卡片)
+         * 一般按鈕
+       * 輪播訊息
+         * 點擊圖片動作
+         * 一般按鈕
+       * 圖片輪播訊息
+         * 點擊圖片動作
+         * 一般按鈕
+    2. **限制**
+       1. 僅以下卡片類型可使用模組分享功能\
+
+          * 文字訊息
+          * 圖像訊息
+          * 輪播訊息
+          * 圖片輪播訊息
+          * 圖文訊息
+          * 影片
+       2. 分享模組的按鈕限制如下
+          * 僅允許使用 「URL 類型」 的按鈕動作，例如：
+            * 開啟網址
+            * 分享給 LINE 好友
+          * 若使用其他類型的動作，將會出現錯誤。
+          * 若該區塊包含 LINE 圖文選單，則**不能**使用透明背景。
+    {% endhint %}
 2. **附加動作（選填項目）**
    1. **貼上標籤：**&#x7576;客人按下按鈕時，會自動為該名客人貼上標籤。
    2. **存為自訂屬性（加購功能）：**

@@ -28,6 +28,19 @@
 4. 縮小
 5. 流程全貌
 
+關聯線支援前往下一個模組、返回上一個模組：
+
+1. 游標移到關聯線上時，可以 「預覽」 顯示 「上一個模組及下一個模組」 資訊
+
+<div align="center"><figure><img src="../../../.gitbook/assets/image1 (1).png" alt="" width="563"><figcaption><p>游標移到上方的預覽顯示</p></figcaption></figure></div>
+
+2. 接續點擊 「左鍵」，展開下拉選單可 「前往下一個模組、返回上一個模組」 ; \
+   若下一個模組是 「外部機器人」 的模組，點擊會 「另開分頁」 開啟外部機器人模組的編輯頁面
+
+<div><figure><img src="../../../.gitbook/assets/image2 (2).png" alt=""><figcaption><p>實線（相同模組）</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image3 (3).png" alt=""><figcaption><p>虛線（外部模組）</p></figcaption></figure></div>
+
+
+
 ### 新增模組
 
 <figure><img src="../../../.gitbook/assets/image (482).png" alt="" width="375"><figcaption><p>新增卡片</p></figcaption></figure>
