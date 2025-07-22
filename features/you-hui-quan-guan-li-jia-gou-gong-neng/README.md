@@ -1,14 +1,14 @@
 ---
-description: 可透過 Omnichat 自訂優惠券樣式，並可在不同情境下，不同通訊渠道發送給消費者
+description: 可透過 Omnichat 自訂優惠券樣式，並可在不同情境下，不同社群渠道發送給消費者
 ---
 
 # 優惠券管理（加購功能）
 
 {% hint style="info" %}
-已過期目前可使用的通訊渠道： LINE、Facebook、Instagram 和 WhatsApp 。
+可使用的社群渠道： LINE、Facebook、Instagram 和 WhatsApp ，不包含官網插件
 {% endhint %}
 
-接下來就按照步驟先設計好優惠券的樣式。
+接下來您可依照下列步驟，完成設計優惠券的樣式以及活動細節！
 
 ## 設定優惠券樣式
 
