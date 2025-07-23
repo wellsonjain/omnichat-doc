@@ -294,5 +294,5 @@
 ## 串接整合 <a href="#integration" id="integration"></a>
 
 * [網站用戶行為追蹤](integration/tracking-pixel/README.md)
-  * [在 Shopify Plus 埋設 Omnichat Pixel](integration/tracking-pixel/zai-shopify-plus-mai-she-omnichat-pixel.md)
+  * [在 Shopify 埋設 Omnichat Pixel](integration/tracking-pixel/zai-shopify-mai-she-omnichat-pixel.md)
 * [按鈕事件](integration/an-niu-shi-jian.md)

@@ -10,8 +10,8 @@
 
 如您是使用 Shopify 網站，請點擊以下連結來進行操作：
 
-{% content-ref url="zai-shopify-plus-mai-she-omnichat-pixel.md" %}
-[zai-shopify-plus-mai-she-omnichat-pixel.md](zai-shopify-plus-mai-she-omnichat-pixel.md)
+{% content-ref url="zai-shopify-mai-she-omnichat-pixel.md" %}
+[zai-shopify-mai-she-omnichat-pixel.md](zai-shopify-mai-she-omnichat-pixel.md)
 {% endcontent-ref %}
 
 ## 使用入門
