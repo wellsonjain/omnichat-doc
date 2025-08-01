@@ -127,3 +127,12 @@ description: 適用平台：網站對話插件、Facebook、Instagram、LINE
 #### 新增輪播卡片
 
 往右滑可新增輪播卡片，最多可新增至10張卡片。
+
+<figure><img src="../../../.gitbook/assets/截圖 2025-08-01 下午3.44.48.png" alt=""><figcaption></figcaption></figure>
+
+#### 調整輪播卡片順序
+
+1. 點右側的編輯模組區塊右側邊，並往左拖曳，即可將編輯模組的區塊放大。
+2. 點擊要調整順序的卡片，並往想要的方向拖曳，即可調整卡片的順序。
+
+<figure><img src="../../../.gitbook/assets/Adobe Express - 螢幕錄影 2025-08-01 下午3.48.01.gif" alt=""><figcaption></figcaption></figure>
