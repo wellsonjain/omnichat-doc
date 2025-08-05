@@ -117,6 +117,8 @@ Omnichat 支援使用客人的 「**社群編號**」、「**會員編號**（ *
 注意：「CSV檔案」 與 「社群聯絡人」 的**電話格式須**一致。
 
 舉例來說，如果社群聯絡人的電話是 09xxxxxxxx，那麼在 CSV 檔案中電話的格式也必須是 09xxxxxxxx，且<mark style="color:red;">不要勾選「比對國碼」這個選項</mark>（如果勾選了，因為電話沒有國碼，會導致上傳失敗）。
+
+溫馨提醒：excel 將數值 「格式」 改選 「純文字」 ，則電話前方輸入0時不會被自動移除。
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-04 下午5.06.57.png" alt=""><figcaption></figcaption></figure>
