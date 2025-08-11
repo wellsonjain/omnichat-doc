@@ -43,8 +43,8 @@
   * [Jan 03, 2024](release-note/jan-03-2024.md)
   * [Dec 27, 2023](release-note/dec-27-2023.md)
 * [公告](gong-gao/README.md)
-  * [快速上手 WhatsApp Marketing Messages Lite API](gong-gao/kuai-su-shang-shou-whatsapp-marketing-messages-lite-api.md)
   * [功能名稱調整（9/17 生效）](gong-gao/gong-neng-ming-cheng-diao-zheng-917-sheng-xiao.md)
+  * [快速上手 WhatsApp Marketing Messages Lite API](gong-gao/kuai-su-shang-shou-whatsapp-marketing-messages-lite-api.md)
 
 ## Omnichat 功能教學 <a href="#features" id="features"></a>
 
