@@ -99,3 +99,36 @@ description: 適用平台：LINE
 2. 點擊要調整順序的卡片，並往想要的方向拖曳，即可調整卡片的順序。
 
 <figure><img src="../../../.gitbook/assets/Adobe Express - 圖片輪播換順序.gif" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+#### 常見問題：為什麼我設定的標題沒有出現在推播內容裡？
+
+您設定的「標題」是屬於圖片輪播訊息中的預覽文字，這段文字只會出現在客人收到的新訊息通知以及LINE訊息預覽列表中，不會出現在實際的推播訊息內容裡。
+
+如果您希望讓客人在推播內容中看到標題，建議可以在輪播訊息前方加上一則文字訊息卡片來呈現。
+
+
+
+在推播內容中，圖片輪播訊息前後是否有加入其他卡片，會影響推播後客人看到的訊息預覽，以下是常見的幾種情境：
+
+1. 若推播內容僅有圖片輪播訊息，推播後客人的手機信訊息通知和訊息列表會顯示圖片輪播訊息中的預覽文字。
+2. 若有在圖片輪播訊息**前**加上其他卡片，推播後客人手機的新訊息通知會顯示第一張卡片的文字內容，訊息列表會顯示圖片輪播訊息中的預覽文字。
+3. 若有在圖片輪播訊息**後**加上其他卡片，推播後客人手機的新訊息通知會顯示圖片輪播訊息中的預覽文字，訊息列表會顯示最後一則卡片的文字內容。
+4. 若有在圖片輪播訊息**前**、**後**都加上其他卡片，推播後客人手機的新訊息通知會顯示第一張卡片的文字內容，訊息列表會顯示最後一則卡片的文字內容。
+{% endhint %}
+
+1. 僅有圖片輪播訊息的設定，推播後實際呈現範例：
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-08 at 7.21.43 PM.png" alt=""><figcaption></figcaption></figure>
+
+2. 圖片輪播訊息**前**加上文字訊息卡片，推播後實際呈現範例：
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-09 at 11.54.51 AM.png" alt=""><figcaption></figcaption></figure>
+
+3. 圖片輪播訊息**後**加上文字訊息卡片，推播後實際呈現範例：
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-09 at 11.58.00 AM.png" alt=""><figcaption></figcaption></figure>
+
+4. 圖片輪播訊息**前**、**後**加上文字訊息卡片，推播後實際呈現範例：
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-07-09 at 11.52.00 AM.png" alt=""><figcaption></figcaption></figure>

@@ -36,13 +36,15 @@
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-11-09 at 2.09.04 PM copy.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. 在服務器配置中，您需要填入 `URL` `Token` `EncodingAESKey`這三項資訊 並選擇`明文模式`&#x20;
+#### 2. 在服務器配置中，您需要填入 URL 、Token、EncodingAESKey、Outbound IP這四項資訊 並選擇「明文模式」 。
 
-這三項資訊請向 Omnichat 工作人員索取
+請向您的Omnichat顧問索取以下三項資訊：URL、Token 和 EncodingAESKey，取得後請貼到下方欄位中：
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-11-09 at 2.19.20 PM.png" alt=""><figcaption></figcaption></figure>
 
+Outbound IP則請直接貼到下方位置：
+
+<figure><img src="../../../.gitbook/assets/Screenshot_2025-07-07_at_15_37_20.png" alt=""><figcaption></figcaption></figure>
+
 ## 步驟五 按`提交`後即完成整合
-
-
 
