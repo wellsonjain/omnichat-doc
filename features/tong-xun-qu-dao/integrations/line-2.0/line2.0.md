@@ -187,7 +187,13 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 
 ![](<../../../../.gitbook/assets/串接 line 15.jpg>)
 
+<figure><img src="../../../../.gitbook/assets/勿點擊.jpg" alt=""><figcaption></figcaption></figure>
+
 ![](<../../../../.gitbook/assets/串接 line 16.jpg>)
+
+{% hint style="danger" %}
+點擊 「issue」 完後，請按 「複製」 按鈕，切勿點擊到 「reissue」 這會使得Token重新生成並且在貼回Omnichat時，跳出錯誤訊息 「InvalidChannelAccessToken-Channel access token is invalid」&#x20;
+{% endhint %}
 
 ### 步驟七
 
@@ -229,8 +235,6 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 貼上剛剛在 Omnichat 後台複製的 LINE Webhook 網址，接著按 **"Update"**
 
 ![](<../../../../.gitbook/assets/串接 line 21.jpg>)
-
-
 
 按 "**Verify**"，確保你看見 "Success"
 
