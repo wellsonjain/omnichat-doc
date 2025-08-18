@@ -53,7 +53,7 @@
 * [如何取得 WACA 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#waca-product-feed)
 * [如何取得 SHOPLINE 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#shopline-product-feed)
 * [如何取得 CYBERBIZ 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#cyberbiz-product-feed)
-* [如何取得 Shopify 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#shopify-product-feed)
+* [如何取得 Shopify 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#shopify-product-feed-1)
 * [如何取得 meepShop 產品目網址](shang-chuan-chan-pin-mu-lu-product-feed.md#shopify-product-feed)
 * [如何取得 QDM 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#qdmproductfeed)
 * [如何取得 EasyStore 產品目錄網址](shang-chuan-chan-pin-mu-lu-product-feed.md#shopify-product-feed-2)
@@ -155,14 +155,19 @@ QDM 開店平台的產品目錄格式是固定的，只要在官網網址最後�
 {% endhint %}
 
 1. 請至 Shopify 後台安裝 [**Ako Retargeting Facebook Ads**](https://apps.shopify.com/ako-retargeting?locale=zh-CN)&#x20;
-2. 依照步驟完成 Ako Retargeting 與 Facebook Business 的連結，請參考[教學步驟](https://help.akohub.com/en/articles/6012829-how-to-connect-your-facebook-ad-account-with-akohub)
+2. 依照步驟完成 Ako Retargeting 與 Facebook Business 的連結，請參考 [教學步驟](https://help.akohub.com/en/articles/6012829-how-to-connect-your-facebook-ad-account-with-akohub)
+
+{% hint style="success" %}
+請注意：最後一步，回到Akohub後台，將Facebook Account整合進Ako，請參考此篇 [教學文章](https://akohub.com/help/how-to-connect-my-facebook-account-to-the-ako-marketing-app)
+{% endhint %}
+
 3. 確認 Akohub 的狀態是否都有完成打勾，最後會看到 \
    「You account are connected.」
-4. 確認您的目錄資料在 Facebook 在企業管理平台的狀態為<mark style="color:red;">**「啟用」狀態**</mark>
+4. 登入[Meta Commerce Manager](https://business.facebook.com/commerce/) 確認您的目錄資料在 Facebook 在企業管理平台的狀態為<mark style="color:red;">**「啟用」狀態**</mark>
 
 <figure><img src="../../.gitbook/assets/截圖 2022-10-28 上午11.58.32.png" alt=""><figcaption></figcaption></figure>
 
-5\. 請到 Facebook 企業管理平台的資料來源（Data Source）中，找到新增的產品目錄連結（Product Feed Link），並複製下來/選擇下載 csv.檔案，可參考下列說明：
+5\. 請到 [Meta Commerce Manager](https://business.facebook.com/commerce/) 的資料來源（Data Source）中，找到新增的產品目錄連結（Product Feed Link），並複製下來/選擇下載 csv.檔案，可參考下列說明：
 
 * 選擇使用複製產品目錄連結：請在目錄資料中先篩選為「Ako Catalog XXX」後，再到 Data Source 中複製該連結
 * 選擇使用上傳產品目錄 csv 檔案方式，請到 Data Source 當中後複製您的產品目錄連結到網址列，並下載該檔案
