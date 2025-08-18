@@ -58,6 +58,7 @@
   * [導購連結](features/omnichannel-messenger/dui-hua-xiao-shou-dao-gou-lian-jie.md)
   * [群發訊息（OMO限定）](features/omnichannel-messenger/qun-fa-xun-xi-omo-xian-ding.md)
   * [協作對話](features/omnichannel-messenger/xie-zuo-dui-hua.md)
+  * [LINE群組對話](features/omnichannel-messenger/line-qun-zu-dui-hua.md)
   * [群組對話（WhatsApp限定）](features/omnichannel-messenger/qun-zu-dui-hua-whatsapp-xian-ding.md)
 * [對話](features/omnichannel-messenger-1/README.md)
   * [對話事件狀態](features/omnichannel-messenger-1/case-statuses.md)
