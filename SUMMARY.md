@@ -172,6 +172,8 @@
   * [滿意度調查報表（加購功能）](features/ke-fu-she-ding/man-yi-du-diao-cha-bao-biao-jia-gou-gong-neng.md)
   * [管理預存回覆](features/ke-fu-she-ding/guan-li-yu-cun-hui-fu.md)
   * [對話設定](features/ke-fu-she-ding/dui-hua-she-ding.md)
+* [✨ Omni AI（加購功能）](features/omni-ai-jia-gou-gong-neng/README.md)
+  * [Omni AI 使用範例](features/omni-ai-jia-gou-gong-neng/omni-ai-shi-yong-fan-li.md)
 * [遊戲模組（加購功能）](features/you-xi-mo-zu-jia-gou-gong-neng/README.md)
   * [遊戲列表](features/you-xi-mo-zu-jia-gou-gong-neng/you-xi-lie-biao.md)
   * [驚喜重重扭蛋](features/you-xi-mo-zu-jia-gou-gong-neng/jing-xi-chong-chong-niu-dan.md)
