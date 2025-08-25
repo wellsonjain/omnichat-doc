@@ -2,7 +2,7 @@
 
 Omnichat 支援製作 Facebook / Instagram 貼文留言自動回覆及貼文私訊回覆功能，讓用戶可以透過 Omnichat 製作 Facebook / Instagram 貼文自動廣告活動
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 設定前注意事項
 

@@ -23,6 +23,12 @@ description: 如何在 Google Tag Manager 上安裝 Omnichat？
 
 登入您的 Google Tag Manager 帳戶 [https://tagmanager.google.com](https://tagmanager.google.com/)
 
+{% hint style="info" %}
+請注意：若目前要安裝對話插件的網站為「自建官網」，或是之前未曾在網站中安裝過Google Tag Manager，請先參考[Google官方說明](https://support.google.com/tagmanager/answer/14842164)，將GTM容器安裝到您的網站中唷！
+{% endhint %}
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## 步驟 4
 
 添加新帳戶並設置 **帳戶名稱、國家/地區、容器名稱**，並在 「目標廣告平台」 選擇 **網路**
