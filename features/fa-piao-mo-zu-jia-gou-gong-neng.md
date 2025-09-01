@@ -56,7 +56,7 @@ https://pages.omnichat.ai/liff-bind.html?liffId={你的 LIFF ID}
 
 ### 步驟一、基本內容
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 首先，請先設定活動的基本內容，包含以下項目：
 
