@@ -35,7 +35,7 @@ Call an API卡片可以做到：
 
 資料查詢的功能是根據顧客想要搜尋的資料，透過品牌提供的 API 連接資料庫，將搜尋結果回傳至 Omnichat，Omnichat 再將資料轉換為機器人訊息，發送到顧客的社群渠道。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>利用 Call an API 卡片查詢資料</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>利用 Call an API 卡片查詢資料</p></figcaption></figure>
 
 {% hint style="info" %}
 從品牌資料庫回傳的查詢結果，會以訊息的形式呈現給社群渠道好友，但這些資料不會儲存在 Omnichat 的[自訂屬性](https://docs.omnichat.ai/features/she-qun-ke-hu-zi-liao-ping-tai/zi-ding-shu-xing-jia-gou-gong-neng)中。
@@ -43,7 +43,7 @@ Call an API卡片可以做到：
 
 3. **✅ 呼叫其他系統執行動作：**&#x4F8B;如發Email、SMS簡訊、App通知等。
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Call an API 卡片也可以呼叫其他系統執行動作</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Call an API 卡片也可以呼叫其他系統執行動作</p></figcaption></figure>
 
 ## Call an API 應用情境
 
@@ -101,6 +101,6 @@ Call an API卡片可以做到：
 系統會透過 Call an API 卡片，將顧客的自訂屬性資料傳送至品牌的資料庫，資料庫隨後會回傳填寫或報名是否成功的訊息至 Omnichat，最後再以Chatbot訊息通知顧客填寫/報名結果。
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>將顧客的個人資料回傳至品牌資料庫</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>將顧客的個人資料回傳至品牌資料庫</p></figcaption></figure>
 
 如果您想要了解更多應用情境，歡迎到[官網首頁](https://www.omnichat.ai/tw/)右下角，點選對話插件詢問Omnichat客服團隊🙌
