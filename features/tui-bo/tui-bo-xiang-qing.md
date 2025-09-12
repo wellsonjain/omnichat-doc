@@ -108,3 +108,6 @@
 
 <figure><img src="../../.gitbook/assets/推播名單.png" alt=""><figcaption><p>推播名單及發送狀態</p></figcaption></figure>
 
+{% hint style="info" %}
+「已退訂封鎖」 指的是在收到推播訊息後 24 小時內選擇退訂或封鎖的聯絡人。
+{% endhint %}
