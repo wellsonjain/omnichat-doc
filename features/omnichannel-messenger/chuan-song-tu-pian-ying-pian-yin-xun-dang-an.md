@@ -8,23 +8,36 @@ description: 你可以透過 Omnichat 客服平台在各個通訊渠道傳送圖
 
 目前 Omnichat 客服平台針對各個通訊渠道可傳送的檔案類型支援如下表：
 
-| 通訊渠道          | 圖片          | 影片           | 音訊           | 檔案    | 大小限制       |
-| ------------- | ----------- | ------------ | ------------ | ----- | ---------- |
-| **官方網站對話插件**  | ✔           | **✕**        | **✕**        | **✕** | 10MB       |
-| **Facebook**  | ✔           | ✔            | ✔            | ✔     | 8MB        |
-| **Instagram** | ✔           | **✕**        | **✕**        | **✕** |            |
-| **LINE**      | ✔           | ✔            | ✔            | **✕** | 50MB       |
-| **WhatsApp**  | ✔**（5 MB）** | ✔**（16 MB）** | ✔**（16 MB）** | ✔     | 依照檔案類型有所不同 |
+| 通訊渠道          | 圖片          | 影片           | 音訊           | 檔案           | 大小限制       |
+| ------------- | ----------- | ------------ | ------------ | ------------ | ---------- |
+| **官方網站對話插件**  | ✔           | **✕**        | **✕**        | **✕**        | 10MB       |
+| **Facebook**  | ✔           | ✔            | ✔            | ✔            | 8MB        |
+| **Instagram** | ✔           | **✕**        | **✕**        | **✕**        |            |
+| **LINE**      | ✔           | ✔            | ✔            | ✔ **（64MB)** | 50MB       |
+| **WhatsApp**  | ✔**（5 MB）** | ✔**（16 MB）** | ✔**（16 MB）** | ✔            | 依照檔案類型有所不同 |
 
 * Facebook 圖片檔案大小建議小於等於 **1 MB**
-* LINE 渠道支援影片類型為 MOV、MP4 檔
+* LINE 渠道支援影片類型為 **MOV**、**MP4** 檔 ; 支援常見檔案 e.g: **csv、pdf、txt、excel、psd、ai、ppt、docx、doc** 檔案類型（<mark style="color:red;">不支援 .</mark><mark style="color:red;">**exe**</mark> <mark style="color:red;"></mark><mark style="color:red;">格式檔案</mark> ）
 * 官網對話插件/Facebook/LINE/WhatsApp 圖片類型支援 **JPG、JPEG、PNG**
 
 ## 使用方法
 
-按下圖箭頭處的 「**＋**」 按鈕即可選擇要傳送的檔案類型。
+按下圖箭頭處的 「**＋**」 按鈕即可選擇要傳送的檔案類型（圖片/影片/音訊/檔案）。以下舉 「檔案」 為例：
 
-<figure><img src="../../.gitbook/assets/截圖 2024-03-27 下午1.52.10.png" alt="" width="375"><figcaption></figcaption></figure>
+**LINE上傳檔案**
+
+{% hint style="info" %}
+下載效期限制（LINE限定）：
+
+* 目前只有 1:1 發送有效期限制 ; 預存回覆以及群發則無效期限制。
+* 固定為一個月，使用 UTC 時間計算。e.g. 9/15 11:49 上傳，會被視為 UTC 9/16 00:00 上傳。+30 天之後，到期日為 10/16 08:00。
+{% endhint %}
+
+<div><figure><img src="../../.gitbook/assets/中文上傳檔案欄位 (2).jpg" alt=""><figcaption><p>品牌端上傳檔案</p></figcaption></figure> <figure><img src="../../.gitbook/assets/LINE顧客端1.jpg" alt="" width="158"><figcaption><p>顧客端收到檔案</p></figcaption></figure></div>
+
+**FB, WhatsApp上傳檔案**
+
+<div><figure><img src="../../.gitbook/assets/FB, WA上傳檔案.jpg" alt=""><figcaption><p>品牌端上傳檔案</p></figcaption></figure> <figure><img src="../../.gitbook/assets/fb顧客端.jpg" alt="" width="160"><figcaption><p>FB顧客端</p></figcaption></figure> <figure><img src="../../.gitbook/assets/wa 顧客端.jpg" alt="" width="159"><figcaption><p>WA顧客端</p></figcaption></figure></div>
 
 ## 傳送WhatsApp 貼圖包、LINE官方貼圖
 
