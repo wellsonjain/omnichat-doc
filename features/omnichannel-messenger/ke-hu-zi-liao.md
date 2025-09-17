@@ -45,7 +45,7 @@ WhatsApp 對話事件會自動帶入客戶電話號碼欄位，**不提供修改
 <div><figure><img src="../../.gitbook/assets/真１.webp" alt=""><figcaption><p>重複貼標提醒</p></figcaption></figure> <figure><img src="../../.gitbook/assets/1.webp" alt=""><figcaption><p>標籤頻次查看</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2.webp" alt=""><figcaption><p>標籤頻次時間篩選</p></figcaption></figure></div>
 
 {% hint style="info" %}
-「[標籤管理](../she-qun-ke-hu-zi-liao-ping-tai/biao-qian.md)」 → **依時間區間篩選：**
+「[標籤管理](../she-qun-ke-hu-zi-liao-ping-tai/biao-qian-guan-li.md)」 → **依時間區間篩選：**
 
 * 可以選擇時間區間，並匯出 **貼標統計數據** 或 **貼標逐筆紀錄**（查看每個客人在什麼渠道、透過什麽方式被貼上標籤）
 * 目前最多僅能選擇30天的資料匯出
