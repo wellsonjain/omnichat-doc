@@ -187,7 +187,7 @@
   * [強運滾滾拉霸](features/you-xi-mo-zu-jia-gou-gong-neng/qiang-yun-gun-gun-la-ba.md)
   * [遊戲模組應用](features/you-xi-mo-zu-jia-gou-gong-neng/you-xi-mo-zu-ying-yong.md)
   * [常見問題](features/you-xi-mo-zu-jia-gou-gong-neng/chang-jian-wen-ti.md)
-* [發票模組（加購功能）](features/fa-piao-mo-zu-jia-gou-gong-neng.md)
+* [發票活動（加購功能）](features/fa-piao-huo-dong-jia-gou-gong-neng.md)
 * [統計表](features/tong-ji-biao/README.md)
   * [聊天統計（新版）](features/tong-ji-biao/chat-dashboard-new.md)
   * [轉換率分析](features/tong-ji-biao/funnel/README.md)
