@@ -4,7 +4,11 @@ description: >-
   等等，讓客戶只需使用Omnichat 一個後台，便能管理所有 Messenger Channels 的客人及訊息。
 ---
 
-# 串接社群通訊渠道
+# 社群帳號
+
+{% hint style="info" %}
+此功能原名稱：串接社群通訊渠道
+{% endhint %}
 
 ## 以下是各個 Messenger Channels 整合到 Omnichat 的教學
 

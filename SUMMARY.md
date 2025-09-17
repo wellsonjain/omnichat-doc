@@ -226,7 +226,7 @@
     * [對話插件設定](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/webchat-setting.md)
     * [社群資訊設定](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/she-qun-zi-xun-she-ding.md)
     * [調整網站對話插件顯示](features/tong-xun-qu-dao/wang-zhan-dui-hua-cha-jian/zi-hang-diao-zheng-wang-zhan-dui-hua-cha-jian-wei-zhi.md)
-  * [串接社群通訊渠道](features/tong-xun-qu-dao/integrations/README.md)
+  * [社群帳號](features/tong-xun-qu-dao/integrations/README.md)
     * [Facebook Messenger | 整合到 Omnichat](features/tong-xun-qu-dao/integrations/facebook-messenger.md)
     * [Instagram Messenger | 整合到 Omnichat](features/tong-xun-qu-dao/integrations/instagram.md)
     * [LINE 整合到 Omnichat](features/tong-xun-qu-dao/integrations/line-2.0/README.md)
