@@ -2,7 +2,11 @@
 description: 此功能支援品牌儲存常用條件、將條件快速應用至推播
 ---
 
-# 受眾管理（加購項目）
+# 受眾分群  （加購項目）
+
+{% hint style="info" %}
+此功能原名稱：受眾管理
+{% endhint %}
 
 * 建立受眾包
 * [受眾管理列表](./#shou-zhong-guan-li-lie-biao)
