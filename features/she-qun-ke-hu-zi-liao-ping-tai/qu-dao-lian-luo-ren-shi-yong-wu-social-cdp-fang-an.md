@@ -1,8 +1,12 @@
 ---
-description: 適用檢視各社群渠道聯絡人資訊，精準掌握顧客輪廓。
+description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧客輪廓。
 ---
 
-# 社群聯絡人（適用於 Social CDP 方案）
+# 渠道聯絡人（適用於 Social CDP 方案）
+
+{% hint style="info" %}
+此功能原名稱：**社群聯絡人**
+{% endhint %}
 
 ## 社群聯絡人介面介紹（Social CDP 方案限定）
 
@@ -186,7 +190,7 @@ description: 適用檢視各社群渠道聯絡人資訊，精準掌握顧客輪�
   * Facebook - PSID
   * Instagram - IGSID
   * WhatsApp - 電話號碼
-* 若要匯出特定條件的聯絡人，請先使用下方的“[搜尋](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#guan-wu-sou-xun)”功能，先篩選出特定聯絡人再匯出。
+* 若要匯出特定條件的聯絡人，請先使用下方的“[搜尋](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#guan-wu-sou-xun)”功能，先篩選出特定聯絡人再匯出。
 * 若無需篩特定條件的聯絡人，直接選擇"匯出"，即可導出該渠道所有聯絡人資料。
 
 {% hint style="info" %}
@@ -208,7 +212,7 @@ description: 適用檢視各社群渠道聯絡人資訊，精準掌握顧客輪�
 
 
 
-篩選條件分為[顧客條件](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#gu-ke-tiao-jian)、[時間相關](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#shi-jian-xiang-guan)、[互動情形](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#hu-dong-qing-xing)、[OMO相關](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#omo-xiang-guan-you-gou-mai-omo-fang-an-cai-hui-xian-shi)（有購買OMO方案才會顯示）。
+篩選條件分為[顧客條件](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#gu-ke-tiao-jian)、[時間相關](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#shi-jian-xiang-guan)、[互動情形](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#hu-dong-qing-xing)、[OMO相關](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#omo-xiang-guan-you-gou-mai-omo-fang-an-cai-hui-xian-shi)（有購買OMO方案才會顯示）。
 
 ### 顧客條件
 
