@@ -12,8 +12,8 @@
 2. 可依照標籤去搜尋預存回覆
 3. 編輯、刪除或調整預存回覆可點擊，詳細說明請參考客服設定內的『管理預存回覆』
 
-{% content-ref url="../ke-fu-she-ding/yu-cun-hui-fu.md" %}
-[yu-cun-hui-fu.md](../ke-fu-she-ding/yu-cun-hui-fu.md)
+{% content-ref url="../ke-fu-she-ding/guan-li-yu-cun-hui-fu.md" %}
+[guan-li-yu-cun-hui-fu.md](../ke-fu-she-ding/guan-li-yu-cun-hui-fu.md)
 {% endcontent-ref %}
 
 ### 點選所需的純文字預存回覆，其內容會自動被貼到你的訊息輸入框

@@ -2,7 +2,11 @@
 description: 遊戲模組主要是提供給 Omnichat 用戶的行銷工具，需額外付費才能使用。
 ---
 
-# 遊戲模組（加購功能）
+# 互動遊戲  （加購功能）
+
+{% hint style="info" %}
+此功能原名稱：遊戲模組
+{% endhint %}
 
 想試用的客戶可以直接到 LINE 遊戲市集申請新帳號免費試用 14 天喔 \
 → LINE 遊戲市集：[https://tw.line-oa-marketplace.com/list/omnichat-lottery](https://tw.line-oa-marketplace.com/list/omnichat-lottery)
