@@ -10,8 +10,8 @@ description: 適用平台：支援 Facebook、Instagram、LINE、WhatsApp ； We
 
 此張卡片是為搭配 Social CDP 方案當中的 「跨社群整合 / Omnilink」 功能，若需要設定相關活動細節，您可以參考下方頁面進行更多設定
 
-{% content-ref url="../../she-qun-bang-ding-guan-li/kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng/" %}
-[kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng](../../she-qun-bang-ding-guan-li/kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng/)
+{% content-ref url="../../she-qun-bang-ding-guan-li/omnilink-jia-gou-gong-neng/" %}
+[omnilink-jia-gou-gong-neng](../../she-qun-bang-ding-guan-li/omnilink-jia-gou-gong-neng/)
 {% endcontent-ref %}
 
 以下為設定步驟說明！
@@ -26,8 +26,8 @@ description: 適用平台：支援 Facebook、Instagram、LINE、WhatsApp ； We
 
 詳細的設定細節說明，請參考以下頁面
 
-{% content-ref url="../../she-qun-bang-ding-guan-li/kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng/" %}
-[kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng](../../she-qun-bang-ding-guan-li/kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng/)
+{% content-ref url="../../she-qun-bang-ding-guan-li/omnilink-jia-gou-gong-neng/" %}
+[omnilink-jia-gou-gong-neng](../../she-qun-bang-ding-guan-li/omnilink-jia-gou-gong-neng/)
 {% endcontent-ref %}
 
 <figure><img src="../../../.gitbook/assets/omnilink-2.png" alt=""><figcaption></figcaption></figure>
