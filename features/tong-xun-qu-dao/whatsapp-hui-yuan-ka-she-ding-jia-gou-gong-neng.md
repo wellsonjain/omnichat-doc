@@ -4,7 +4,7 @@ description: >-
   在會員資訊上的資訊設定
 ---
 
-# WhatsApp 會員卡設定（加購功能）
+# WhatsApp 會員卡（加購功能）
 
 
 
