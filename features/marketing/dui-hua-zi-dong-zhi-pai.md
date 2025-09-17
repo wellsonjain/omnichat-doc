@@ -2,7 +2,11 @@
 description: Omnichat 支援以關鍵字自動指派事件到特定團隊成員，可應用於網站插件，Facebook Messenger，Line 及 WhatsApp 上
 ---
 
-# 關鍵字自動指派2.0
+# 對話自動指派
+
+{% hint style="info" %}
+此功能原名稱：關鍵字自動指派
+{% endhint %}
 
 {% hint style="danger" %}
 請注意！關鍵字自動指派只有當該對話位於 「待處理」、「機器人」 及 「已結束」 的狀態時才會觸發，「處理中」 的對話我們視為已經由真人接手，所以不會觸發關鍵字自動指派。&#x20;

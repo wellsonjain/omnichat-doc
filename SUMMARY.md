@@ -162,7 +162,7 @@
   * [關鍵字自動回覆](features/marketing/keyword-autoreply.md)
   * [訊息自動回覆](features/marketing/xun-xi-zi-dong-hui-fu.md)
   * [關鍵字自動指派](features/marketing/keyword-auto-assign.md)
-  * [關鍵字自動指派](features/marketing/guan-jian-zi-zi-dong-zhi-pai.md)
+  * [對話自動指派](features/marketing/dui-hua-zi-dong-zhi-pai.md)
   * [LINE 圖文選單](features/marketing/line-tu-wen-xuan-dan/README.md)
     * [活用圖文選單](features/marketing/line-tu-wen-xuan-dan/huo-yong-tu-wen-xuan-dan.md)
   * [LINE 圖文訊息](features/marketing/line-tu-wen-xun-xi.md)
