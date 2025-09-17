@@ -2,7 +2,11 @@
 description: 能夠串接不同的 CRM 或開店平台進行資料的同步，在開始串接前，請先向您的專屬顧問確認您的方案中有包含這些串接平台的權限
 ---
 
-# 串接應用程式
+# 第三方應用
+
+{% hint style="info" %}
+此功能原名稱：串接應用程式
+{% endhint %}
 
 {% content-ref url="chuan-jie-shopline.md" %}
 [chuan-jie-shopline.md](chuan-jie-shopline.md)

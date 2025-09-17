@@ -12,8 +12,8 @@
 [automated-messages](automated-messages/)
 {% endcontent-ref %}
 
-{% content-ref url="chuan-jie-ying-yong-cheng-shi/" %}
-[chuan-jie-ying-yong-cheng-shi](chuan-jie-ying-yong-cheng-shi/)
+{% content-ref url="di-san-fang-ying-yong/" %}
+[di-san-fang-ying-yong](di-san-fang-ying-yong/)
 {% endcontent-ref %}
 
 {% content-ref url="91app-hui-yuan-she-ding.md" %}
