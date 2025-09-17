@@ -2,7 +2,11 @@
 description: 整合不同渠道聯絡人為單一顧客（Omni-customer），更精準掌握顧客輪廓。
 ---
 
-# 顧客管理（Social CDP 方案）
+# 顧客檔案（Social CDP 方案）
+
+{% hint style="info" %}
+此功能原名稱：顧客管理
+{% endhint %}
 
 ## 顧客介面(1-5)
 
