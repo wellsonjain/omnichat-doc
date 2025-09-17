@@ -12,6 +12,6 @@ description: 相關綁定功能請查看下列分頁。
 [shou-ji-bang-ding-jia-gou-gong-neng.md](shou-ji-bang-ding-jia-gou-gong-neng.md)
 {% endcontent-ref %}
 
-{% content-ref url="omnilink-jia-gou-gong-neng/" %}
-[omnilink-jia-gou-gong-neng](omnilink-jia-gou-gong-neng/)
+{% content-ref url="kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng/" %}
+[kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng](kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng/)
 {% endcontent-ref %}

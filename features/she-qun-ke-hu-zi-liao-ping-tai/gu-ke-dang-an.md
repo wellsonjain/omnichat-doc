@@ -1,8 +1,12 @@
 ---
-description: 整合官網聯絡人會員資訊，如您需移除或查看社群上如 LINE/Facebook/Instagram 好友相關資訊，可至社群聯絡人2.0 查看
+description: 整合官網聯絡人會員資訊，如您需移除或查看社群上如 LINE/Facebook/Instagram 好友相關資訊，可至社群聯絡人2.0 查看檔案
 ---
 
-# 顧客管理
+# 顧客檔案
+
+{% hint style="info" %}
+此功能原名稱：顧客管理
+{% endhint %}
 
 ## 顧客管理介面
 
