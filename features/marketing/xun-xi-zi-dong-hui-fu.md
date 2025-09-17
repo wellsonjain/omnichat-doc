@@ -4,7 +4,11 @@ description: >-
   官方帳號、Instagram 及 WhatsApp 等渠道上。
 ---
 
-# 關鍵字自動回覆2.0
+# 訊息自動回覆
+
+{% hint style="info" %}
+此功能原名稱：關鍵字自動回覆
+{% endhint %}
 
 {% hint style="info" %}
 * 關鍵字自動回覆只有當該對話位於 「待處理」、「機器人」 及 「已結束」 的狀態時才會觸發。

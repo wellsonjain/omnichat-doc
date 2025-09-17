@@ -199,7 +199,7 @@ AI Agent 卡片共有三個部分：
 
 #### 第三步：依照服務流程，將 AI Agent 卡片置於特定模組中，串接成完整體驗
 
-您可以根據實際需求，將 AI Agent 卡片安排在適合的流程節點中，例如放在[歡迎訊息](https://console.omnichat.ai/channel-preset-messages)或[圖文選單](../marketing/line-tu-wen-xuan-dan/)的某個動作內，讓顧客主動點選進入 AI 問答，也可以搭配[關鍵字自動回覆](../marketing/guan-jian-zi-zi-dong-hui-fu.md)來觸發 AI Agent 卡片，靈活設計符合使用情境的互動方式。
+您可以根據實際需求，將 AI Agent 卡片安排在適合的流程節點中，例如放在[歡迎訊息](https://console.omnichat.ai/channel-preset-messages)或[圖文選單](../marketing/line-tu-wen-xuan-dan/)的某個動作內，讓顧客主動點選進入 AI 問答，也可以搭配[關鍵字自動回覆](../marketing/xun-xi-zi-dong-hui-fu.md)來觸發 AI Agent 卡片，靈活設計符合使用情境的互動方式。
 
 #### AI Agent 卡片觸發流程 & AI 對話處理
 
