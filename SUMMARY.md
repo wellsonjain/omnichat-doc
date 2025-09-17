@@ -263,7 +263,7 @@
     * [串接 Insider](features/tong-xun-qu-dao/chuan-jie-ying-yong-cheng-shi/chuan-jie-insider.md)
   * [91APP 會員設定](features/tong-xun-qu-dao/91app-hui-yuan-she-ding.md)
   * [LINE 通知快捷（加購功能）](features/tong-xun-qu-dao/linenotify.md)
-  * [LINE 會員卡設定（加購功能）](features/tong-xun-qu-dao/line-hui-yuan-ka-she-ding-jia-gou-gong-neng.md)
+  * [LINE 會員卡（加購功能）](features/tong-xun-qu-dao/line-hui-yuan-ka-jia-gou-gong-neng.md)
   * [WhatsApp 會員卡設定（加購功能）](features/tong-xun-qu-dao/whatsapp-hui-yuan-ka-she-ding-jia-gou-gong-neng.md)
   * [LINE Flex Message（加購功能）](features/tong-xun-qu-dao/line-flex-message-jia-gou-gong-neng.md)
 * [OMO 設定](features/omo-she-ding/README.md)

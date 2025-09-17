@@ -20,6 +20,6 @@
 [91app-hui-yuan-she-ding.md](91app-hui-yuan-she-ding.md)
 {% endcontent-ref %}
 
-{% content-ref url="line-hui-yuan-ka-she-ding-jia-gou-gong-neng.md" %}
-[line-hui-yuan-ka-she-ding-jia-gou-gong-neng.md](line-hui-yuan-ka-she-ding-jia-gou-gong-neng.md)
+{% content-ref url="line-hui-yuan-ka-jia-gou-gong-neng.md" %}
+[line-hui-yuan-ka-jia-gou-gong-neng.md](line-hui-yuan-ka-jia-gou-gong-neng.md)
 {% endcontent-ref %}
