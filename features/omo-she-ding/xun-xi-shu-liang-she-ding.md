@@ -2,7 +2,11 @@
 description: OMO 訊息數量設定可讓品牌自行控管店櫃人員發送訊息數量，以避免訊息過度發送。
 ---
 
-# OMO 訊息數量設定
+# 訊息數量設定
+
+{% hint style="info" %}
+此功能原名稱：OMO 訊息數量設定
+{% endhint %}
 
 {% hint style="info" %}
 目前有支援 LINE、WhatsApp 兩種社群渠道。

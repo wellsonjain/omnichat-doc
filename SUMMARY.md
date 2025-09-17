@@ -271,7 +271,7 @@
   * [建立店員（銷售人員）](features/omo-she-ding/jian-li-dian-yuan.md)
   * [店員排班](features/omo-she-ding/dian-yuan-pai-ban-guan-li.md)
   * [店員綁定設定](features/omo-she-ding/omo-bang-ding-she-ding.md)
-  * [OMO 訊息數量設定](features/omo-she-ding/omo-xun-xi-shu-liang-she-ding.md)
+  * [訊息數量設定](features/omo-she-ding/xun-xi-shu-liang-she-ding.md)
   * [匯出店員 QR Code](features/omo-she-ding/hui-chu-dian-yuan-qr-code.md)
   * [修改聯絡人綁定](features/omo-she-ding/xiu-gai-lian-luo-ren-bang-ding.md)
 * [開發者中心](features/kai-fa-zhe-zhong-xin/README.md)
