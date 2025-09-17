@@ -73,7 +73,7 @@
   * [群發訊息（OMO限定）](features/omnichannel-messenger-1/qun-fa-xun-xi-omo-xian-ding.md)
   * [群組對話（WhatsApp限定）](features/omnichannel-messenger-1/qun-zu-dui-hua-whatsapp-xian-ding.md)
 * [社群綁定管理](features/she-qun-bang-ding-guan-li/README.md)
-  * [社群身份綁定](features/she-qun-bang-ding-guan-li/social-subscriber-integration/README.md)
+  * [官網綁定](features/she-qun-bang-ding-guan-li/social-subscriber-integration/README.md)
     * [訂單通知機器人插件（WACA 用戶限定）](features/she-qun-bang-ding-guan-li/social-subscriber-integration/ding-dan-tong-zhi-ji-qi-ren-cha-jian-waca-yong-hu-xian-ding.md)
   * [手機綁定（加購功能）](features/she-qun-bang-ding-guan-li/shou-ji-bang-ding-jia-gou-gong-neng.md)
   * [跨社群一鍵整合/Omnilink (加購功能)](features/she-qun-bang-ding-guan-li/kua-she-qun-yi-jian-zheng-he-omnilink-jia-gou-gong-neng/README.md)
