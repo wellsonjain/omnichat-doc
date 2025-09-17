@@ -15,7 +15,7 @@ description: >-
 {% hint style="info" %}
 若需要自動同步串接官網會員資料，請先確認是否已完成以下功能後，再接續進行會員卡設定：
 
-* 條件 1 [串接應用程式 SHOPLINE](di-san-fang-ying-yong/chuan-jie-shopline.md) / [串接應用程式CYBERBIZ](di-san-fang-ying-yong/chuan-jie-cyberbiz.md)
+* 條件 1 [串接應用程式 SHOPLINE](chuan-jie-ying-yong-cheng-shi/chuan-jie-shopline.md) / [串接應用程式CYBERBIZ](chuan-jie-ying-yong-cheng-shi/chuan-jie-cyberbiz.md)
 * 條件 2[ 手機綁定](../she-qun-bang-ding-guan-li/shou-ji-bang-ding-jia-gou-gong-neng.md)
 {% endhint %}
 
