@@ -122,7 +122,7 @@ description: 透過 「手機綁定」 功能，可讓顧客於 LINE 上查看�
   1.支援觸發顧客旅程\
   2.支援依照標籤切換圖文選單
 * 若是已完成手機綁定的客人再次完成手機綁定，不支援再次貼標
-* 若需解除綁定，可至[社群聯絡人](../she-qun-ke-hu-zi-liao-ping-tai/she-qun-lian-luo-ren.md)
+* 若需解除綁定，可至[社群聯絡人](../she-qun-ke-hu-zi-liao-ping-tai/qu-dao-lian-luo-ren.md)
 
 ## 手機綁定 - 「顧客端」 畫面
 

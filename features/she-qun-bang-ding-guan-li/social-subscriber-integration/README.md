@@ -21,7 +21,7 @@ description: >-
 
 ### 不只是成為訂閱中的聯絡人
 
-在官網按下 「社群訂閱按鈕」 的訪客，如果有完成後續的訂閱流程，會成為 **「有綁定身份」** 的聯絡人，您可以在後台 「[社群聯絡人](../../she-qun-ke-hu-zi-liao-ping-tai/she-qun-lian-luo-ren.md)」 頁面，看到消費者的訂閱狀態、加入訂閱時間、是否綁定官網（於動作當中點擊看到更多）
+在官網按下 「社群訂閱按鈕」 的訪客，如果有完成後續的訂閱流程，會成為 **「有綁定身份」** 的聯絡人，您可以在後台 「[社群聯絡人](../../she-qun-ke-hu-zi-liao-ping-tai/qu-dao-lian-luo-ren.md)」 頁面，看到消費者的訂閱狀態、加入訂閱時間、是否綁定官網（於動作當中點擊看到更多）
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-05-21 下午4.23.08.png" alt=""><figcaption></figcaption></figure>
 

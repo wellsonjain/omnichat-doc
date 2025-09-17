@@ -220,7 +220,7 @@ hidden: true
 
 ![當消費者發送關鍵字，會觸發關鍵字自動回覆，並且同時被貼上標籤](../../.gitbook/assets/屈臣氏2.jpg)
 
-步驟三：到『聯絡人及推播訊息』LINE 官方帳號列表中，可以看到被貼上標籤的消費者，後續可以篩選出被貼上標籤的聯絡人（請參考[社群聯絡人2.0](../she-qun-ke-hu-zi-liao-ping-tai/she-qun-lian-luo-ren.md)）
+步驟三：到『聯絡人及推播訊息』LINE 官方帳號列表中，可以看到被貼上標籤的消費者，後續可以篩選出被貼上標籤的聯絡人（請參考[社群聯絡人2.0](../she-qun-ke-hu-zi-liao-ping-tai/qu-dao-lian-luo-ren.md)）
 
 ![](../../.gitbook/assets/屈臣氏標籤.png)
 
