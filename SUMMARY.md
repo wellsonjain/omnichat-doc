@@ -89,7 +89,7 @@
     * [串接 LINE 廣告帳號](features/she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-fen-qun-jia-gou-xiang-mu/chuan-jie-line-guang-gao-zhang-hao.md)
     * [建立 LINE 廣告受眾](features/she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-fen-qun-jia-gou-xiang-mu/jian-li-line-guang-gao-shou-zhong.md)
   * [自訂屬性（加購功能）](features/she-qun-ke-hu-zi-liao-ping-tai/zi-ding-shu-xing-jia-gou-gong-neng.md)
-  * [標籤管理](features/she-qun-ke-hu-zi-liao-ping-tai/biao-qian-guan-li.md)
+  * [標籤](features/she-qun-ke-hu-zi-liao-ping-tai/biao-qian.md)
   * [匯入顧客資料](features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/README.md)
     * [匯入顧客名單](features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-gu-ke-ming-dan.md)
     * [匯入社群聯絡人](features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-she-qun-lian-luo-ren.md)
