@@ -172,7 +172,7 @@
 * [優惠券（加購功能）](features/you-hui-quan-jia-gou-gong-neng/README.md)
   * [如何觸發優惠券](features/you-hui-quan-jia-gou-gong-neng/ru-he-chu-fa-you-hui-quan.md)
 * [客服設定](features/ke-fu-she-ding/README.md)
-  * [滿意度調查設定（加購功能）](features/ke-fu-she-ding/man-yi-du-diao-cha-she-ding-jia-gou-gong-neng.md)
+  * [滿意度調查（加購功能）](features/ke-fu-she-ding/man-yi-du-diao-cha-jia-gou-gong-neng.md)
   * [滿意度調查報表（加購功能）](features/ke-fu-she-ding/man-yi-du-diao-cha-bao-biao-jia-gou-gong-neng.md)
   * [管理預存回覆](features/ke-fu-she-ding/guan-li-yu-cun-hui-fu.md)
   * [對話設定](features/ke-fu-she-ding/dui-hua-she-ding.md)

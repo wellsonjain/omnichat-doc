@@ -2,7 +2,11 @@
 description: 想從客人端得知對於客服回覆速度及品質的評價嗎？可以透過開啟滿意度調查得知喔！
 ---
 
-# 滿意度調查設定（加購功能）
+# 滿意度調查（加購功能）
+
+{% hint style="info" %}
+此功能原名稱：滿意度調查設定
+{% endhint %}
 
 {% hint style="info" %}
 1. 此功能適用於所有渠道事件。包含官網插件、Facebook、Instagram、LINE 及 WhatsApp
