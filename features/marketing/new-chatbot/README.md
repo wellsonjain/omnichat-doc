@@ -4,9 +4,13 @@ description: >-
   後台可以使用到的機器人卡片
 ---
 
-# 自助設計機器人 2.0
+# 聊天機器人 2.0
 
 {% embed url="https://www.loom.com/share/89fbb16faf904a59a5e82da163cfd5f1?sid=17ccfda9-edc1-419f-a8fa-0584b0c384b6" %}
+
+{% hint style="info" %}
+此功能原名稱：自助設計機器人
+{% endhint %}
 
 ### 以下根據適用平台與卡片種類逐一列出，可點擊卡片名稱查看設定細節
 

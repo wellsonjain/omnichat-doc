@@ -136,7 +136,7 @@
       * [91APP 會員綁定 vs Omnichat 會員綁定](features/marketing/chatbot-builder/ji-qi-ren-mo-zu-91app-yong-hu-xian-ding/91app-hui-yuan-bang-ding-vs-omnichat-hui-yuan-bang-ding.md)
     * [機器人自訂屬性（加購功能）](features/marketing/chatbot-builder/ji-qi-ren-zi-ding-shu-xing-jia-gou-gong-neng.md)
     * [機器人Dynamic API（加購功能）](features/marketing/chatbot-builder/ji-qi-ren-dynamic-api-jia-gou-gong-neng.md)
-  * [自助設計機器人 2.0](features/marketing/new-chatbot/README.md)
+  * [聊天機器人 2.0](features/marketing/new-chatbot/README.md)
     * [編輯頁](features/marketing/new-chatbot/bian-ji-ye.md)
     * [文字訊息](features/marketing/new-chatbot/wen-zi-xun-xi.md)
     * [圖像訊息](features/marketing/new-chatbot/tu-xiang-xun-xi.md)
