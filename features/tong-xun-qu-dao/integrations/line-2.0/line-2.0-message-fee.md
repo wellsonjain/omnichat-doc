@@ -16,7 +16,7 @@
 | [官網顧客行銷—通訊渠道再行銷訊息](../../../remarketing/#2.-tou-guo-xiao-fei-zhe-de-facebook-messenger-line-whatsapp-zuo-zai-hang-xiao-tui-bo)                                                      | Push API    | 是                  |
 | [購物車再行銷訊息](../../../gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/)                                                                                                                    | Push API    | 是                  |
 | [LINE 遊戲模組中獎及未中獎後發送通知訊息](../../../you-xi-mo-zu-jia-gou-gong-neng/)                                                                                                                  | Push API    | 是                  |
-| [優惠券的重複領取訊息](../../../you-hui-quan-guan-li-jia-gou-gong-neng/)                                                                                                                      | Push API    | 是                  |
+| [優惠券的重複領取訊息](../../../you-hui-quan-jia-gou-gong-neng/)                                                                                                                              | Push API    | 是                  |
 | 自動傳送訂單通知訊息 (需串接 API)                                                                                                                                                                | Push API    | 是                  |
 | [排程回覆卡片](../../../marketing/chatbot-builder/ji-qi-ren-mo-zu-she-ding/#yan-chi-hui-fu-ka-pian-dang-xuan-ze-shi-yong-ping-tai-wei-chan-yi-qu-dao-shi)                                 | Push API    | 是                  |
 | [條件分流卡片](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-mo-zu-she-ding#conditionalreplycard)                                                                 | Push API    | 是                  |

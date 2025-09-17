@@ -8,8 +8,8 @@ description: >-
 
 、新增優惠券卡片後，可在下拉式選單中可以選擇或輸入關鍵字搜尋已建立的優惠券，或是點選「前往新增優惠券」 至優惠券管理頁面新增。優惠券管理頁面說明，可以參考底下連結
 
-{% content-ref url="../../you-hui-quan-guan-li-jia-gou-gong-neng/" %}
-[you-hui-quan-guan-li-jia-gou-gong-neng](../../you-hui-quan-guan-li-jia-gou-gong-neng/)
+{% content-ref url="../../you-hui-quan-jia-gou-gong-neng/" %}
+[you-hui-quan-jia-gou-gong-neng](../../you-hui-quan-jia-gou-gong-neng/)
 {% endcontent-ref %}
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-04-02 下午6.03.26.png" alt="" width="353"><figcaption></figcaption></figure>

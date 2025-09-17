@@ -103,7 +103,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/截圖 2024-11-22 下午4.37.06.png" alt=""><figcaption></figcaption></figure>
 
-1. 需加購 [優惠券管理](../you-hui-quan-guan-li-jia-gou-gong-neng/) 方可支援開啟優惠卷夾頁面
+1. 需加購 [優惠券管理](../you-hui-quan-jia-gou-gong-neng/) 方可支援開啟優惠卷夾頁面
 2. 顯示的優惠券是來自 Omnichat 後台發出的優惠券，並且根據生效狀態區分
 
 

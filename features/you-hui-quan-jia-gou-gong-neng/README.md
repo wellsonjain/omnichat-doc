@@ -2,7 +2,11 @@
 description: 可透過 Omnichat 自訂優惠券樣式，並可在不同情境下，不同社群渠道發送給消費者
 ---
 
-# 優惠券管理（加購功能）
+# 優惠券（加購功能）
+
+{% hint style="info" %}
+此功能原名稱：優惠券管理
+{% endhint %}
 
 {% hint style="info" %}
 可使用的社群渠道： LINE、Facebook、Instagram 和 WhatsApp ，不包含官網插件
