@@ -1,8 +1,8 @@
 ---
-description: 此說明書介紹團隊後台更新版的帳戶總覽功能。請大家細閱。
+description: 此說明書介紹團隊後台更新版的帳務總覽功能。請大家細閱。
 ---
 
-# 帳戶總覽
+# 帳務總覽
 
 {% content-ref url="fu-kuan-yu-chu-zhi.md" %}
 [fu-kuan-yu-chu-zhi.md](fu-kuan-yu-chu-zhi.md)

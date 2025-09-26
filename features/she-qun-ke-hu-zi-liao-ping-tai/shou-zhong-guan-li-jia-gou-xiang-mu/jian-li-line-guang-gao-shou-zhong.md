@@ -1,5 +1,5 @@
 ---
-description: 💡受眾管理中支援上傳 LINE 受眾包至 LINE 廣告後台
+description: 💡受眾分群中支援上傳 LINE 受眾包至 LINE 廣告後台
 ---
 
 # 建立 LINE 廣告受眾

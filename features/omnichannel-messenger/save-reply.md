@@ -15,7 +15,7 @@
 3. 選擇想要使用的預存回覆
 4. 右方可以預覽已選擇的預存回覆內容
 5. 點擊 「發送」 將直接送出預存回覆內容給顧客；點擊 「套用至對話框」 可先編輯後再送出
-6. 左下角 「[管理預存回覆](https://docs.omnichat.ai/features/ke-fu-she-ding/guan-li-yu-cun-hui-fu)」 可以查看／編輯／刪除／建立預存回覆
+6. 左下角 「[預存回覆](https://docs.omnichat.ai/features/ke-fu-she-ding/guan-li-yu-cun-hui-fu)」 可以查看／編輯／刪除／建立預存回覆
 7. 點擊 「套用至對話框」 ，預存回覆內容會出現在訊息輸入框中，可先編輯後再送出
 
 {% hint style="info" %}

@@ -1,10 +1,10 @@
 ---
 description: >-
   在各個社群渠道發送問卷時，支援將顧客資料帶入表單，顧客不必自行填寫品牌就可以準確得知填寫的聯絡人是誰，同時能針對顧客填寫的資料，自動在 Omnichat
-  聯絡人身上貼上標籤（可於社群聯絡人中找到完成問卷後貼上的標籤）！
+  聯絡人身上貼上標籤（可於渠道聯絡人中找到完成問卷後貼上的標籤）！
 ---
 
-# SurveyCake 設定（加購功能）
+# SurveyCake（加購功能）
 
 {% hint style="info" %}
 需升級 **SurveyCake 專業版**以上方案，才支援整合功能哦！免費版無法支援。
@@ -53,14 +53,14 @@ description: >-
 
 完成問卷內容設定後，登入您的 Omnichat 後台
 
-1. 進到 通訊渠道 > 第三方問卷 頁面
+1. 進到 通訊渠道 > SurveyCake 頁面
 2. 點擊右上方「+ 新增問卷」
 
 <figure><img src="../../../.gitbook/assets/SurveyCake_Omnichat_第三方問卷 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ## 步驟 4
 
-為了整合 Omnichat 與 SurveyCake 之間的串接，需於 Omnichat 第三方問卷頁面，填寫以下內容：
+為了整合 Omnichat 與 SurveyCake 之間的串接，需於 Omnichat SurveyCake 頁面，填寫以下內容：
 
 <figure><img src="../../../.gitbook/assets/SurveyCake_Omnichat_第三方問卷頁(1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -89,7 +89,7 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/SurveyCake_取得 hash key_iv key.jpg" alt=""><figcaption></figcaption></figure>
 
-進到系統通知頁後，點擊 Webhook 分頁，接著取得 Hash Key & IV Key 後，貼回 Omnichat 後台的第三方問卷頁面
+進到系統通知頁後，點擊 Webhook 分頁，接著取得 Hash Key & IV Key 後，貼回 Omnichat 後台的 SurveyCake 頁面
 
 <figure><img src="../../../.gitbook/assets/SurveyCake_取得 hash key_iv key2.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -107,7 +107,7 @@ description: >-
 
 於機器人卡片按鈕中帶入 Omnichat 系統稍早產出的問卷發送連結
 
-1. 於 Omnichat 第三方問卷頁，複製取得<mark style="color:red;">**「問卷發送連結」**</mark>
+1. 於 Omnichat SurveyCake 頁，複製取得<mark style="color:red;">**「問卷發送連結」**</mark>
 
 <figure><img src="../../../.gitbook/assets/SurveyCake_問卷發送連結 (1).jpg" alt=""><figcaption></figcaption></figure>
 

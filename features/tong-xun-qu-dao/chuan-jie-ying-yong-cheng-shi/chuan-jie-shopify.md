@@ -19,7 +19,7 @@ description: >-
 
 ### 步驟一
 
-在 Omnichat 選單中找到串接頁面：「通訊渠道  >  串接應用程式」，並點擊 Shopify 的串接按鈕
+在 Omnichat 選單中找到串接頁面：「通訊渠道  >  第三方應用」，並點擊 Shopify 的串接按鈕
 
 <figure><img src="../../../.gitbook/assets/新串接應用程式shopify 1" alt=""><figcaption></figcaption></figure>
 

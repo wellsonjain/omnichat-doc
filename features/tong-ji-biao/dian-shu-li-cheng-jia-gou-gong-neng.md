@@ -38,10 +38,10 @@
 #### 手動匯入名單
 
 {% hint style="info" %}
-僅支援以<mark style="color:red;">**WhatsApp**</mark>為目標渠道<mark style="color:red;">**匯入社群聯絡人**</mark>匯入點數資料。
+僅支援以<mark style="color:red;">**WhatsApp**</mark>為目標渠道<mark style="color:red;">**匯入渠道聯絡人**</mark>匯入點數資料。
 {% endhint %}
 
-以下是以[匯入社群聯絡人資料](https://docs.omnichat.ai/features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-she-qun-lian-luo-ren)進行點數增減的步驟：
+以下是以[匯入渠道聯絡人資料](https://docs.omnichat.ai/features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-she-qun-lian-luo-ren)進行點數增減的步驟：
 
 1. **匯入檔案**
 
@@ -118,7 +118,7 @@
 
 <figure><img src="../../.gitbook/assets/截圖 2024-10-22 下午3.47.50.png" alt="" width="545"><figcaption></figcaption></figure>
 
-#### 對話、顧客管理、社群聯絡人查看點數
+#### 對話、顧客檔案、渠道聯絡人查看點數
 
 * 可於以下功能中查詢單一客戶點數餘額、累積點數
 

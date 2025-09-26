@@ -1,10 +1,10 @@
 ---
-description: 設計Omnichat 支援自助設計聊天機器人，可使用在網站 Omnichat 插件或是運用在 Omnichat 其他後台功能
+description: 設計Omnichat 支援聊天機器人，可使用在網站 Omnichat 插件或是運用在 Omnichat 其他後台功能
 ---
 
-# 自助設計機器人 (Bot Builder)
+# 聊天機器人 (Bot Builder)
 
-## 在自助設計機器人頁面，新增一個聊天機器人
+## 在聊天機器人頁面，新增一個聊天機器人
 
 ![](<../../../.gitbook/assets/截圖 2022-03-31 下午8.09.05.png>)
 

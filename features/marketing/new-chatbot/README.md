@@ -1,6 +1,6 @@
 ---
 description: >-
-  自助設計機器人2.0 介面提供更直覺性且符合使用情境的操作，品牌端可根據需要使用機器人卡片的平台進行腳本設計，下方列出在 Omnichat
+  聊天機器人2.0 介面提供更直覺性且符合使用情境的操作，品牌端可根據需要使用機器人卡片的平台進行腳本設計，下方列出在 Omnichat
   後台可以使用到的機器人卡片
 ---
 
@@ -38,19 +38,19 @@ description: >-
 
 ### 僅限特定平台適用
 
-| 卡片名稱                                                                           | 適用平台                                   | 備註                 |
-| ------------------------------------------------------------------------------ | -------------------------------------- | ------------------ |
-| [Facebook 訂閱定期通知](facebook-ding-yue-ding-qi-tong-zhi-facebook-only.md)         | Facebook                               | -                  |
-| [圖片輪播訊息](tu-pian-lun-bo-xun-xi-line-only.md)                                   | LINE                                   | -                  |
-| [圖文訊息](tu-wen-xun-xi-line-only.md)                                             | LINE                                   | -                  |
-| [91APP 限定模組](xi-tong-yu-she-mo-zu-91app-xian-ding-mo-zu-line-only/)            | LINE                                   | 僅限 91APP 品牌使用      |
-| [發票模組](fa-piao-mo-zu-jia-gou-gong-neng-line-only.md)                           | LINE                                   | 需要額外加購             |
-| [影片](ying-pian.md)                                                             | Facebook / LINE / Instagram / WhatsApp | -                  |
-| [排程回覆卡片](pai-cheng-hui-fu.md)                                                  | Facebook / LINE / Instagram / WhatsApp | 網站插件 Webchat 未來將開放 |
-| [WhatsApp 貼圖包](whatsapp-tie-tu-bao-ka-pian-jia-gou-gong-neng-whatsapp-only.md) | WhatsApp                               | 需要額外加購             |
-| [關鍵字自動指派](keywordautoassign-botton.md)                                         | WhatsApp                               | 需要額外加購             |
-| [未結商品訊息卡片](wei-jie-shang-pin-xun-xi-ka-pian.md)                                | Facebook / LINE / WhatsApp             | 僅限使用在 `購物車再行銷功能`   |
-| [優惠券模組](you-hui-quan-mo-zu-xu-jia-gou.md)                                      | Facebook / LINE / Instagram / WhatsApp | 需要額外加購             |
-| [條件分流](tiao-jian-fen-liu-jia-gou-gong-neng.md)                                 | Facebook / LINE / Instagram / WhatsApp | 需要額外加購             |
-| <p><a href="omnilink-botcard.md">跨社群一鍵整合<br>（Omnilink)</a></p>                 | Facebook / LINE / Instagram / WhatsApp | 需要額外加購             |
-| [Call an API](call-an-api-jia-gou-gong-neng.md)                                | Facebook / LINE / Instagram / WhatsApp | 需要額外加購             |
+| 卡片名稱                                                                                                                     | 適用平台                                   | 備註                 |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- | ------------------ |
+| [Facebook 訂閱定期通知](facebook-ding-yue-ding-qi-tong-zhi-facebook-only.md)                                                   | Facebook                               | -                  |
+| [圖片輪播訊息](tu-pian-lun-bo-xun-xi-line-only.md)                                                                             | LINE                                   | -                  |
+| [圖文訊息](tu-wen-xun-xi-line-only.md)                                                                                       | LINE                                   | -                  |
+| [91APP 限定模組](xi-tong-yu-she-mo-zu-91app-xian-ding-mo-zu-line-only/)                                                      | LINE                                   | 僅限 91APP 品牌使用      |
+| [發票活動](https://docs.omnichat.ai/~/changes/1980/features/marketing/new-chatbot/fa-piao-mo-zu-jia-gou-gong-neng-line-only) | LINE                                   | 需要額外加購             |
+| [影片](ying-pian.md)                                                                                                       | Facebook / LINE / Instagram / WhatsApp | -                  |
+| [排程回覆卡片](pai-cheng-hui-fu.md)                                                                                            | Facebook / LINE / Instagram / WhatsApp | 網站插件 Webchat 未來將開放 |
+| [WhatsApp 貼圖包](whatsapp-tie-tu-bao-ka-pian-jia-gou-gong-neng-whatsapp-only.md)                                           | WhatsApp                               | 需要額外加購             |
+| [關鍵字自動指派](keywordautoassign-botton.md)                                                                                   | WhatsApp                               | 需要額外加購             |
+| [未結商品訊息卡片](wei-jie-shang-pin-xun-xi-ka-pian.md)                                                                          | Facebook / LINE / WhatsApp             | 僅限使用在 `購物車再行銷功能`   |
+| [優惠券模組](you-hui-quan-mo-zu-xu-jia-gou.md)                                                                                | Facebook / LINE / Instagram / WhatsApp | 需要額外加購             |
+| [條件分流](tiao-jian-fen-liu-jia-gou-gong-neng.md)                                                                           | Facebook / LINE / Instagram / WhatsApp | 需要額外加購             |
+| [Omnilink](omnilink-botcard.md)                                                                                          | Facebook / LINE / Instagram / WhatsApp | 需要額外加購             |
+| [Call an API](call-an-api-jia-gou-gong-neng.md)                                                                          | Facebook / LINE / Instagram / WhatsApp | 需要額外加購             |

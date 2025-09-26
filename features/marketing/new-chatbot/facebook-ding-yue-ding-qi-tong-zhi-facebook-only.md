@@ -49,7 +49,7 @@ Facebook 訂閱定期通知推播的發送頻率為 「 每日一次（每 24 �
 
 ### **ㄧ、**[**FB Messenger 歡迎模組**](https://docs.omnichat.ai/features/tong-xun-qu-dao/automated-messages/welcome-message)**觸發訂閱定期通知卡片**
 
-設定完 Facebook 訂閱定期通知卡片後，進到 「 通訊渠道 → 社群常用訊息與設定 → Messenger 」 編輯 「 歡迎訊息 」，選擇已設定好的 Facebook 訂閱定期通知卡片。
+設定完 Facebook 訂閱定期通知卡片後，進到 「 通訊渠道 → 社群常用訊息 → Messenger 」 編輯 「 歡迎訊息 」，選擇已設定好的 Facebook 訂閱定期通知卡片。
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-03-07 下午11.14.29.png" alt=""><figcaption><p>FB Messenger 歡迎訊息設定</p></figcaption></figure>
 
@@ -61,7 +61,7 @@ Facebook 訂閱定期通知推播的發送頻率為 「 每日一次（每 24 �
 
 ### **二、**[**Facebook 主選單（常設功能表）**](https://docs.omnichat.ai/features/tong-xun-qu-dao/automated-messages/chang-she-gong-neng-biao)**觸發訂閱定期通知卡片**
 
-進到 「 通訊渠道 → 社群常用訊息與設定 → Messenger 」 編輯 「 常設功能表 」，點擊新增並輸入按鈕名稱，選擇已設定好的 Facebook 訂閱定期通知卡片。
+進到 「 通訊渠道 → 社群常用訊息 → Messenger 」 編輯 「 常設功能表 」，點擊新增並輸入按鈕名稱，選擇已設定好的 Facebook 訂閱定期通知卡片。
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-03-11 下午2.43.21 (1).png" alt=""><figcaption><p>FB Messenger 常設功能表設定</p></figcaption></figure>
 

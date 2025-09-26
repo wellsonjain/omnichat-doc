@@ -11,7 +11,7 @@
 
 ### Step 1
 
-至『通訊渠道』-> 『串接社群通訊渠道』->『ＷhatsApp』，點選鉛筆圖示來建立範本訊息
+至『通訊渠道』-> 『社群帳號』->『ＷhatsApp』，點選鉛筆圖示來建立範本訊息
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午8.18.28.png" alt=""><figcaption></figcaption></figure>
 
@@ -186,7 +186,7 @@
 
 ### 方法一：設定WhatsApp Template Message的快速回覆按鈕
 
-**在 通訊渠道->串接社群通訊渠道 ，在WhatsApp Template 下 按「前往編輯」**
+**在 通訊渠道->社群帳號 ，在WhatsApp Template 下 按「前往編輯」**
 
 ![](<../../../../.gitbook/assets/Screenshot 2022-04-29 at 12.43.38 PM.png>)
 

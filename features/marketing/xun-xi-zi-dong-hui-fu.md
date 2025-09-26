@@ -11,11 +11,11 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-* 關鍵字自動回覆只有當該對話位於 「待處理」、「機器人」 及 「已結束」 的狀態時才會觸發。
+* 訊息自動回覆只有當該對話位於 「待處理」、「機器人」 及 「已結束」 的狀態時才會觸發。
 * 「處理中」 的對話我們視為已經由真人接手，除非在設定條件時的『及事件狀態為』有勾選『處理中』，否則不會觸發關鍵字回覆。
-* 「關鍵字自動回覆」 如想同時觸發 「關鍵字自動指派」 條件：
-  1. 如果自動指派對象是<mark style="color:red;">客服人員</mark>：關鍵字自動回覆+自動指派 都能成功
-  2. 如果自動指派對象是<mark style="color:red;">銷售人員</mark>：無法觸發關鍵字自動回覆，只會出現指派成功的綁定訊息！&#x20;
+* 「訊息自動回覆」 如想同時觸發 「對話自動指派」 條件：
+  1. 如果自動指派對象是<mark style="color:red;">客服人員</mark>：訊息自動回覆+自動指派 都能成功
+  2. 如果自動指派對象是<mark style="color:red;">銷售人員</mark>：無法觸發訊息自動回覆，只會出現指派成功的綁定訊息！&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -31,8 +31,8 @@ IG 限時動態回覆：當客人回覆品牌限時動態，若訊息內容有�
 情況二：ABC（大寫）、abc（小寫），這兩種為相同的關鍵字
 
 情況三：關鍵字設定為 **`Abc（半形）`**，\
-客人打出 **`ABC`** > 這個會觸發關鍵字自動回覆；\
-客人打出 **`ＡＢＣ`**（全形）> 不會觸發關鍵字自動回覆
+客人打出 **`ABC`** > 這個會觸發訊息自動回覆；\
+客人打出 **`ＡＢＣ`**（全形）> 不會觸發訊息自動回覆
 {% endhint %}
 
 ## 顯示列表
@@ -56,7 +56,7 @@ IG 限時動態回覆：當客人回覆品牌限時動態，若訊息內容有�
 
 {% hint style="info" %}
 **-顧客訊息**：消費者輸入關鍵字是需要包含的內容。\
--**自動回覆**：消費者所得到的關鍵字自動回覆內容。\
+-**自動回覆**：消費者所得到的訊息自動回覆內容。\
 -**狀態**：目前此關鍵字的使用狀態，可分為 『 啟用中 』 或 『 停用中 』。\
 -**動作**：點擊 『 ... 』 後可以進行 『 編輯條件』、『啟用條件』、『停用條件』、『刪除條件』、   『產生QR CODE』
 {% endhint %}
@@ -203,11 +203,11 @@ Instagram不支援使用關鍵字 QRCode 觸發功能（Instagram官方技術不
 
 <figure><img src="../../.gitbook/assets/截圖 2024-07-03 下午5.22.14.png" alt=""><figcaption></figcaption></figure>
 
-## 關鍵字自動送出功能 <a href="#guan-jian-zi-zi-dong-song-chu-gong-neng" id="guan-jian-zi-zi-dong-song-chu-gong-neng"></a>
+## 訊息自動送出功能 <a href="#guan-jian-zi-zi-dong-song-chu-gong-neng" id="guan-jian-zi-zi-dong-song-chu-gong-neng"></a>
 
 步驟ㄧ：先設定LIFF ID，請參考 [社群身份綁定 - LIFF設定](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/she-qun-shen-fen-bang-ding-liff-she-ding)
 
-步驟二：請聯繫您的Omnichat專員，協助開通關鍵字自動送出功能
+步驟二：請聯繫您的Omnichat專員，協助開通訊息自動送出功能
 
 步驟三：完成
 

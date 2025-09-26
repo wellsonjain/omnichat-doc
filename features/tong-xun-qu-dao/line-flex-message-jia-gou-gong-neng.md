@@ -98,11 +98,11 @@ hidden: true
 
 ## 查看發送結果與成效
 
-### Open API 發送紀錄
+### **Message API 報表**
 
-*   透過 Open API 發送後，可以在統計表 / Open API 發送紀錄中查看該則訊息的成效
+*   透過 Open API 發送後，可以在統計表 / Message API 報表中查看該則訊息的成效
 
-    <figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption><p>Open API 發送紀錄</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption><p><strong>Message API 報表</strong></p></figcaption></figure>
 
 
 

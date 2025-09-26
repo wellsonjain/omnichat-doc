@@ -18,7 +18,7 @@ Insider 方案：
 
 ### 開始串接與授權
 
-在 Omnichat 選單中找到串接頁面：「通訊渠道  >  串接應用程式」，並點擊 Insider 的串接按鈕。
+在 Omnichat 選單中找到串接頁面：「通訊渠道  >  第三方應用」，並點擊 Insider 的串接按鈕。
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-04-15 下午6.49.47.png" alt=""><figcaption></figcaption></figure>
 

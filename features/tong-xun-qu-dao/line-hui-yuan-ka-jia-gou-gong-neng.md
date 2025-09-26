@@ -4,7 +4,7 @@ description: >-
   在會員資訊上的資訊設定
 ---
 
-# LINE 會員卡設定（加購功能）
+# LINE 會員卡（加購功能）
 
 {% hint style="warning" %}
 1. 目前支援開店平台系統為 SHOPLINE, CYBERBIZ 之品牌可自動同步官網會員資料使用。若您的開店平台系統為其他系統商（包含自架網站）者，則需要透過手動匯入顧客資料與完成手機綁定來比對，關於這個情境請與您的品牌顧問聯繫了解！
@@ -21,13 +21,13 @@ description: >-
 
 ## 後台設定畫面（品牌方畫面） <a href="#membercard-setting-back" id="membercard-setting-back"></a>
 
-### 1 會員卡設定
+### 1 會員卡
 
 在此處品牌端可設定於會員卡中預計需要顯示的資料
 
 <figure><img src="../../.gitbook/assets/截圖 2024-11-18 晚上7.30.23.png" alt=""><figcaption></figcaption></figure>
 
-* 初次進入會員卡設定後，會員中心、我的訂單、優惠券夾，預設為 「停用中」
+* 初次進入會員卡後，會員中心、我的訂單、優惠券夾，預設為 「停用中」
 * 點擊 「鉛筆 icon」 可開啟並設定欲顯示的資訊
 * **會員卡顯示條件：**&#x662F;指當顧客開啟會員中心時，是否需要完成手機綁定才能顯示頁面，若不勾選，則有些資料會無法在會員卡中使用
 
@@ -103,7 +103,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/截圖 2024-11-22 下午4.37.06.png" alt=""><figcaption></figcaption></figure>
 
-1. 需加購 [優惠券管理](../you-hui-quan-jia-gou-gong-neng/) 方可支援開啟優惠卷夾頁面
+1. 需加購 [優惠券](../you-hui-quan-jia-gou-gong-neng/) 方可支援開啟優惠卷夾頁面
 2. 顯示的優惠券是來自 Omnichat 後台發出的優惠券，並且根據生效狀態區分
 
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  不管是社群身份綁定要免除六位數驗證碼步驟 ，還是遊戲模組使用在 LINE 官方帳號上，皆需要先有 LIFF ID，設定 LIFF ID 前需要先設定好
+  不管是社群身份綁定要免除六位數驗證碼步驟 ，還是互動遊戲使用在 LINE 官方帳號上，皆需要先有 LIFF ID，設定 LIFF ID 前需要先設定好
   Login Channel
 ---
 
@@ -89,12 +89,12 @@ LINE 官方帳號內管理員權限不代表擁有 Messaging API Channel 權限�
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-10-24 下午5.45.17.png" alt=""><figcaption></figcaption></figure>
 
-取得 Login Channel 權限後，請點擊進到 Login Channel 的 Basic Setting 分頁內確認 **Linked OA** 是否有連結。如有的話請按照下方步驟看您是要設定 LINE 遊戲模組 LIFF ID，還是要設定 LINE 社群身份綁定 LIFF ID
+取得 Login Channel 權限後，請點擊進到 Login Channel 的 Basic Setting 分頁內確認 **Linked OA** 是否有連結。如有的話請按照下方步驟看您是要設定 LINE 互動遊戲 LIFF ID，還是要設定 LINE 社群身份綁定 LIFF ID
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-10-24 下午6.15.49.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md" %}
-[you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md](you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md)
+{% content-ref url="hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md" %}
+[hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md](hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md)
 {% endcontent-ref %}
 
 {% content-ref url="she-qun-shen-fen-bang-ding-liff-she-ding.md" %}
@@ -140,10 +140,10 @@ LINE 官方帳號內管理員權限不代表擁有 Messaging API Channel 權限�
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-10-24 下午6.22.56.png" alt=""><figcaption></figcaption></figure>
 
-#### 設定完畢後，請依照您是要設定 LINE 遊戲模組 LIFF ID，還是要設定 LINE 社群身份綁定 LIFF ID
+#### 設定完畢後，請依照您是要設定 LINE 互動遊戲 LIFF ID，還是要設定 LINE 社群身份綁定 LIFF ID
 
-{% content-ref url="you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md" %}
-[you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md](you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md)
+{% content-ref url="hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md" %}
+[hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md](hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md)
 {% endcontent-ref %}
 
 {% content-ref url="she-qun-shen-fen-bang-ding-liff-she-ding.md" %}

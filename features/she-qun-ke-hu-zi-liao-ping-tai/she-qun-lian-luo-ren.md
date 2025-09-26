@@ -8,7 +8,7 @@ description: 檢視各社群渠道聯絡人資訊，精準掌握顧客輪廓。
 此功能原名稱：**社群聯絡人**
 {% endhint %}
 
-社群聯絡人介面介紹
+## 渠道聯絡人介面
 
 <figure><img src="../../.gitbook/assets/社群聯絡人 2.0 介面.png" alt=""><figcaption></figcaption></figure>
 

@@ -8,9 +8,9 @@ description: 以 Member ID 為唯一識別值來匯入會員基本資料
 
 ## 第一步：匯入檔案
 
-**左欄“社群客戶資料平台” > “匯入顧客資料” > 點選右上角的“匯入”**
+**左欄“社群客戶資料平台” > “資料匯入” > 點選右上角的“匯入”**
 
-<figure><img src="../../../.gitbook/assets/匯入聯絡人.png" alt="" width="563"><figcaption><p>選擇“匯入顧客資料”，再點選“匯入”</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/匯入聯絡人.png" alt="" width="563"><figcaption><p>選擇“資料匯入”，再點選“匯入”</p></figcaption></figure>
 
 **選擇“匯入顧客”**
 

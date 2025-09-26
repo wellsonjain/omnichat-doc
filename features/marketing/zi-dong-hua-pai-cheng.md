@@ -1,10 +1,10 @@
 ---
-description: 新推出的自動化排程功能，讓你可以針對指定受眾（透過受眾管理建立），週期性或一次性觸發「顧客旅程」。
+description: 新推出的自動化排程功能，讓你可以針對指定受眾（透過受眾分群建立），週期性或一次性觸發「旅程」。
 ---
 
 # 自動化排程
 
-🙌🏻 **適用方案**：需同時開通「受眾管理」與「顧客旅程」，才可使用此功能
+🙌🏻 **適用方案**：需同時開通 「受眾分群」 與 「旅程」，才可使用此功能
 
 📍 **功能路徑**：進階自動化功能 > [自動化排程](https://console.omnichat.ai/scheduler/list)
 
@@ -28,16 +28,17 @@ description: 新推出的自動化排程功能，讓你可以針對指定受眾�
 
 在新增自動化排程前，須先確定要觸發排程的「受眾包」與「旅程任務」已有設定完成。
 
-1.  請至 社群客戶資料平台 → [受眾管理](https://console.omnichat.ai/audiences) 頁面 新增一組受眾包，作為觸發排程的對象。
+1. 請至 社群客戶資料平台 → [受眾分群](https://console.omnichat.ai/audiences)頁面新增一組受眾包，作為觸發排程的對象。
 
-    <figure><img src="../../.gitbook/assets/截圖 2025-04-25 下午4.01.51.png" alt=""><figcaption></figcaption></figure>
-2.  請至 進階自動化功能 → [全渠道顧客旅程](https://console.omnichat.ai/customer-journey) 頁面 新增一組旅程，作為觸發排程的任務。
+<figure><img src="../../.gitbook/assets/截圖 2025-04-25 下午4.01.51.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/截圖 2025-04-25 下午4.06.04.png" alt=""><figcaption></figcaption></figure>
+請至 進階自動化功能 → [旅程](https://console.omnichat.ai/customer-journey) 頁面 新增一組旅程，作為觸發排程的任務。
 
-    **⚠️ 請注意旅程的「觸發條件」要設定為「系統功能觸發」。**
+<figure><img src="../../.gitbook/assets/截圖 2025-04-25 下午4.06.04.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/截圖 2025-04-25 下午4.33.19 (1).png" alt=""><figcaption></figcaption></figure>
+**⚠️ 請注意旅程的「觸發條件」要設定為「系統功能觸發」。**
+
+<figure><img src="../../.gitbook/assets/截圖 2025-04-25 下午4.33.19 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 新增自動化排程
 

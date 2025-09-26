@@ -27,7 +27,7 @@ description: 如何整合 Instagram Messenger 到 Omnichat？
 ### 串接步驟
 
 1. 登入 [**Omnichat 後台**](https://app.omnichat.ai/)
-2. 在左側選單選擇「**通訊渠道 >** [**串接社群通訊渠道**](https://console.omnichat.ai/social-channels-integration)」
+2. 在左側選單選擇「**通訊渠道 >** [**社群帳號**](https://console.omnichat.ai/social-channels?tab=instagram)」
 3. 打開「已串接的 Instagram 帳號」部份 -> 點擊「**串接 Instagram 帳號**」 （請使用Chrome瀏覽器，請勿使用Safari瀏覽器容易串接失敗）
 
 {% hint style="info" %}
@@ -100,7 +100,7 @@ Instagram 的授權會因為以下原因而失效，授權失效後會影響 Omn
 你可以根據以下步驟重新授權：
 
 1. 登入 [Omnichat 後台](https://app.omnichat.ai/)
-2. 在左側選單選擇「**通訊渠道 >** [**串接社群通訊渠道**](https://app.omnichat.ai/integration.html)」
+2. 在左側選單選擇「**通訊渠道 >** [**社群帳號**](https://console.omnichat.ai/social-channels?tab=instagram)」
 3. 打開「**Instagram 帳號整合**」部份
 4. 在「**已連接的 Instagram 帳號**」部份，點擊「**不連接**」把需要重新授權的 Instagram 帳號斷開連接
 

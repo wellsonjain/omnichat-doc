@@ -12,8 +12,8 @@ description: Omnichat 提供多個 LINE 官方帳號整合，在使用前請先�
 [she-ding-liff-id-xian-she-ding-login-channel.md](she-ding-liff-id-xian-she-ding-login-channel.md)
 {% endcontent-ref %}
 
-{% content-ref url="you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md" %}
-[you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md](you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md)
+{% content-ref url="hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md" %}
+[hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md](hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md)
 {% endcontent-ref %}
 
 {% content-ref url="she-qun-shen-fen-bang-ding-liff-she-ding.md" %}

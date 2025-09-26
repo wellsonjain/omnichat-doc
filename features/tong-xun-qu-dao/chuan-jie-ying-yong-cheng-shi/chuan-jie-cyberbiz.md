@@ -27,7 +27,7 @@ CYBERBIZ 方案：
 
 ### 步驟一
 
-前往 Omnichat  「通訊渠道 > 串接應用程式」 頁面，找到CYBERBIZ 的欄位並點擊 「串接」 後，再點擊 「開始」
+前往 Omnichat  「通訊渠道 > 第三方應用」 頁面，找到CYBERBIZ 的欄位並點擊 「串接」 後，再點擊 「開始」
 
 {% hint style="warning" %}
 * 若尚未與 CYBERBIZ 購買 API secret，請使用 途徑二 串接，並先與 CYBERBIZ 聯繫付費使用
@@ -56,7 +56,7 @@ CYBERBIZ 方案：
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-03-20 下午6.37.00.png" alt=""><figcaption></figcaption></figure>
 
-到 CYBERBIZ 後台，找到 「管理中心 > Webhook 設定」 中進行 Webhook 設定如下：
+到 CYBERBIZ 後台，找到 「管理中心 > Webhook」 中進行 Webhook 設定如下：
 
 複製 Omnichat Webhook URL 並新增以下  Webhook 事件設定
 

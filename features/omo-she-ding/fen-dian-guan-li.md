@@ -39,13 +39,13 @@ description: OMO 分店管理讓品牌自行加上自己分店資訊，如分店
 
 1.  綁定成功訊息（系統預設為團隊預設訊息）
 
-    * 團隊預設訊息（請至[ OMO 綁定設定](https://docs.omnichat.ai/features/omo-she-ding/omo-bang-ding-she-ding#bang-ding-dian-yuan-cheng-gong-xun-xi) 設定）
+    * 團隊預設訊息（請至 [店員綁定設定](https://docs.omnichat.ai/features/omo-she-ding/omo-bang-ding-she-ding#bang-ding-dian-yuan-cheng-gong-xun-xi) 設定）
     * 分店自訂訊息（文字訊息）
     * 不發送訊息（完成 OMO 綁定後將不會收到任何訊息）
 
 
 2. 綁定成功附加訊息（系統預設為團隊預設訊息）
-   * 團隊預設訊息（請至[ OMO 綁定設定](https://docs.omnichat.ai/features/omo-she-ding/omo-bang-ding-she-ding#bang-ding-dian-yuan-cheng-gong-xun-xi) 設定）
+   * 團隊預設訊息（請至 [店員綁定設定](https://docs.omnichat.ai/features/omo-she-ding/omo-bang-ding-she-ding#bang-ding-dian-yuan-cheng-gong-xun-xi) 設定）
    * 分店自訂訊息（文字訊息）
    * 分店自訂機器人模組（請至 [自助聊天機器人](https://docs.omnichat.ai/features/marketing/chatbot-builder) 設定）
    * 不發送訊息（完成 OMO 綁定後將不會收到任何訊息）

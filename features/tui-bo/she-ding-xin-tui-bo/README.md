@@ -13,7 +13,7 @@
 
 可利用以下三種方式篩選受眾：
 
-1. 使用受眾包 （需加購，詳細介紹請參考 [shou-zhong-fen-qun-jia-gou-xiang-mu](../../she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-fen-qun-jia-gou-xiang-mu/ "mention")）
+1. 使用受眾包 （需加購，詳細介紹請參考 [shou-zhong-guan-li-jia-gou-xiang-mu](../../she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-guan-li-jia-gou-xiang-mu/ "mention")）
 2. [使用自訂條件](./#shi-yong-zi-ding-tiao-jian)
 3. [上傳CSV檔案推播](./#shi-yong-csv-tui-bo)
 

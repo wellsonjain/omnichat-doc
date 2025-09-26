@@ -154,7 +154,7 @@ App 語言介面會跟著手機本身語言設定來變動！
 
 #### 手機APP新增預存回覆：
 
-<div align="left"><figure><img src="../../.gitbook/assets/步驟一.png" alt=""><figcaption><p>步驟一：點擊手機APP頁面右下的【更多】，<br>就會看到【管理預存回覆】</p></figcaption></figure> <figure><img src="../../.gitbook/assets/新增預存回覆.png" alt=""><figcaption><p>步驟二：進到【管理預存回覆】後，<br>右上會有個+  可以新增預存回覆訊息。</p></figcaption></figure> <figure><img src="../../.gitbook/assets/下一步.png" alt=""><figcaption><p>步驟三：新增後將內容填寫好，<br>點擊右上的【下一步】</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/步驟一.png" alt=""><figcaption><p>步驟一：點擊手機APP頁面右下的【更多】，<br>就會看到【預存回覆】</p></figcaption></figure> <figure><img src="../../.gitbook/assets/新增預存回覆.png" alt=""><figcaption><p>步驟二：進到【預存回覆】後，<br>右上會有個+  可以新增預存回覆訊息。</p></figcaption></figure> <figure><img src="../../.gitbook/assets/下一步.png" alt=""><figcaption><p>步驟三：新增後將內容填寫好，<br>點擊右上的【下一步】</p></figcaption></figure></div>
 
 <div><figure><img src="../../.gitbook/assets/選擇預存回覆的使用者權限.png" alt=""><figcaption><p>步驟四：填寫該預存回覆標題、適用對象、類別後點擊【新增】。</p></figcaption></figure> <figure><img src="../../.gitbook/assets/新增成功.png" alt=""><figcaption><p>步驟五：新增完成後，會跳出預存【回覆新增成功】的提示畫面。</p></figcaption></figure> <figure><img src="../../.gitbook/assets/往左滑刪除.png" alt=""><figcaption><p>若要刪除該預存回覆，請往左滑就會出現【刪除】的符號，點擊刪除即可。</p></figcaption></figure></div>
 
@@ -273,7 +273,7 @@ App 語言介面會跟著手機本身語言設定來變動！
 <mark style="color:orange;">**滿意度調查功能須額外加購，若需加購請洽詢您的顧問**</mark>
 {% endhint %}
 
-#### 在滿意度調查設定頁上若開啟手動發送滿意度調查，在結束對話可以選擇是否發送滿意度調查，包含：
+#### 在滿意度調查頁上若開啟手動發送滿意度調查，在結束對話可以選擇是否發送滿意度調查，包含：
 
 * 批次結束對話
 * 單一個客人結束對話

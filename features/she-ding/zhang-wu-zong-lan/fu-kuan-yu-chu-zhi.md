@@ -35,11 +35,11 @@ description: 本頁說明如何在Omnichat後台做可用餘額儲值與付款�
 
 ### 2. 自動儲值功能的 Stripe 信用卡付款方式設定
 
-點選設定，進入 Stripe 頁面進行信用卡設定。設定完成後，在 Omnichat 帳戶總覽後台會顯示已設定好的信用卡資料，系統將會自動使用預設信用卡來進行儲值付款。
+點選設定，進入 Stripe 頁面進行信用卡設定。設定完成後，在 Omnichat 帳務總覽後台會顯示已設定好的信用卡資料，系統將會自動使用預設信用卡來進行儲值付款。
 
 * Omnichat 的自動儲值功能目前只支援 Stripe 信用卡方式付款（<mark style="color:red;">**請留意備註一：Stripe 信用卡付款產生的費用**</mark>）。Stripe 信用卡設定方式如下：
 
-1. 點選設定會進入 Stripe 頁面設定，設定完成後在 Omnichat 帳戶總覽後台會顯示已設定完成的信用卡資訊
+1. 點選設定會進入 Stripe 頁面設定，設定完成後在 Omnichat 帳務總覽後台會顯示已設定完成的信用卡資訊
 2. 系統會自動抓取預設信用卡來進行儲值付款
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>

@@ -1,5 +1,5 @@
 ---
-description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧客輪廓。
+description: 適用檢視各渠道聯絡人資訊，精準掌握顧客輪廓。
 ---
 
 # 渠道聯絡人（適用於 Social CDP 方案）
@@ -8,7 +8,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 此功能原名稱：**社群聯絡人**
 {% endhint %}
 
-## 社群聯絡人介面介紹（Social CDP 方案限定）
+## 渠道聯絡人介面（Social CDP 方案限定）
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -16,7 +16,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 2. 各社群渠道有效聯絡人數
 3. 社群渠道總人數＝**「訂閱中」** 聯絡人&#x6578;**＋「取消訂閱」** 聯絡人數。
 4. 聯絡人資訊
-   1. 社群聯絡人頭像
+   1. 渠道聯絡人頭像
    2. 姓名
    3. 會員編號
    4. Email
@@ -46,7 +46,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 * 會員編號
 * Email
 * 電話
-* 社群身份綁定：是否有透過「[社群身份綁定按鈕](https://docs.omnichat.ai/features/social-subscriber-integration)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
+* 官網綁定：是否有透過「[官網綁定按鈕](../she-qun-bang-ding-guan-li/social-subscriber-integration/)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
 * 91 APP 會員綁定：91 APP 開店平台用戶專屬功能
 * 手機綁定：客人需完成 「手機綁定[^1]」 後，才能成功於 LINE 上查看個人會員卡資訊。
 * 訂閱狀態：會顯示 「訂閱中」 或者 「取消訂閱」
@@ -65,7 +65,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 * 會員編號
 * Email
 * 電話
-* 社群身份綁定：是否有透過「[社群身份綁定按鈕](https://docs.omnichat.ai/features/social-subscriber-integration)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
+* 官網綁定：是否有透過「[官網綁定按鈕](../she-qun-bang-ding-guan-li/social-subscriber-integration/)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
 * 訂閱狀態：會顯示 「訂閱中」 或者 「取消訂閱」
 * 加入訂閱時間
 * 訂閱 FB 定期通知： 關於 [FB 訂閱定期通知](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-mo-zu-she-ding/facebook-xian-ding-ji-qi-ren#facebook-ding-qi-tong-zhi-ka-pian)
@@ -83,7 +83,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 * 會員編號
 * Email
 * 電話
-* 社群身份綁定：是否有透過「[社群身份綁定按鈕](https://docs.omnichat.ai/features/social-subscriber-integration)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
+* 官網綁定：是否有透過「[官網綁定按鈕](../she-qun-bang-ding-guan-li/social-subscriber-integration/)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
 * 訂閱狀態：會顯示 「訂閱中」 或者 「取消訂閱」
 * 加入訂閱時間
 * 最後完成結帳時間
@@ -99,7 +99,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 * 會員編號
 * Email
 * 電話
-* 社群身份綁定：是否有透過「[社群身份綁定按鈕](https://docs.omnichat.ai/features/social-subscriber-integration)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
+* 官網綁定：是否有透過「[官網綁定按鈕](../she-qun-bang-ding-guan-li/social-subscriber-integration/)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
 * 訂閱狀態：會顯示 「訂閱中」 或者 「取消訂閱」
 * 加入訂閱時間
 * 最後完成結帳時間
@@ -160,7 +160,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 
 ### 匯入
 
-關於匯入社群聯絡人，請參閱[匯入社群聯絡人](https://docs.omnichat.ai/features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-she-qun-lian-luo-ren)或[匯入顧客名單（CDP 方案限定）](https://docs.omnichat.ai/features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-gu-ke-ming-dan-cdp-fang-an-xian-ding)
+關於匯入渠道聯絡人，請參閱[匯入渠道聯絡人](https://docs.omnichat.ai/features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-she-qun-lian-luo-ren)或[匯入顧客名單（CDP 方案限定）](https://docs.omnichat.ai/features/she-qun-ke-hu-zi-liao-ping-tai/hui-ru-gu-ke-zi-liao/hui-ru-gu-ke-ming-dan-cdp-fang-an-xian-ding)
 
 ### 新增 WhatsApp 聯絡人
 
@@ -190,7 +190,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
   * Facebook - PSID
   * Instagram - IGSID
   * WhatsApp - 電話號碼
-* 若要匯出特定條件的聯絡人，請先使用下方的“[搜尋](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#guan-wu-sou-xun)”功能，先篩選出特定聯絡人再匯出。
+* 若要匯出特定條件的聯絡人，請先使用下方的“[搜尋](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#guan-wu-sou-xun)”功能，先篩選出特定聯絡人再匯出。
 * 若無需篩特定條件的聯絡人，直接選擇"匯出"，即可導出該渠道所有聯絡人資料。
 
 {% hint style="info" %}
@@ -203,7 +203,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 
 <figure><img src="../../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
-* **搜尋社群聯絡人姓名：**&#x53EF;用聯絡人的名稱搜尋，須留意，務必輸入**完整姓名**，才可搜尋出來
+* **搜尋渠道聯絡人姓名：**&#x53EF;用聯絡人的名稱搜尋，須留意，務必輸入**完整姓名**，才可搜尋出來
 * 選擇“**新增條件**”來設定篩選條件，**可新增多組條件**篩選特定聯絡人資料。
 
 <div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/截圖 2024-08-24 晚上7.15.06.png" alt="" width="563"><figcaption></figcaption></figure></div>
@@ -212,7 +212,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 
 
 
-篩選條件分為[顧客條件](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#gu-ke-tiao-jian)、[時間相關](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#shi-jian-xiang-guan)、[互動情形](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#hu-dong-qing-xing)、[OMO相關](qu-dao-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#omo-xiang-guan-you-gou-mai-omo-fang-an-cai-hui-xian-shi)（有購買OMO方案才會顯示）。
+篩選條件分為[顧客條件](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#gu-ke-tiao-jian)、[時間相關](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#shi-jian-xiang-guan)、[互動情形](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#hu-dong-qing-xing)、[OMO相關](she-qun-lian-luo-ren-shi-yong-wu-social-cdp-fang-an.md#omo-xiang-guan-you-gou-mai-omo-fang-an-cai-hui-xian-shi)（有購買OMO方案才會顯示）。
 
 ### 顧客條件
 
@@ -234,7 +234,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
 ### 互動情形
 
 * 訂閱狀態：是否封鎖您的帳號或是粉專
-* 社群身份綁定：是否有透過 「[社群身份綁定按鈕](https://docs.omnichat.ai/features/social-subscriber-integration)」、「[彈出式綁定按鈕](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu)」 或是 「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」 綁定社群
+* 官網綁定：是否有透過「[官網綁定按鈕](../she-qun-bang-ding-guan-li/social-subscriber-integration/)」、「[追蹤插件](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu#she-ding-zhui-zong-an-niu)」或是「[機器人按鈕](https://docs.omnichat.ai/features/marketing/chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding)」導回官網完成綁定
 * 訂閱FB定期通知
 
 ### OMO相關（有購買OMO方案才會顯示）

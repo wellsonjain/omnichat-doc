@@ -2,7 +2,7 @@
 description: 適用平台：支援 Facebook、Instagram、LINE、WhatsApp ； Webchat 與購物車再行銷平台不支援該功能
 ---
 
-# 跨社群一鍵整合卡片（加購功能）
+# OmniLink 卡片（加購功能）
 
 {% hint style="info" %}
 若需要使用該功能，請先洽詢您的 Omnichat 業務 / 專人顧問進行加購
@@ -16,13 +16,13 @@ description: 適用平台：支援 Facebook、Instagram、LINE、WhatsApp ； We
 
 以下為設定步驟說明！
 
-### 步驟 1 在機器人模組頁當中點選跨社群一鍵整合卡片
+### 步驟 1 在機器人模組頁當中點選 OmniLink 卡片
 
 <figure><img src="../../../.gitbook/assets/omnilink-1.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟 2 選擇需要對應的整合活動
 
-若先前沒有在 「跨社群一鍵整合」 的活動頁面建立過相關活動，建議您可先前往新增，後續再來此處進行設定
+若先前沒有在 OmniLink 活動頁面建立過相關活動，建議您可先前往新增，後續再來此處進行設定
 
 詳細的設定細節說明，請參考以下頁面
 

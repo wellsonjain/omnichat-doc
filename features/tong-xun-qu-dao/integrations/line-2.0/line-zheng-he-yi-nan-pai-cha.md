@@ -13,7 +13,7 @@
 
 ### 2. 檢查 Messaging API 設定是否正確
 
-&#x20;進入 LINE 官方帳號後台 --> 設定 --> Messaging API，檢查 Messaging API 所設定的 **Channel ID** / **Channel secret** / **Webhook** 網址是否與 Omnichat 後台的[**串接社群通訊渠道**](https://app.easychat.co/integration.html)之設定相同
+&#x20;進入 LINE 官方帳號後台 --> 設定 --> Messaging API，檢查 Messaging API 所設定的 **Channel ID** / **Channel secret** / **Webhook** 網址是否與 Omnichat 後台的[社群帳號](https://console.omnichat.ai/social-channels?tab=line-official)之設定相同
 
 ![](<../../../../.gitbook/assets/line integration check 3.png>)
 
@@ -34,7 +34,7 @@
 
 #### 檢查相關設定是否正確
 
-&#x20;檢查 **App name** / **Channel ID** / **Channel Secret，**&#x7B49;內容是否與 Omnichat 後台的[**串接社群通訊渠道**](https://app.easychat.co/integration.html)之設定相同
+&#x20;檢查 **App name** / **Channel ID** / **Channel Secret，**&#x7B49;內容是否與 Omnichat 後台的[社群帳號](https://console.omnichat.ai/social-channels?tab=line-official)之設定相同
 
 ![](<../../../../.gitbook/assets/line integration 2.0 -4.png>)
 
@@ -42,9 +42,9 @@
 
 上述檢查完成後繼續檢查以下項目
 
-1. 檢查 **Webhook URL** 是否與 Omnichat 後台的**串接社群通訊渠道**之設定相同。
+1. 檢查 **Webhook URL** 是否與 Omnichat 後台的社群帳號之設定相同。
 2. **Use webhook 為 開啟**
-3. 檢查 **Channel access token** 是否與 Omnichat 後台的**串接社群通訊渠道**之設定相同。
+3. 檢查 **Channel access token** 是否與 Omnichat 後台的社群帳號之設定相同。
 
 ![](<../../../../.gitbook/assets/截圖 2024-03-13 下午5.57.53.png>)
 
@@ -52,7 +52,7 @@
 
 ### 4. 進入 Line Developers 後台更新 **channel secret** 與  **access token**
 
-如確認Line Developers 後台資訊與Omnichat 後台的**串接社群通訊渠道**之設定相同，整合串接依然失效，請至 Line developers後台重新更新 **channel secret** 與  **access token** ，複製新的**channel secret**與**access token** 到Omnichat後台『串接社群通訊渠道』，按下『更改』重新更新
+如確認Line Developers 後台資訊與Omnichat 後台的社群帳號之設定相同，整合串接依然失效，請至 Line developers後台重新更新 **channel secret** 與  **access token** ，複製新的**channel secret**與**access token** 到Omnichat後台『社群帳號』，按下『更改』重新更新
 
 ![按下『Issue』取得新的Channel Secret ](<../../../../.gitbook/assets/Screen Shot 2021-09-30 at 12.29.04 PM.png>)
 

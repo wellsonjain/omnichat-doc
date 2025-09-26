@@ -14,6 +14,6 @@ description: 可匯入新增顧客名單或既有顧客資料，包含品牌端�
 
 
 
-{% content-ref url="hui-ru-she-qun-lian-luo-ren.md" %}
-[hui-ru-she-qun-lian-luo-ren.md](hui-ru-she-qun-lian-luo-ren.md)
+{% content-ref url="hui-ru-qu-dao-lian-luo-ren.md" %}
+[hui-ru-qu-dao-lian-luo-ren.md](hui-ru-qu-dao-lian-luo-ren.md)
 {% endcontent-ref %}

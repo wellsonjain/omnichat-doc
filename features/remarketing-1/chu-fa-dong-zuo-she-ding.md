@@ -9,9 +9,9 @@ description: 您可以在這裡了解 4 種官網顧客行銷的完整設定
 1. 顧客分眾標籤
 2. [站內行銷訊息](chu-fa-dong-zuo-she-ding.md#zhan-nei-hang-xiao-xun-xi)
 3. [通訊渠道再行銷推播](chu-fa-dong-zuo-she-ding.md#tong-xun-qu-dao-zai-hang-xiao-tui-bo)
-4. [全渠道顧客旅程](chu-fa-dong-zuo-she-ding.md#quan-qu-dao-gu-ke-lv-cheng)
+4. [旅程](chu-fa-dong-zuo-she-ding.md#quan-qu-dao-gu-ke-lv-cheng)
 
-若要以官網顧客行銷作為全渠道顧客旅程的觸發條件，需要先完成加購後方可使用。其他行為可以單獨新增或是同時新增都可以儲存與發布。若新增多個觸發動作，當訪客符合條件後會同時觸發所有動作
+若要以官網顧客行銷作為旅程的觸發條件，需要先完成加購後方可使用。其他行為可以單獨新增或是同時新增都可以儲存與發布。若新增多個觸發動作，當訪客符合條件後會同時觸發所有動作
 
 
 
@@ -74,8 +74,8 @@ description: 您可以在這裡了解 4 種官網顧客行銷的完整設定
 
 
 
-### 全渠道顧客旅程
+### 旅程
 
-可以將官網顧客行銷的造訪，作為全渠道顧客旅程的觸發條件。當訪客符合造訪條件後，就會進入旅程
+可以將官網顧客行銷的造訪，作為旅程的觸發條件。當訪客符合造訪條件後，就會進入旅程
 
 <figure><img src="../../.gitbook/assets/截圖 2024-06-04 下午5.10.11.png" alt=""><figcaption></figcaption></figure>

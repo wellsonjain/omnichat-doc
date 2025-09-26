@@ -8,7 +8,7 @@ description: 整合不同渠道聯絡人為單一顧客（Omni-customer），更
 此功能原名稱：顧客管理
 {% endhint %}
 
-## 顧客介面(1-5)
+## 顧客檔案介面(1-5)
 
 <figure><img src="../../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 

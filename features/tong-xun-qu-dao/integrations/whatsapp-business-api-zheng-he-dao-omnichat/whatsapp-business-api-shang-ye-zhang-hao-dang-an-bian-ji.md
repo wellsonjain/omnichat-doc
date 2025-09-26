@@ -12,7 +12,7 @@ description: >-
 
 ### 步驟二
 
-**從「通訊渠道」-> 「串接社群通訊渠道」-> 「WhatsApp 」-> 點擊鉛筆圖示**
+**從「通訊渠道」-> 「社群帳號」-> 「WhatsApp 」-> 點擊鉛筆圖示**
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午8.16.57.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,5 +1,5 @@
 ---
-description: 遊戲模組主要是提供給 Omnichat 用戶的行銷工具，需額外付費才能使用。
+description: 互動遊戲主要是提供給 Omnichat 用戶的行銷工具，需額外付費才能使用。
 ---
 
 # 互動遊戲  （加購功能）
@@ -11,7 +11,7 @@ description: 遊戲模組主要是提供給 Omnichat 用戶的行銷工具，需
 想試用的客戶可以直接到 LINE 遊戲市集申請新帳號免費試用 14 天喔 \
 → LINE 遊戲市集：[https://tw.line-oa-marketplace.com/list/omnichat-lottery](https://tw.line-oa-marketplace.com/list/omnichat-lottery)
 
-Omnichat 提供五種不同的遊戲模組 — [**強運滾滾拉霸**](qiang-yun-gun-gun-la-ba.md)**、**[**驚喜重重扭蛋**](jing-xi-chong-chong-niu-dan.md)**、**[**手氣旺旺刮刮樂**](shou-qi-wang-wang-gua-gua-le.md)**、**[**好運連連抽籤**](hao-yun-lian-lian-chou-qian.md)**及**[**好命轉轉輪盤**](hao-ming-zhuan-zhuan-lun-pan.md)。_**目前可以使用在 Facebook、Instagram、LINE 及 WhatsApp 渠道上**_
+Omnichat 提供五種不同的互動遊戲 — [**強運滾滾拉霸**](qiang-yun-gun-gun-la-ba.md)**、**[**驚喜重重扭蛋**](jing-xi-chong-chong-niu-dan.md)**、**[**手氣旺旺刮刮樂**](shou-qi-wang-wang-gua-gua-le.md)**、**[**好運連連抽籤**](hao-yun-lian-lian-chou-qian.md)**及**[**好命轉轉輪盤**](hao-ming-zhuan-zhuan-lun-pan.md)。_**目前可以使用在 Facebook、Instagram、LINE 及 WhatsApp 渠道上**_
 
 {% hint style="info" %}
 1. 一個遊戲活動只能在一個社群平台使用&#x20;
@@ -48,8 +48,8 @@ Omnichat 提供五種不同的遊戲模組 — [**強運滾滾拉霸**](qiang-yu
 [hao-ming-zhuan-zhuan-lun-pan.md](hao-ming-zhuan-zhuan-lun-pan.md)
 {% endcontent-ref %}
 
-{% content-ref url="you-xi-mo-zu-ying-yong.md" %}
-[you-xi-mo-zu-ying-yong.md](you-xi-mo-zu-ying-yong.md)
+{% content-ref url="../hu-dong-you-xi-jia-gou-gong-neng/hu-dong-you-xi-ying-yong.md" %}
+[hu-dong-you-xi-ying-yong.md](../hu-dong-you-xi-jia-gou-gong-neng/hu-dong-you-xi-ying-yong.md)
 {% endcontent-ref %}
 
 {% content-ref url="chang-jian-wen-ti.md" %}

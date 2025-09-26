@@ -10,14 +10,14 @@ description: >-
 
 {% hint style="info" %}
 1. 目前該功能僅限自架官網的品牌使用。若不是自架網站者，後續 Omnichat 會持續優化相關功能，敬請期待
-2. 若想查詢 LINE 會員卡功能，請參考 [**LINE 會員卡設定**](https://app.gitbook.com/o/-L_qBouk_wijumBR7PT3/s/-LaFmilpuDQ-f7VKjHCH/~/changes/1610/features/tong-xun-qu-dao/line-hui-yuan-ka-she-ding-jia-gou-gong-neng)
+2. 若想查詢 LINE 會員卡功能，請參考 [**LINE 會員卡**](https://app.gitbook.com/o/-L_qBouk_wijumBR7PT3/s/-LaFmilpuDQ-f7VKjHCH/~/changes/1610/features/tong-xun-qu-dao/line-hui-yuan-ka-she-ding-jia-gou-gong-neng)
 {% endhint %}
 
 ## 後台設定畫面（品牌方畫面）
 
-### 1 會員卡設定 <a href="#whatsapp-membercard-setting" id="whatsapp-membercard-setting"></a>
+### 1 會員卡 <a href="#whatsapp-membercard-setting" id="whatsapp-membercard-setting"></a>
 
-* 會員卡設定頁面路徑： 通訊渠道> 會員卡設定
+* 會員卡頁面路徑： 通訊渠道> 會員卡
 * 選擇 WhatsApp 頁籤，並點選紅框中的鉛筆圖示開始進行編輯
 
 <figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>

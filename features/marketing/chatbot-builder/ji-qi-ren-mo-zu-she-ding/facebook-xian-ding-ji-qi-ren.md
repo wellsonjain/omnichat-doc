@@ -64,9 +64,9 @@ FB 行銷推播內容只限客人過去跟品牌 24 小時內有互動才能成�
 
 ![](<../../../../.gitbook/assets/截圖 2022-03-30 下午6.55.40.png>)
 
-#### 五、**在**[**遊戲模組**](../../../you-xi-mo-zu-jia-gou-gong-neng/)**中設定觸發定期通知訊息**
+#### 五、**在**[**互動遊戲**](../../../you-xi-mo-zu-jia-gou-gong-neng/)**中設定觸發定期通知訊息**
 
-當客人遊玩遊戲模組時，可以設計其中一個獎項是觸發定期通知**FB recurring notifications**訊息，讓中獎的客人進一步訂閱
+當客人遊玩互動遊戲時，可以設計其中一個獎項是觸發定期通知**FB recurring notifications**訊息，讓中獎的客人進一步訂閱
 
 <figure><img src="../../../../.gitbook/assets/教學文章_FB 定期訂閱通知.jpg" alt=""><figcaption></figcaption></figure>
 

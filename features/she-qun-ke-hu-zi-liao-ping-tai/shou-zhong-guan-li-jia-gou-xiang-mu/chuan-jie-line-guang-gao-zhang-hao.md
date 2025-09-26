@@ -1,12 +1,12 @@
 ---
-description: 💡使用受眾管理功能的上傳受眾包至LINE 廣告平台前需要完成串接LINE 廣告帳號
+description: 💡使用受眾分群功能的上傳受眾包至LINE 廣告平台前需要完成串接LINE 廣告帳號
 ---
 
 # 串接 LINE 廣告帳號
 
 ### 串接 LINE 廣告帳號路徑：
 
-Omnichat 系統後台**通訊渠道**＞**串接社群通訊渠道** > **LINE** > **LINE 廣告帳號**
+Omnichat 系統後台**通訊渠道**＞**社群帳號** > **LINE** > **LINE 廣告帳號**
 
 串接時需要填寫以下資訊：
 
@@ -41,7 +41,7 @@ Omnichat 系統後台**通訊渠道**＞**串接社群通訊渠道** > **LINE** 
 
 <figure><img src="../../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
-4. &#x20;關於取得 Omnichat IP 的路徑： 通訊渠道＞串接社群通訊渠道 > LINE > LINE 廣告帳號
+4. &#x20;關於取得 Omnichat IP 的路徑： 通訊渠道＞社群帳號 > LINE > LINE 廣告帳號
 
 <figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 

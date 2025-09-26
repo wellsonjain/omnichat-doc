@@ -46,8 +46,8 @@ A：不可以。Login channel 可以使用同一個，但 LIFF 必須要分開�
 
 關於遊戲模組 LIFF 設定
 
-{% content-ref url="you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md" %}
-[you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md](you-xi-mo-zu-zhuan-yong-line-liff-id-she-ding.md)
+{% content-ref url="hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md" %}
+[hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md](hu-dong-you-xi-zhuan-yong-line-liff-id-she-ding.md)
 {% endcontent-ref %}
 
 關於社群身份綁定 LIFF 設定

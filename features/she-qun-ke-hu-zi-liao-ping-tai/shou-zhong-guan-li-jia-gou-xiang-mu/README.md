@@ -2,19 +2,19 @@
 description: 此功能支援品牌儲存常用條件、將條件快速應用至推播
 ---
 
-# 受眾分群  （加購項目）
+# 受眾分群（加購項目）
 
 {% hint style="info" %}
 此功能原名稱：受眾管理
 {% endhint %}
 
 * 建立受眾包
-* [受眾管理列表](./#shou-zhong-guan-li-lie-biao)
-* [如何使用受眾管理功能推播？](./#ru-he-shi-yong-shou-zhong-guan-li-gong-neng-tui-bo)
+* [受眾分群列表](./#shou-zhong-guan-li-lie-biao)
+* [如何使用受眾分群功能推播？](./#ru-he-shi-yong-shou-zhong-guan-li-gong-neng-tui-bo)
 
 ### 建立受眾包
 
-路徑位於左欄的「社群客戶資料平台」下找到「受眾管理」，在右上角建立受眾包。
+路徑位於左欄的「社群客戶資料平台」下找到「受眾分群」，在右上角建立受眾包。
 
 <figure><img src="../../../.gitbook/assets/建立受眾包.png" alt=""><figcaption><p>建立受眾包</p></figcaption></figure>
 
@@ -50,7 +50,7 @@ description: 此功能支援品牌儲存常用條件、將條件快速應用至�
 
 <figure><img src="../../../.gitbook/assets/建立受眾包最後一步.png" alt=""><figcaption><p>建立成功頁面</p></figcaption></figure>
 
-### 受眾管理列表
+### 受眾分群列表
 
 <figure><img src="../../../.gitbook/assets/列表頁標記.png" alt=""><figcaption><p>列表頁面</p></figcaption></figure>
 
@@ -71,10 +71,10 @@ description: 此功能支援品牌儲存常用條件、將條件快速應用至�
 
 7. 建立受眾包：點擊後進入[設定頁面](./#she-ding-ye-mian)
 
-### 如何使用受眾管理功能推播？
+### 如何使用受眾分群功能推播？
 
 教學請見[這裡](https://docs.omnichat.ai/features/tui-bo-2.0/she-ding-xin-tui-bo)。
 
-### 如何將受眾管理的受眾上傳至LINE建立廣告受眾？
+### 如何將受眾分群的受眾上傳至LINE建立廣告受眾？
 
 [教學請參考下頁說明](jian-li-line-guang-gao-shou-zhong.md)

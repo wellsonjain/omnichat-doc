@@ -16,7 +16,7 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 ### 串接步驟
 
 1. 登入 [Omnichat 後台](https://app.omnichat.ai/)
-2. 在左側選單選擇「**通訊渠道 >** [**串接社群通訊渠道**](https://console.omnichat.ai/social-channels-integration)」
+2. 在左側選單選擇「**通訊渠道 >** [**社群帳號**](https://console.omnichat.ai/social-channels?tab=facebook-pages)」
 3. 點擊 **Facebook Messenger** 分頁部份 -> 點擊「**串接 Facebook 專頁**」
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.01.45 (1).png" alt=""><figcaption></figcaption></figure>
@@ -115,7 +115,7 @@ Facebook 的授權會因為以下原因而失效，授權失效後會影響 Omni
 你可以根據以下步驟重新授權：
 
 1. 登入 [Omnichat 後台](https://app.omnichat.ai/)
-2. 在左側選單選擇 「**通訊渠道 >** [**串接社群通訊渠道**](https://app.omnichat.ai/integration.html)」 _（點擊連結可直接進入團隊後台串接頁面）_
+2. 在左側選單選擇 「**通訊渠道 >** [**社群帳號**](https://console.omnichat.ai/social-channels?tab=facebook-pages)」 _（點擊連結可直接進入團隊後台串接頁面）_
 3. 打開 **Facebook Messenger 分頁**
 4. 在**已串接的Facebook 專頁**，點擊 「**解除串接**」 把需要重新授權的 Facebook 專頁斷開連接
 

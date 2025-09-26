@@ -1,7 +1,7 @@
 ---
 description: >-
   官網綁定按鈕可讓您在網站上快速獲得 Facebook、LINE 和 WhatsApp 的訂閱中的聯絡人。建立更有效的 Facebook、LINE 和
-  WhatsApp 用戶經營官網
+  WhatsApp 用戶經營
 ---
 
 # 官網綁定
@@ -21,11 +21,11 @@ description: >-
 
 ### 不只是成為訂閱中的聯絡人
 
-在官網按下 「社群訂閱按鈕」 的訪客，如果有完成後續的訂閱流程，會成為 **「有綁定身份」** 的聯絡人，您可以在後台 「[社群聯絡人](../../she-qun-ke-hu-zi-liao-ping-tai/she-qun-lian-luo-ren.md)」 頁面，看到消費者的訂閱狀態、加入訂閱時間、是否綁定官網（於動作當中點擊看到更多）
+在官網按下 「官網綁定按鈕」 的訪客，如果有完成後續的訂閱流程，會成為 **「有綁定身份」** 的聯絡人，您可以在後台 「[渠道聯絡人](../../she-qun-ke-hu-zi-liao-ping-tai/she-qun-lian-luo-ren.md)」 頁面，看到消費者的訂閱狀態、加入訂閱時間、是否綁定官網（於動作當中點擊看到更多）
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-05-21 下午4.23.08.png" alt=""><figcaption></figcaption></figure>
 
-社群聯絡人- 查看詳情頁面
+渠道聯絡人- 查看詳情頁面
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-05-21 下午4.29.01.png" alt=""><figcaption></figcaption></figure>
 
@@ -109,11 +109,11 @@ description: >-
 如果選擇開啟，但沒有輸入秒數的話，將視為關閉
 {% endhint %}
 
-### Feacebook 官網綁定功能重新上線
+### Facebook 官網綁定功能重新上線
 
 {% hint style="info" %}
 自 2024 年 9 月 30 日起，Facebook 中斷原有功能服務
 {% endhint %}
 
-* Feacebook 官網綁定改用 [m.me](http://m.me/) 連結 支援
-* 限制：目前 Facebook 官方「[m.me](http://m.me) 連結」功能在 Android 系統上暫時無法使用，因此 Android 無法提供官網綁定功能
+* Facebook 官網綁定改用 [m.me](http://m.me/) 連結 支援
+* 限制：目前 Facebook 官方「[m.me](http://m.me) 連結」功能在 Android 系統上暫時無法使用，因此 Android 無法提供官網綁定功能。

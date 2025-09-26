@@ -1,7 +1,7 @@
-# 遊戲模組專用—LINE LIFF ID 設定
+# 互動遊戲專用—LINE LIFF ID 設定
 
 {% hint style="info" %}
-若您尚未建立過 LINE Login Channel 請您先參考[此篇教學文件說明](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/she-ding-liff-id-xian-she-ding-login-channel#nothaveloginchannel)，完成建立 Login Channel 建立後再進行遊戲模組 LIFF ID 的設定
+若您尚未建立過 LINE Login Channel 請您先參考[此篇教學文件說明](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/she-ding-liff-id-xian-she-ding-login-channel#nothaveloginchannel)，完成建立 Login Channel 建立後再進行互動遊戲 LIFF ID 的設定
 {% endhint %}
 
 ### 步驟一：
@@ -15,7 +15,7 @@
 
 ### **步驟二：將創建的 LIFF 填入資訊**
 
-1. LIFF app name 填 **Omnichat 遊戲模組**
+1. LIFF app name 填 **Omnichat 互動遊戲**
 2. Size 選 **tall**
 3. Endpoint URL 填：https://game.omnichat.ai/?liffId=
 4. Scopes 三個選項全勾
@@ -59,7 +59,7 @@ Ex: [https://game.omnichat.ai/?liffId=1655713626-ljKQMJy2](https://game.omnichat
 
 ### 步驟六：最後一步！
 
-到通訊渠道 -> 串接社群通訊渠道 -> 點開三個點的地方，按下「編輯」
+到通訊渠道 -> 社群帳號 -> 點開三個點的地方，按下「編輯」
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午7.47.34.png" alt=""><figcaption></figcaption></figure>
 
