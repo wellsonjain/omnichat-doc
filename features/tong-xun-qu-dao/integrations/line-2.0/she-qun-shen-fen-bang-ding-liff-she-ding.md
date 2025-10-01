@@ -17,7 +17,14 @@ description: 透過設定並取得 LIFF ID，讓消費者不需輸入六位數�
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午7.50.46.png" alt=""><figcaption></figcaption></figure>
 
-取得 LIFF ID 需要進到 LINE Developer 後台內的 Login Channel 進行設定。如何進到 LINE Developer 後台以及 Login Channel 內注意事項，請回到[設定 LIFF ID ](she-ding-liff-id-xian-she-ding-login-channel.md#she-ding-login-channel-qian-xian-que-ren-shi-fou-yi-jing-you-line-guan-fang-zhang-hao-xiang-dui-ying)這邊的步驟
+上圖中的「綁定 LIFF ID」需要進到 LINE Developer 後台內的 Login Channel 設定後取得。\
+若不知道如何進入LINE Developer後台或尚未設定過Login Channel，請先點擊到[此教學頁面](she-ding-liff-id-xian-she-ding-login-channel.md)設定 Login Channel。
+
+若已有設定過 Login Channel，請先協助確認以下設定項目是否正確：
+
+* LINE Login Channel 是否有跟 Messaging API Channel 在同一個 Provider 下面
+* Developing 已有改為 Published（請參考[此步驟](she-ding-liff-id-xian-she-ding-login-channel.md#bu-zhou-san-jiang-login-channel-diao-zheng-wei-published)）
+* LINE Login 的 Linked OA 已有選到正確的 LINE OA 帳號（請參考[此步驟](she-ding-liff-id-xian-she-ding-login-channel.md#bu-zhou-si-diao-zheng-login-channel-lian-jie-line-guan-fang-zhang-hao)）
 
 {% hint style="danger" %}
 1. **綁定 LIFF ID 與遊戲模組 LIFF ID 不能使用同一個**
@@ -25,7 +32,7 @@ description: 透過設定並取得 LIFF ID，讓消費者不需輸入六位數�
 3. **設定完畢後社群身份綁定成功訊息以『Push API』發送，LINE 方會收推播訊息費用**
 {% endhint %}
 
-順利進到 Login Channel 後，點擊「LIFF」，並按下「Add」
+確定上述設定項目皆正確後，請進到 Login Channel 點擊「LIFF」，並按下「Add」
 
 ![](<../../../../.gitbook/assets/截圖 2022-03-31 下午4.16.13.png>)
 
