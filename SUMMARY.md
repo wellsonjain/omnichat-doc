@@ -159,6 +159,7 @@
     * [未結商品訊息卡片](features/marketing/new-chatbot/wei-jie-shang-pin-xun-xi-ka-pian.md)
     * [系統預設模組 - 91APP 限定模組（LINE only）](features/marketing/new-chatbot/xi-tong-yu-she-mo-zu-91app-xian-ding-mo-zu-line-only/README.md)
       * [附錄 - 91APP 會員綁定 vs Omnichat 會員綁定](features/marketing/new-chatbot/xi-tong-yu-she-mo-zu-91app-xian-ding-mo-zu-line-only/fu-lu-91app-hui-yuan-bang-ding-vs-omnichat-hui-yuan-bang-ding.md)
+    * [WhatsApp Flow 卡片 (WhatsApp only)](features/marketing/new-chatbot/whatsapp-flow-ka-pian-whatsapp-only.md)
   * [關鍵字自動回覆](features/marketing/keyword-autoreply.md)
   * [訊息自動回覆](features/marketing/xun-xi-zi-dong-hui-fu.md)
   * [關鍵字自動指派](features/marketing/keyword-auto-assign.md)
