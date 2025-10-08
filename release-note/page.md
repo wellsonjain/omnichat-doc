@@ -1,0 +1,63 @@
+# Page
+
+哈囉，親愛的 Omnichat 用戶！
+
+以下是我們為您帶來的功能更新：
+
+1. [Loyalty 新功能](page.md#loyalty-xin-gong-neng-zhi-yuan-qr-code-ji-dian)：支援 QR Code 集點
+2. [標籤管理新功能](page.md#biao-qian-guan-li-xin-gong-neng-zhi-yuan-pi-ci-hui-chu-hui-ru)：支援 批次匯出 / 匯入
+
+## Loyalty 新功能：支援 **QR Code 集點**
+
+線下活動、通路鋪貨也能做會員經營！
+
+現在品牌可以透過 **QR Code 集點機制**，產生一次性發放點數的連結，製作成 QRcode，在門市、活動現場發放給顧客掃描後，立即累積點數並完成會員互動。
+
+此為 Loyalty 模組進階功能，若有使用需求，請與業務窗口聯絡討論。
+
+#### 功能重點
+
+* **顧客掃碼集點**：支援 LINE、WhatsApp，掃描 QR Code 即可獲得點數。
+* **唯一點數碼**：每組點數僅能領取一次，避免重複使用。
+* **彈性活動設計**：可設定活動參與次數上限，並針對成功領點顧客自動貼標。
+* **無需 POS 系統**：對國際品牌特別友善，省掉跟國際總部溝通的龐大時間成本，快速導入集點活動。
+
+#### 使用情境
+
+* **門市活動**：現場掃碼，立即領取點數，將一次性消費延伸成長期互動。
+* **隨貨附贈**：在每個出貨包裹內放置 QR Code，讓不同通路的顧客都能參與集點，提升回購與忠誠度。
+
+<figure><img src="../.gitbook/assets/Loyalty Cloud - Loyalty Points Salesdeck - ZH _ LINE.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Loyalty Cloud - Loyalty Points Salesdeck - ZH _ LINE (1).png" alt=""><figcaption></figcaption></figure>
+
+## 標籤管理新功能：支援**批次匯出 / 匯入**
+
+不用再一個一個新增或修改標籤了！
+
+現在你可以透過 **CSV 匯出與匯入**，快速完成大批量的標籤整理與更新。
+
+#### 對你有什麼幫助？
+
+* **批次操作更省時**：大量標籤一次處理，管理效率大幅提升。
+* **快速搬移資料**：支援跨系統、跨活動的標籤資料整理。
+* **降低錯誤率**：透過 CSV 格式，避免逐筆輸入時的人為疏漏。
+
+#### 功能重點
+
+* **匯出標籤**：一鍵匯出 CSV，內容包含：
+  * 標籤名稱 (Tag Name)
+  * 類別 (Category)
+  * 有效時間 (Validity Period：Permanent 或 X 天到期)
+* **匯入標籤**：上傳 CSV，即可快速新增或更新標籤：
+  * 已存在的標籤 → 更新類別或有效時間
+  * 不存在的標籤 → 自動新增
+  * 支援永久 / 限期設定，以及自動建立新類別
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### 注意事項
+
+* 匯入時需移除標籤名稱及類別名稱前後空白。
+* 若要將標籤從有特定類別改為未分類，請輸入 **#DELETE\_CATEGORY#**。
+* 每次匯入需等待完成後，才能進行下一次匯入。
