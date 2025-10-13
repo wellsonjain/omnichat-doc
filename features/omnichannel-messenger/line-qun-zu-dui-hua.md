@@ -6,6 +6,10 @@ description: LINE群組對話讓您能一次和多位客人或同事溝通，提
 
 Omnichat 現在支援LINE群組對話囉！您可以在Omnichat上和客人進行LINE群組對話，不論是多位窗口、客人需要同步溝通，還是團隊協作處理問題，都能讓交流更順暢、訊息不漏接！🙌
 
+{% embed url="https://share.synthesia.io/f8af962f-ffa5-4ab9-90a6-b7651188d798" %}
+影片 03:34 開始為LINE 群組對話教學
+{% endembed %}
+
 以下我們將介紹如何建立LINE群組對話，如何在Omnichat後台管理群組對話，可以使用群組對話功能的角色有哪些，也包含了群組設定方式、訊息功能，以及對話操作流程👇：
 
 * [適用角色](line-qun-zu-dui-hua.md#shi-yong-jue-se)
