@@ -121,6 +121,12 @@
 
 ### Step 7 設定按鈕（ Buttons）
 
+{% hint style="warning" %}
+須選完範本 「分類」 （Marketing, Utility），才能出現 「按鈕設定」 介面。
+{% endhint %}
+
+<figure><img src="../../../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
+
 按鈕可以可以選擇兩種類型：Call To Action 或 Quick Reply (快速回覆）
 
 1. Call To Action：可以選擇『前往網站』或者『撥打電話』兩個不同動作。可設置：
