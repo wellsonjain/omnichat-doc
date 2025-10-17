@@ -6,7 +6,7 @@ description: 完整記錄全渠道顧客數量與顧客來源。
 
 ## 全渠道顧客分析
 
-<figure><img src="../../.gitbook/assets/全渠道顧客分析.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-09-26 下午2.22.38.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. 全渠道顧客
 
@@ -44,7 +44,7 @@ description: 完整記錄全渠道顧客數量與顧客來源。
 
 ## 渠道聯絡人總覽
 
-<figure><img src="../../.gitbook/assets/０５３１０１.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-09-26 下午2.23.02.png" alt=""><figcaption></figcaption></figure>
 
 1. 選擇日期區間。
 2. 圖表的時間單位：每週、每月、每年。
@@ -54,31 +54,23 @@ description: 完整記錄全渠道顧客數量與顧客來源。
 透過步驟 1 選取想要查看的期間，下方 4 張圖表將會同時調整成選取查看的區間。
 {% endhint %}
 
-
-
 ### 總聯絡人數
 
 各社群渠道中的聯絡人的數量總計。
 
 <figure><img src="../../.gitbook/assets/總聯絡人數.png" alt=""><figcaption><p>（累計人數）</p></figcaption></figure>
 
-
-
 ### 總社群身份綁定數
 
 各社群渠道中有效聯絡人完成社群身份綁定的人數總計。
 
-<figure><img src="../../.gitbook/assets/社群綁定.png" alt=""><figcaption><p>（累計人數）</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (528).png" alt=""><figcaption></figcaption></figure>
 
 ### 新聯絡人數
 
 各社群渠道中的新增聯絡人的次數總計。
 
-<figure><img src="../../.gitbook/assets/新聯絡人數.png" alt=""><figcaption><p>（新增次數）</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/截圖 2025-09-26 下午2.27.54.png" alt=""><figcaption></figcaption></figure>
 
 ### 取消訂閱數
 
@@ -86,20 +78,18 @@ description: 完整記錄全渠道顧客數量與顧客來源。
 
 <figure><img src="../../.gitbook/assets/取消訂閱數.png" alt=""><figcaption><p>（新增次數）</p></figcaption></figure>
 
-
-
 ## 社群身份綁定來源
 
 記錄全渠道顧客完成社群身份綁定的方式與次數。
 
-<figure><img src="../../.gitbook/assets/社群綁定 (1).png" alt=""><figcaption><p>（新增次數）</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-09-26 下午2.28.16.png" alt="" width="342"><figcaption></figcaption></figure>
 
 1. 選擇想要查看的月份。
 2. 該月份社群身份綁定新增總次數。
-3. 社群綁定插件：透過官網頁面中的社群綁定按鈕完成綁定的顧客數量。
-4. 機器人導向官網：透過點擊機器人按鈕完成綁定的顧客數量。
-5. 購物車再行銷：透過官網購物車追蹤插件頁面中的按鈕完成綁定的顧客數量。
-6. Omnichat Pixel<mark style="color:red;">（WhatsApp 限定）</mark>：當 Pixel 記錄官網有新的會員（電話號碼）時，同時會建立/綁定 WhatsApp 用戶。
+3. **社群綁定插件：**&#x900F;過官網頁面中的社群綁定按鈕完成綁定的顧客數量。
+4. **機器人導向官網：**&#x900F;過點擊機器人按鈕完成綁定的顧客數量。
+5. **購物車再行銷：**&#x900F;過官網購物車追蹤插件頁面中的按鈕完成綁定的顧客數量。
+6. **Omnichat Pixel**<mark style="color:red;">**（WhatsApp 限定）**</mark>**：**&#x7576; Pixel 記錄官網有新的會員（電話號碼）時，同時會建立/綁定 WhatsApp 用戶。
 
 {% hint style="info" %}
 1) 如何在官網頁面中設定社群綁定按鈕？\
@@ -110,13 +100,11 @@ description: 完整記錄全渠道顧客數量與顧客來源。
    [點我看說明](https://docs.omnichat.ai/features/gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/she-ding-gou-wu-che-zhui-zong-an-niu) 👈
 {% endhint %}
 
-
-
 ## 新聯絡人來源
 
 紀錄顧客透過哪些方式加入社群渠道。
 
-<figure><img src="../../.gitbook/assets/新聯絡人.webp" alt=""><figcaption><p>（新增次數）</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-09-26 下午2.28.22.png" alt="" width="341"><figcaption></figcaption></figure>
 
 1. 選擇想要查看的月份。
 2. 總數：該月份聯絡人新增總次數。
@@ -130,10 +118,10 @@ description: 完整記錄全渠道顧客數量與顧客來源。
 
 各社群渠道中的有效聯絡人數量與佔比、取消訂閱（封鎖）的人數。
 
-<figure><img src="../../.gitbook/assets/社群渠道有效聯絡人.png" alt=""><figcaption><p>（社群渠道有效聯絡人數量總覽）</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-09-26 下午2.28.47.png" alt="" width="344"><figcaption></figcaption></figure>
 
-1. 總數：所有社群渠道的有效聯絡人數量。
-2. 渠道：與 Omnichat 後台串接完成的所有社群渠道。
-3. 有效聯絡人（取消訂閱）：該社群渠道中的有效聯絡人數量。（該社群渠道中<mark style="color:red;">已封鎖</mark>或<mark style="color:red;">已取消訂閱</mark>的聯絡人數量）
-4. 佔比：該社群渠道有效聯絡人數量 / 該社群渠道總聯絡人數量。
+1. **總數：**&#x6240;有社群渠道的有效聯絡人數量。
+2. **渠道：**&#x8207; Omnichat 後台串接完成的所有社群渠道。
+3. **有效聯絡人（取消訂閱）：**&#x8A72;社群渠道中的有效聯絡人數量。（該社群渠道中<mark style="color:red;">已封鎖</mark>或<mark style="color:red;">已取消訂閱</mark>的聯絡人數量）
+4. **佔比：**&#x8A72;社群渠道有效聯絡人數量 / 該社群渠道總聯絡人數量。
 

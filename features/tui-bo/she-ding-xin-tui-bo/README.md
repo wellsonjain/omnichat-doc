@@ -1,15 +1,15 @@
 # 設定新推播
 
-點擊推播紀錄右上角的 「新推播」 按鈕即可設定新的推播內容
+點擊推播紀錄右上角的 「 新推播 」 按鈕即可設定新的推播內容
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-04-12 下午4.26.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-07 下午5.53.22.png" alt=""><figcaption></figcaption></figure>
 
 推播流程共有下方兩個步驟：
 
 * 受眾設定
 * [推播設定](./#tui-bo-she-ding-line)
 
-### 受眾設定
+## 受眾設定
 
 可利用以下三種方式篩選受眾：
 
@@ -17,33 +17,35 @@
 2. [使用自訂條件](./#shi-yong-zi-ding-tiao-jian)
 3. [上傳CSV檔案推播](./#shi-yong-csv-tui-bo)
 
-### 使用受眾包（需要加購）
+### 使用受眾包（加購項目）
 
 #### 推播設定頁面
 
-<figure><img src="../../../.gitbook/assets/推播 - 設定頁面.png" alt=""><figcaption><p>推播受眾設定</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-08 下午3.19.46.png" alt=""><figcaption></figcaption></figure>
 
-1. 下拉選單選擇受眾包，每次點擊都會重整受眾包最新清單
+1. **受眾包：**&#x4E0B;拉選單選擇受眾包，每次點擊都會重整受眾包最新清單
 
-<figure><img src="../../../.gitbook/assets/推播-受眾包清單.png" alt=""><figcaption><p>受眾包清單</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-08 下午3.19.59.png" alt=""><figcaption></figcaption></figure>
 
-2. 選擇受眾包後會自動帶入受眾包設定的通訊渠道
-3. 也會自動帶入受眾包設定的條件，**此時不可編輯通訊渠道以及受眾條件**
-4. 套用至自訂條件：上方選項將切換為「自訂條件」，可編輯所有條件，且不會影響原受眾包的條件設定
-5. 編輯受眾包：跳轉至受眾管理 / 受眾包編輯頁
-6. 點擊後更新以下內容
+2. **通訊渠道：**&#x9078;擇受眾包後會自動帶入受眾包設定的通訊渠道
+3. **標籤：**&#x4E5F;會自動帶入受眾包設定的條件，**此時不可編輯通訊渠道以及受眾條件**
+4. **套用至自訂條件：**&#x4E0A;方選項將切換為 「 自訂條件 」，讓品牌可以依據受眾包的設定去編輯其他條件，且**不會**影響原受眾包的條件設定
+5. **編輯受眾包：**&#x8DF3;轉至受眾管理／受眾包編輯頁
+6. **更新人數：**&#x9EDE;擊後更新以下內容
    * 受眾包條件
    * 符合條件的聯絡人數
    * 受眾包列表
-7. 查看名單：預覽受眾名單
+7. **查看名單：**&#x9810;覽受眾名單
 
 #### 選擇受眾包時機與對應功能
 
 <table><thead><tr><th width="114">推播狀態</th><th align="center">更改受眾包</th><th width="204" align="center">套用至自訂條件</th><th align="center">編輯受眾包</th></tr></thead><tbody><tr><td>草稿</td><td align="center">〇</td><td align="center">〇</td><td align="center">〇</td></tr><tr><td>排程中</td><td align="center">X</td><td align="center">X</td><td align="center">〇（見下方注意事項）</td></tr><tr><td>等待中</td><td align="center">X</td><td align="center">X</td><td align="center">X</td></tr><tr><td>處理中</td><td align="center">X</td><td align="center">X</td><td align="center">X</td></tr></tbody></table>
 
 {% hint style="warning" %}
-如果推播狀態為<mark style="color:red;">**「排程中」**</mark>，且需修改受眾包內容，由於系統會在<mark style="color:red;">**實際推播前15分鐘**</mark>抓取最新的受眾資料，為避免資料未能即時同步，**請務必於實際推播時間前15分鐘或更早完成受眾包的編輯**。
+如果推播狀態為 <mark style="color:red;">**「 排程中 」**</mark>，且需修改受眾包內容，由於系統會在 <mark style="color:red;">**實際推播前15分鐘**</mark> 抓取最新的受眾資料，為避免資料未能即時同步，**請務必於實際推播時間前15分鐘或更早完成受眾包的編輯**。
 {% endhint %}
+
+
 
 ### 使用自訂條件
 
@@ -67,20 +69,21 @@ Instagram 目前尚未支援發送推播訊息，但可以進行手動貼標
 * 客人最後互動時間：聯絡人跟您的粉專或官方帳號最後互動時間，例如：發送訊息給您、跟您設計的機器人互動、訂閱您粉專或帳號
 {% endhint %}
 
-若選擇與時間相關的篩選條件時，將滑鼠停留在條件上方，即會顯示相關說明
+* 若選擇與時間相關的篩選條件時，將滑鼠停留在條件上方，即會顯示相關說明
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-04-12 下午5.31.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-08 下午3.29.36.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-若新增兩個以上的篩選條件，條件之間彼此的關係為 「交集」。\
-例如：同時新增 「客人最後互動時間-30 天內」 與 「社群身份綁定-已綁定」，則篩選出來的名單為同時符合這兩個條件的名單，只符合其中一項的受眾會被排除在外。
+若新增兩個以上的篩選條件，條件之間彼此的關係為 「 交集 」。\
+例如：同時新增 「 客人最後互動時間－30 天內 」 與 「 社群身份綁定－已綁定 」，則篩選出來的名單為同時符合這兩個條件的名單，只符合其中一項的受眾會被排除在外。
 {% endhint %}
 
-完成篩選條件的選擇後，可以點擊右側的 「更新人數」 按鈕，即會顯示符合該條件的受眾包人數
-
-若**點擊人數數字**或是**點擊 「查看名單」** 按鈕，會彈出詳細的受眾包名單
+* 完成篩選條件的選擇後，可以點擊右側的 「更新人數」 按鈕，即會顯示符合該條件的受眾包人數
+* 若**點擊人數數字**或是**點擊 「 查看名單 」** 按鈕，會彈出詳細的受眾包名單。
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-04 下午4.08.41.png" alt="" width="340"><figcaption></figcaption></figure>
+
+
 
 ### 使用 CSV 推播
 
@@ -107,29 +110,29 @@ Omnichat 支援使用客人的 「**社群編號**」、「**會員編號**（ *
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-04 下午4.15.14.png" alt="" width="563"><figcaption><p>需先下載範例檔案編輯受眾資料</p></figcaption></figure>
 
-如果在上傳 CSV 時選擇以「**電話**」為項目，可以勾選「**檢查是否符合 Email 標準格式或國際電話號碼格式**」選項。
+如果在上傳 CSV 時選擇以 「 **電話** 」 為項目，可以勾選 「 **檢查是否符合 Email 標準格式或國際電話號碼格式** 」 選項。
 
 勾選後，系統會檢查上傳的電話號碼是否有加入國碼，若未包含國碼，將會導致上傳失敗。
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-04 下午4.50.14.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-注意：「CSV檔案」 與 「社群聯絡人」 的**電話格式須**一致。
+注意：「 CSV檔案 」 與 「渠道聯絡人」 的**電話格式須**一致。
 
-舉例來說，如果社群聯絡人的電話是 09xxxxxxxx，那麼在 CSV 檔案中電話的格式也必須是 09xxxxxxxx，且<mark style="color:red;">不要勾選「比對國碼」這個選項</mark>（如果勾選了，因為電話沒有國碼，會導致上傳失敗）。
+舉例來說，如果渠道聯絡人的電話是 09xxxxxxxx，那麼在 CSV 檔案中電話的格式也必須是 09xxxxxxxx，且<mark style="color:red;">不要勾選 「 比對國碼 」 這個選項</mark>（如果勾選了，因為電話沒有國碼，會導致上傳失敗）。
 
-溫馨提醒：excel 將數值 「格式」 改選 「純文字」 ，則電話前方輸入0時不會被自動移除。
+溫馨提醒：excel 將數值 「 格式 」 改選 「 純文字 」 ，則電話前方輸入0時不會被自動移除。
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-04 下午5.06.57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-08 下午3.49.58.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-反之，如果您收集到的「社群聯絡人」電話是 8869xxxxxxxx，那麼在「CSV 檔案」中也必須使用 8869xxxxxxxx。此時，<mark style="color:red;">無論是否勾選「比對國碼」選項，都可以成功上傳</mark>，因為電話號碼已包含國碼。
+反之，如果您收集到的 「 渠道聯絡人 」 電話是 8869xxxxxxxx，那麼在 「 CSV 檔案 」 中也必須使用 8869xxxxxxxx。此時，<mark style="color:red;">無論是否勾選 「 比對國碼 」 選項，都可以成功上傳</mark>，因為電話號碼已包含國碼。
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-04 下午5.36.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-08 下午3.51.46.png" alt=""><figcaption></figcaption></figure>
 
-### CSV檔案上傳失敗/成功畫面
+### CSV檔案上傳失敗／成功畫面
 
 **失敗（上傳後將提示錯誤原因）**
 
@@ -151,20 +154,21 @@ Omnichat 支援使用客人的 「**社群編號**」、「**會員編號**（ *
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-06 下午11.54.17 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 推播設定（**LINE）**
+### 推播設定－**LINE**
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-04-12 下午5.40.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-17 上午9.23.00.png" alt=""><figcaption></figcaption></figure>
 
-1. 推播訊息數統計會抓取您 LINE 官方帳號月費方案的剩餘額度，數據約一個小時更新一次（關於Line免費訊息則數可參考下方註釋）。
-2. 在推播紀錄上顯示的名稱。
-3. 設定點擊 「推播」 後要立即發送，或是排程推播。
-4. 替在受眾包內的客人貼上標籤（**此標籤僅表示這群人被成功推播，不表示他們有點開推播**）。
-5. 可以使用純文字的自訂訊息或是使用機器人模組，若選擇機器人模組，兩個下拉式選單分別需要選擇機器人列表名稱與模組名稱才可送出推播，詳情可以參考[這個頁面](../../marketing/chatbot-builder/)\
+1. **推播訊息數統計：**&#x6703;抓取您 LINE 官方帳號月費方案的剩餘額度，數據約一個小時更新一次（關於Line免費訊息則數可參考下方註釋）。
+2. **主題：**&#x5728;推播紀錄上顯示的名稱。
+3. **發送時間：**&#x8A2D;定點擊 「推播」 後要立即發送，或是排程推播。
+4. **位聯絡人貼標籤（選填）：**&#x66FF;在受眾包內的客人貼上標籤<mark style="background-color:orange;">（此標籤僅表示這群人被成功推播，不表示他們有點開推播）</mark>。
+5. **推播內容：**&#x53EF;以使用純文字的自訂訊息或是使用機器人模組，若選擇機器人模組，兩個下拉式選單分別需要選擇機器人列表名稱與模組名稱才可送出推播，詳情可以參考[這個頁面](../../marketing/chatbot-builder/)\
    點擊 「編輯模組」 會前往該機器人的編輯界面，點擊 「更新」 則會抓取最新的模組內容顯示預覽。
-6. 若使用機器人模組推播，則會顯示該模組可以在推播紀錄追蹤的數據類型（如：開封率、點擊率、回應率、營業額...）。
-7. 會顯示自訂訊息或是機器人模組的預覽畫面。
-8. 點擊 「上一步」，會回到前一頁的 「受眾設定」。
-9. 點擊 「推播」 後，會根據設定好的內容與發送時間進行推播，並可回至最剛開始設定推播頁面，查看該則的推播紀錄與推播詳情數據。
+6. **可追蹤數據：**&#x9078;擇<mark style="color:red;">機器人模組推播</mark>後，則會顯示該模組可以在推播紀錄追蹤的數據類型（如：開封率、點擊率、回應率、營業額...）。
+7. **訊息預覽：**&#x6703;顯示自訂訊息或是機器人模組的預覽畫面。
+8. **發送測試訊息：**&#x767C;送此推播的內容給測試名單，詳細請參考[這裡](testbroadcast.md)的說明。
+9. **上一步：**&#x9EDE;擊 「上一步」，會回到前一頁的 「受眾設定」。
+10. **推播：**&#x9EDE;擊 「推播」 後，會根據設定好的內容與發送時間進行推播，並可回至最剛開始設定推播頁面，查看該則的推播紀錄與推播詳情數據。
 
 {% hint style="info" %}
 **LINE 免費訊息則數說明：**
@@ -185,7 +189,7 @@ LINE 官方針對使用任何第三方平台串接 LINE 對話時，將會依據
 收取費用端為 LINE 官方，非第三方平台商。收費標準將依照貴司現有選擇的訊息方案進行計價，因此相關收費情況，請至 LINE Offical Account 後台查看。
 {% endhint %}
 
-### 推播預覽支援顯示及點擊連結
+#### 推播預覽支援顯示及點擊連結
 
 支援在推播中預覽畫面中可以點擊 URL 按鈕，確認設定是否正確
 
@@ -195,23 +199,23 @@ LINE 官方針對使用任何第三方平台串接 LINE 對話時，將會依據
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-10-24 上午11.44.34.png" alt=""><figcaption><p>預覽僅支援點擊「自訂 URL 類型」的按鈕</p></figcaption></figure>
 
-### 常見問題
+#### LINE 推播常見問題
 
-*   為什麼收到的Line推播標題和我設定的推播標題不一樣呢？
+*   **為什麼收到的Line推播標題和我設定的推播標題不一樣呢？**
 
-    * 推播訊息發出後，客人手機的新訊息通知會顯示推播中第一則訊息卡片的文字內容，而在LINE的訊息列表中，預覽顯示的會是最後一則訊息卡片的文字內容。
+    * 推播訊息發出後，客人手機的新訊息通知會顯示推播中第一則訊息卡片的文字內容，而在 LINE 的訊息列表中，預覽顯示的會是最後一則訊息卡片的文字內容。
 
-    <figure><img src="../../../.gitbook/assets/推播設定 (1).png" alt=""><figcaption><p>推播設定</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/截圖 2025-10-17 上午9.19.15.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/推播通知.png" alt=""><figcaption><p>通知顯示</p></figcaption></figure>
+<div><figure><img src="../../../.gitbook/assets/截圖 2025-10-17 09.27.45 (1).jpeg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/截圖 2025-10-17 09.43.40 (2).jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-### 推播設定（Faceboo&#x6B;**）**
+### 推播設定－Facebook
 
 當推播平台為 Facebook 時，會需要額外選擇訊息標籤，其餘推播的設定可以參考上方 LINE 的說明
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-04-12 下午5.44.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-17 上午9.23.29.png" alt=""><figcaption></figcaption></figure>
 
-### Facebook 推播的訊息標籤分類與定義
+#### Facebook 推播的訊息標籤分類與定義
 
 * **標準訊息**：受 Facebook Messenger 24 小時政策限制，只可發送給 24 小時內有互動的客人，可以推送推廣性內容。
 * **活動通知**：發送活動通知給已登記或購買門票的客人。例如：上課/活動時間提醒、活動確認。(不受 24 小時對話限制，但只可推送**非推廣性質內容**)
@@ -230,28 +234,28 @@ LINE 官方針對使用任何第三方平台串接 LINE 對話時，將會依據
 **詳情可查看**：[https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/)
 {% endhint %}
 
-### 發送推播（ WhatsApp ）
+### 推播設定－WhatsApp
 
-當推播平台為 WhatsApp 時，推播需要使用 **「訊息範本」** 推播，訊息範本相關的說明可以參考[這裡](../../tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-fan-ben-xun-xi.md)
+當推播平台為 WhatsApp 時，推播需要使用 **「 訊息範本 」** 推播，訊息範本相關的說明可以參考[這裡](../../tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-fan-ben-xun-xi.md)
 
-點擊訊息範本的下拉式選單後，會開啟在 Omnichat 提出申請的訊息範本一覽表
+點擊訊息範本的下拉式選單後，會開啟在 Omnichat 提出申請的訊息範本一覽表。
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-04-15 下午4.34.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-17 上午9.52.04.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-訊息範本時新增尺寸及規格請參考：聯絡人與推播訊息-功能素材尺寸
+訊息範本時新增尺寸及規格請參考：[聯絡人與推播訊息－功能素材尺寸](../../gong-neng-su-cai-chi-cun-yi-lan-biao.md#lian-luo-ren-yu-tui-bo-xun-xi-gong-neng-su-cai-chi-cun)
 {% endhint %}
 
 以下針對訊息範本介面做說明
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-04-15 下午4.36.36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-17 上午9.20.52.png" alt=""><figcaption></figcaption></figure>
 
-1. 訊息範本的名稱，格式是 「語言+範本名稱」&#x20;
-2. 點擊後會前往訊息範本的申請頁面，可以前往提出範本的審核
-3. 可以根據範本名稱快速搜尋
-4. 可以根據設定好的範本類別做快速篩選
-5. 顯示範本訊息的預覽，若有參數會以 「數字+底線」 顯示
-6. 點擊 「編輯內容」 ，前往下一步進行參數編輯或媒體內容的上傳
+1. **訊息範本列表：**&#x5DF2;建立的訊息範本，格式是 「語言＋範本名稱」&#x20;
+2. **WhatsApp 訊息範本：**&#x9EDE;擊後會前往訊息範本的申請頁面，可以前往提出範本的審核
+3. **搜尋訊息範本：**&#x53EF;以根據範本名稱快速搜尋
+4. **選擇類別：**&#x53EF;以根據設定好的範本類別做快速篩選
+5. **預覽內容：**&#x986F;示範本訊息的預覽，若有參數會以 「數字+底線」 顯示
+6. **套用：**&#x9EDE;擊 「 套用 」 ，前往下一步進行參數編輯或媒體內容的上傳
 
 {% hint style="info" %}
 請注意：

@@ -22,7 +22,7 @@ Facebook：OC能同步顯示顧客回覆的訊息（被指定的內容一併出�
 2. 被釘選的對話會被置頂在最上方，並且被置頂的對話也會依照 『最後訊息』 設定的時間排序。
 3. 當對話狀態進到結束事件、轉移對話事件給他人或是被其他人員跟進後，釘選的狀態就會消失。
 
-![釘選對話功能](<../../.gitbook/assets/截圖 2024-03-27 下午5.28.29.png>)
+<figure><img src="../../.gitbook/assets/截圖 2025-09-23 下午5.35.00.png" alt=""><figcaption></figcaption></figure>
 
 ## 訊息標籤（Message Tags）－ FB Messenger 私訊限定
 
@@ -58,21 +58,19 @@ Facebook 串接 Omnichat 等第三方廠商，對第三方廠商設有部分回�
 [FB 臉書新規則 (2020更新) MESSENGER 24+1 政策掰掰，只有新聞粉專才有訂閱訊息資格](https://blog.omnichat.ai/tw/facebook-messenger-policy-updated-aug-29-2019/)
 {% endhint %}
 
-## **新增 WhatsApp 對話**
+## **新增 WhatsApp 對話／新增 WhatsApp 群組**
 
-您可以在對話頁面新增WhatsApp 對話與消費者展開互動。
+### **新增 WhatsApp 對話**
 
-### 使用教學
+您可以在對話頁面新增 WhatsApp 對話與消費者展開互動。
 
-在對話頁面，選擇 「**新增WhatsApp對話**」。
+首先，在對話頁面，選擇 「 **新增 WhatsApp 對話** 」。
 
-![](<../../.gitbook/assets/截圖 2024-03-27 下午5.49.55.png>)
-
-選擇需要新增WhatsApp對話的帳號
+<figure><img src="../../.gitbook/assets/截圖 2025-09-23 下午5.45.02 (2).png" alt="" width="241"><figcaption></figcaption></figure>
 
 1. 選擇需要新增WhatsApp對話的帳號。
-2. 輸入姓名。
-3. 選擇"國家/地區"，輸入電話號碼後按"新增"。
+2. 輸入顧客姓名（選填）。
+3. 選擇 「 國家/地區 」，輸入電話號碼後按 「 新增 」。
 
 ![](<../../.gitbook/assets/截圖 2024-03-27 下午5.50.08.png>)
 
@@ -83,7 +81,7 @@ Facebook 串接 Omnichat 等第三方廠商，對第三方廠商設有部分回�
 <figure><img src="../../.gitbook/assets/截圖 2025-01-07 下午11.57.33 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-該新增對話事件還在 「**處理中」 、 「已結束」** 狀態的時候，如果被其他團隊成員重覆新增，系統會彈出通知提醒是否要接手該話事件。
+該新增對話事件還在 「**處理中」 、 「已結束」** 狀態的時候，如果被其他團隊成員**重覆新增**，系統會彈出通知提醒是否要接手該話事件。
 
 彈出以下通知訊息的埸景為：
 
@@ -98,6 +96,10 @@ Facebook 串接 Omnichat 等第三方廠商，對第三方廠商設有部分回�
 
 <figure><img src="../../.gitbook/assets/image (472).png" alt=""><figcaption><p>重覆新增WhatsApp對話</p></figcaption></figure>
 
+### **新增 WhatsApp 群組**
+
+關於新增 WhatsApp 群組，請參考 [群組對話（WhatsApp限定）](https://docs.omnichat.ai/features/omnichannel-messenger/qun-zu-dui-hua-whatsapp-xian-ding#jian-li-qun-zu)，這裡有詳細的說明。
+
 ### WhatsApp 對話支援指定回覆 <a href="#whatsappchoicereply" id="whatsappchoicereply"></a>
 
 {% hint style="info" %}
@@ -107,10 +109,10 @@ Facebook 串接 Omnichat 等第三方廠商，對第三方廠商設有部分回�
 可針對團隊成員／顧客回覆的句子，進行指定回覆（reply）的功能，操作方式如下：
 
 1. 將滑鼠游標移動到指定對話旁，會出現 「回覆」 的圖示，點選之後會出現可輸入對話的頁面
-2. 點擊後帶入該訊息於 「輸入訊息」 欄位上方
+2. 點擊後會帶入該訊息於 「輸入訊息」 欄位上方
 3. 送出帶有 「回覆訊息」 的新訊息後，會呈現該新訊息回覆之舊訊息
 
-<figure><img src="../../.gitbook/assets/截圖 2024-04-10 上午11.25.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-09-23 下午6.12.50.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 此為回覆給自己／其他團隊成員所發出的對話，呈現的畫面
 
@@ -126,7 +128,7 @@ Facebook 串接 Omnichat 等第三方廠商，對第三方廠商設有部分回�
 
 <figure><img src="../../.gitbook/assets/截圖 2024-07-29 下午2.07.33.png" alt=""><figcaption></figcaption></figure>
 
-在Omnichat後台的對話頁面中，點選訊息輸入框下方的 「{...}」按鈕，選擇 【聯絡人名稱】 。
+在Omnichat後台的對話頁面中，點選訊息輸入框下方的 「 {...} 」按鈕，選擇 【聯絡人名稱】 。
 
 <figure><img src="../../.gitbook/assets/截圖 2024-07-29 下午2.09.21.png" alt=""><figcaption></figcaption></figure>
 

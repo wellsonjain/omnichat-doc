@@ -1,7 +1,7 @@
 ---
 description: >-
   官網綁定按鈕可讓您在網站上快速獲得 Facebook、LINE 和 WhatsApp 的訂閱中的聯絡人。建立更有效的 Facebook、LINE 和
-  WhatsApp 用戶經營
+  WhatsApp 用戶經營官網
 ---
 
 # 官網綁定
@@ -23,11 +23,11 @@ description: >-
 
 在官網按下 「官網綁定按鈕」 的訪客，如果有完成後續的訂閱流程，會成為 **「有綁定身份」** 的聯絡人，您可以在後台 「[渠道聯絡人](../../she-qun-ke-hu-zi-liao-ping-tai/she-qun-lian-luo-ren.md)」 頁面，看到消費者的訂閱狀態、加入訂閱時間、是否綁定官網（於動作當中點擊看到更多）
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-05-21 下午4.23.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-25 下午4.38.46.png" alt=""><figcaption></figcaption></figure>
 
-渠道聯絡人- 查看詳情頁面
+#### 渠道聯絡人－查看詳情頁面
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-05-21 下午4.29.01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-25 下午4.41.57.png" alt=""><figcaption></figcaption></figure>
 
 ### 如果消費者成為有綁定身份的聯絡人，後續可以應用的有：
 
@@ -39,31 +39,30 @@ description: >-
 {% endhint %}
 
 1. 可以依據客人在官網上的瀏覽行徑，自動對客人貼標籤或是自動發送訊息到客人的 FB Messenger / LINE / WhatsApp。此兩項設定會運用到再行銷訊息功能，可詳閱此篇：[官網顧客行銷後台設定](../../remarketing/xing-xiao-huo-dong-she-ding-shuo-ming.md)
-2. 可以依據客人在官網上的瀏覽行徑，自動對客人進行社群渠道再行銷推播，可詳閱此篇：[官網顧客行銷後台設定](../../remarketing/xing-xiao-huo-dong-she-ding-shuo-ming.md)
-3. 在對話頁面，會顯示出客人的社群身份。詳情可詳閱：[綁定資料](https://docs.omnichat.ai/features/omnichannel-messenger#bang-ding-zi-liao)&#x20;
+2. 可以依據客人在官網上的瀏覽行徑，自動對客人進行渠道再行銷推播，可詳閱此篇：[官網顧客行銷後台設定](../../remarketing/xing-xiao-huo-dong-she-ding-shuo-ming.md)
+3. 在對話頁面，會顯示出客人的渠道身份。詳情可詳閱：[綁定資料](https://docs.omnichat.ai/features/omnichannel-messenger#bang-ding-zi-liao)&#x20;
 4. 有完成官網綁定的名單，才能收到購物車再行銷訊息。也就是購物車再行銷功能的送出訊息數量與有完成綁定的名單有直接的關係。詳請可詳閱：[購物車再行銷](../../gou-wu-che-zai-hang-xiao-jia-gou-gong-neng/)
 
 ## 設定流程
 
-1. **選擇社群渠道**
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-25 下午5.22.30.png" alt=""><figcaption></figcaption></figure>
+
+1. **選擇渠道**
 2. **打開綁定按鈕**
-3.  **設定是否開啟『手機簡易版』**
+3. **設定是否開啟『手機簡易版』**
 
-    開啟的情況下：
+開啟的情況下：
 
-    * 只會顯示**標題** 及 **訂閱按鈕**，不會顯示內容 (Content)
-    * 標題 (Title) 限制十個中文字的寬度
-    * 社群訂閱綁定插件的位置會從 Omnichat 網頁插件的上方，改到旁邊平行對齊
-
-<figure><img src="../../../.gitbook/assets/123.png" alt=""><figcaption></figcaption></figure>
-
-* 左圖：『手機簡易版』關閉
-* 右圖：『手機簡易版』開啟
+* 只會顯示**標題** 及 **訂閱按鈕**，不會顯示內容 (Content)
+* 標題 (Title) 限制十個中文字的寬度
+* 官網綁定插件的位置會從 Omnichat 網頁插件的上方，改到旁邊平行對齊
+  * 左圖：『 手機簡易版 』 關閉
+  * 右圖：『 手機簡易版 』 開啟
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-08-31 下午7.05.07.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-不管是否開啟『手機簡易版』，桌機上的顯示都不會有變動
+不管是否開啟 『 手機簡易版 』，桌機上的顯示都不會有變動
 {% endhint %}
 
 4\. **選擇需要連接的 Facebook 粉專 / LINE 官方帳號/ WhatsApp 商業帳號**&#x20;
@@ -82,26 +81,19 @@ description: >-
 例如：設定 Facebook 官網綁定按鈕顯示在商品頁面，LINE 官網綁定按鈕顯示在官網首頁
 {% endhint %}
 
-#### 設定方法
-
-* 同時打開 Facebook 與 LINE 官網綁定按鈕
-* 選擇特定頁面的「完整網址為」並貼上特定網址（放上您要出現的頁面）
-
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-30 下午6.25.54.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="danger" %}
 1. 若相同網址頁面同時設定在 Facebook 及 LINE，系統會&#x4EE5;_**後建立的設定為優先。**_\
    同理，其他社群平台同時開啟也是一樣的。
-2. 但是如果消費者先綁定了第一個跳出來的官網綁定，下次再以同個瀏覽器開啟網頁時，會自動跳出第二個您啟用的官網綁定插件。
+2. 但是如果消費者已先綁定了第一個跳出來的官網綁定，下次再以同個瀏覽器開啟網頁時，會自動跳出第二個您啟用的官網綁定插件。
 {% endhint %}
 
-7\. **設定「綁定成功後通知顧客的訊息」**
+7\. **設定 「 綁定成功後通知顧客的訊息 」**
 
-* &#x20;您可以設定純文字，也可以設定使用機器人模組。使用純文字時，可以使用聯絡人姓名參數功能。當消費者完成綁定後，該訊息會顯示在綁定消費者的 Facebook、LINE 或 WhatsApp 上
+您可以設定純文字，也可以設定使用機器人模組。使用純文字時，可以使用聯絡人姓名參數功能。當消費者完成綁定後，該訊息會顯示在綁定消費者的 Facebook、LINE 或 WhatsApp 上
 
-8\. **設定『**&#x5B98;網綁定按鈕顯&#x793A;**』**
+8\. **設定 『** 官網綁定按鈕顯示 **』**
 
-* 設定官網綁定按鈕消失的計算方式，是從按鈕出現在螢幕畫面上開始。
+設定官網綁定按鈕消失的計算方式，是從按鈕出現在螢幕畫面上開始。
 
 <figure><img src="../../../.gitbook/assets/截圖 2023-07-03 15.10.21.png" alt=""><figcaption></figcaption></figure>
 

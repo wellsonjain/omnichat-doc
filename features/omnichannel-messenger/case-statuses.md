@@ -50,10 +50,10 @@
 所有在 「處理中」 狀態的事件**並不會因為收到的訊息類型而改變狀態**。
 
 {% hint style="info" %}
-「關鍵字自動回覆」 若在 『對話事件狀態』 中有勾選 『處理中』 才會觸發，**否則不會觸發**。
+「 訊息自動回覆 」 若在 『 對話事件狀態 』 中有勾選 『 處理中 』 才會觸發，**否則不會觸發**。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (465).png" alt=""><figcaption><p> 『對話事件狀態』 → 『處理中』 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-09-23 下午3.55.08.png" alt=""><figcaption></figcaption></figure>
 
 ### 已結束
 

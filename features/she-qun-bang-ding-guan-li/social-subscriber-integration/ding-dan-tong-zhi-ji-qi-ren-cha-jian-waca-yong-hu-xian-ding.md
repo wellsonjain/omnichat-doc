@@ -6,28 +6,21 @@ description: >-
 
 # 訂單通知機器人插件（WACA 用戶限定）
 
-### Omnichat 後台設定
+### 設定方式
 
-#### 1.  **進入社群身份綁定頁面**
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-25 下午5.28.12.png" alt=""><figcaption></figcaption></figure>
 
-**2. 選擇「WACA訂單通知機器人」**
-
-**3. 啟用訂單通知機器人按鈕**
-
-**4. 選擇接收訊息的平台（Facebook / LINE）及相對應官方帳號**
+1. 進入官網綁定頁面，選擇 「 WACA訂單通知機器人 」
+2. 啟用訂單通知機器人按鈕
+3. 選擇接收訊息的平台（Facebook / LINE）及相對應官方帳號
 
 {% hint style="info" %}
-1. 選擇 Facebook 平台發送訂單通知訊息仍會受到 Facebook 24 小時政策影響
-2. 選擇 LINE 官方帳號發送訂單通知訊息則為「Push API」訊息類型，需要收推播訊息費用
+* 選擇 Facebook 平台發送訂單通知訊息仍會受到 Facebook 24 小時政策影響
+* 選擇 LINE 官方帳號發送訂單通知屬於 「 Push API 」 訊息類型，需要收推播訊息費用
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-09-08 下午1.46.53.png" alt=""><figcaption></figcaption></figure>
-
-#### 5.  您可以編輯標題和描述來提醒客人並點擊按鈕
-
-#### 6.設定完成點擊訂單通知機器人流程後會收到的成功訊息
-
-<figure><img src="../../../.gitbook/assets/截圖 2022-09-08 下午1.50.25.png" alt=""><figcaption></figcaption></figure>
+4. 您可以編輯標題和描述來提醒客人並點擊按鈕
+5. 設定完成點擊訂單通知機器人流程後會收到的成功訊息
 
 ### 消費者端訂單機器人按鈕流程
 
@@ -38,10 +31,10 @@ description: >-
 ![](<../../../.gitbook/assets/截圖 2022-08-10 上午11.18.38.png>)
 
 {% hint style="warning" %}
-1. 每次訂單完成都會需要消費者點擊連結，方能對這筆訂單狀態變更發送通知
-2. 點擊連結訂單通知機器人流程完成後也等於完成社群身份綁定
+* 每次訂單完成都會需要消費者點擊連結，方能對這筆訂單狀態變更發送通知
+* 點擊連結訂單通知機器人流程完成後也等於完成社群身份綁定
 {% endhint %}
 
 #### WACA 後台可對九種訂單狀態變更情境來進行自動推播，設定場景會在 WACA 後台設定。
 
--> [WACA 教學文件請點我](https://www.waca.net/support/id/161#orderbotplugin)
+👉 [WACA 教學文件請點我](https://www.waca.net/support/id/161#orderbotplugin)

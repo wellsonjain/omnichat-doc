@@ -65,7 +65,7 @@
 
 
     <figure><img src="../../.gitbook/assets/image (460).png" alt=""><figcaption><p>新增協作者 - 系統通知</p></figcaption></figure>
-* 被新增的協作者會收到 「即時通知」：Jess (管理員) 將你加入 Jess B 的協作對話。
+* 被新增的協作者會收到 「 即時通知 」：Jess (管理員) 將你加入 Jess B 的協作對話。
 
 <figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption><p>新增協作者 - 即時通知</p></figcaption></figure>
 

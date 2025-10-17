@@ -15,9 +15,9 @@ WhatsApp 對話事件會自動帶入客戶電話號碼欄位，**不提供修改
 
 ### 隱藏客戶資料
 
-您可以點擊右上方的眼睛圖示，將客戶資料隱藏，使對話介面更簡潔。
+您可以點擊右上方的眼睛圖示，將客戶資料隱藏／顯示。
 
-<figure><img src="../../.gitbook/assets/截圖 2024-03-26 下午3.55.34拷貝.png" alt="" width="327"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Adobe Express - 螢幕錄影 2025-09-23 上午11.23.15.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 當您所購買的方案含有 Omnichat pixel 追蹤，可以透過 Omnichat pixel 追蹤到會員 ID，也會自動帶入客戶資料欄位 (前提是用戶有登入官網會員操作)
@@ -31,27 +31,26 @@ WhatsApp 對話事件會自動帶入客戶電話號碼欄位，**不提供修改
 
 ### 為客戶貼上標籤
 
-1. 點擊 「添加標籤」 可以直接輸入標籤名稱
+<figure><img src="../../.gitbook/assets/截圖 2025-09-23 上午11.28.36.png" alt="" width="335"><figcaption></figcaption></figure>
+
+1. **貼上標籤**
    * 當你開始輸入後，下方會出現團隊已建立且符合的標籤，可以直接選擇現有的標籤貼上
-   * 輸入完畢按 「Enter」 鍵或右邊的 「**＋**」 圖示，可以把輸入的文字加為標籤，並加到客戶身上
-   * 點擊 「X」 圖示，可以移除客人的標籤
-
-<figure><img src="../../.gitbook/assets/截圖 2024-12-26 上午9.51.41 (1).png" alt="" width="163"><figcaption><p>添加標籤</p></figcaption></figure>
-
-2. 標籤頻次：
+   * 輸入完畢按 「Enter」 鍵或點擊下方列出的現有標籤，可以為客戶貼上此標籤
+   * 點擊 「Ｘ」 圖示，可以移除客人的此標籤
+2. **標籤頻次**
    * 點擊 「標籤頻次」 可依照貼標時間做篩選，查看貼標次數。
    * Omnichat 支援對客戶重複貼標，如貼上已存在的標籤，會跳出提醒  「要再次貼上此標籤嗎？」 以及 「標籤名稱」 ，確認後該標籤次數會 +1。
 
 <div><figure><img src="../../.gitbook/assets/真１.webp" alt=""><figcaption><p>重複貼標提醒</p></figcaption></figure> <figure><img src="../../.gitbook/assets/1.webp" alt=""><figcaption><p>標籤頻次查看</p></figcaption></figure> <figure><img src="../../.gitbook/assets/2.webp" alt=""><figcaption><p>標籤頻次時間篩選</p></figcaption></figure></div>
 
 {% hint style="info" %}
-「[標籤管理](../she-qun-ke-hu-zi-liao-ping-tai/biao-qian-guan-li.md)」 → **依時間區間篩選：**
+「[標籤](../she-qun-ke-hu-zi-liao-ping-tai/biao-qian-guan-li.md)」 → **依時間區間篩選：**
 
 * 可以選擇時間區間，並匯出 **貼標統計數據** 或 **貼標逐筆紀錄**（查看每個客人在什麼渠道、透過什麽方式被貼上標籤）
 * 目前最多僅能選擇30天的資料匯出
 {% endhint %}
 
-<div><figure><img src="../../.gitbook/assets/截圖 2025-01-07 下午4.42.01.png" alt=""><figcaption><p>標籤管理 → <strong>依時間區間篩選</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2025-01-07 下午4.43.42.png" alt=""><figcaption><p>匯出 <strong>貼標統計數據</strong> 或 <strong>貼標逐筆紀錄</strong></p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/截圖 2025-09-23 上午11.32.56 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2025-09-23 上午11.33.20 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### 客戶資料下半段版面說明
 

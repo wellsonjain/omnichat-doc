@@ -5,13 +5,13 @@ description: 透過 「手機綁定」 功能，可讓顧客於 LINE 上查看�
 # 手機綁定（加購功能）
 
 {% hint style="info" %}
-**使用 「CRM模組、手機綁定」 前重要提醒：**
+**使用 「 CRM模組、手機綁定 」 前重要提醒：**
 
 1、客人<mark style="color:red;">必須先完成</mark>品牌官方網站的<mark style="color:red;">會員註冊</mark>
 
 2、客人在進行手機綁定時，輸入的<mark style="color:red;">手機號碼必須為註冊</mark>品牌網站<mark style="color:red;">會員時的電話號碼</mark>
 
-3、客人在 LINE 首次使用會員卡時，需先完成 「<mark style="color:red;">手機綁定</mark>」 流程才能成功查看。
+3、客人在 LINE 首次使用會員卡時，需先完成 「 <mark style="color:red;">手機綁定</mark> 」 流程才能成功查看。
 
 4、該功能目前僅支援品牌官方網站為： SHOPLINE、CYBERBIZ 方能使用，其他開店平台系統商（包含自架網站），後續會再上線相關功能，敬請期待
 {% endhint %}
@@ -113,7 +113,7 @@ description: 透過 「手機綁定」 功能，可讓顧客於 LINE 上查看�
   1.**「若在 Omnichat 系統有找到手機號碼」**，則會將這名 LINE 好友與手機號碼找到的顧客進行合併\
   2.**「若在 Omnichat 系統沒有找到手機號碼」**，則只會將手機號碼更新到這名 LINE 好友身上
 
-#### 首次綁定完成訊息，支援「綁定完成後貼上標籤」
+#### 首次綁定完成訊息，支援 「 綁定完成後貼上標籤 」
 
 <figure><img src="../../.gitbook/assets/截圖 2024-10-15 下午1.33.43.png" alt=""><figcaption></figcaption></figure>
 
@@ -124,7 +124,7 @@ description: 透過 「手機綁定」 功能，可讓顧客於 LINE 上查看�
 * 若是已完成手機綁定的客人再次完成手機綁定，不支援再次貼標
 * 若需解除綁定，可至[社群聯絡人](../she-qun-ke-hu-zi-liao-ping-tai/she-qun-lian-luo-ren.md)
 
-## 手機綁定 - 「顧客端」 畫面
+## 手機綁定 － 「 顧客端 」 畫面
 
 <figure><img src="../../.gitbook/assets/截圖 2024-07-30 下午5.39.04.png" alt=""><figcaption><p>手機綁定 - 顧客端流程</p></figcaption></figure>
 

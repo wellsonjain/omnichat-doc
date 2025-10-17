@@ -2,7 +2,7 @@
 
 推播詳情介面整合了以下的內容：
 
-* 報表
+* [報表](tui-bo-xiang-qing.md#bao-biao)
 * [推播條件](tui-bo-xiang-qing.md#tui-bo-tiao-jian)
 * [按鈕點擊率](tui-bo-xiang-qing.md#an-niu-dian-ji-lv)
 * [推播內容](tui-bo-xiang-qing.md#tui-bo-nei-rong)
@@ -10,7 +10,7 @@
 
 ### 報表
 
-該頁面中整合了該則推播的詳細數據，若不清楚某個數據的計算方式，可以將滑鼠移到數據名稱右側的 「i」 圖示，就會顯示該數據的計算方式與注意事項
+該頁面中整合了該則推播的詳細數據，若不清楚某個數據的計算方式，可以將滑鼠移到數據名稱右側的 「 `i` 」 圖示，就會顯示該數據的計算方式與注意事項
 
 {% hint style="info" %}
 若要在報表頁面查看推播數據，需要至少使用 「進階行銷方案」 以上的方案，並完成埋放網站追蹤碼後，方可查看。
@@ -26,7 +26,7 @@
   * SG：0.089\*訊息成功數 (US$)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/報表.png" alt=""><figcaption><p>推播報表</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.21.18.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **營業額**
@@ -53,36 +53,49 @@
 * WhatsApp: 聯絡人對推播的訊息按了Emoji
 {% endhint %}
 
-聯絡人點選卡片中的**開啟URL**按鈕，會計算點擊率，不計算回應率
+* 受眾點選卡片中的 **開啟URL** 按鈕，會計算點擊率，不計算回應率。
+  * 同一次推播的內容，不管機器人卡片數或按鈕數多寡，點擊數最多只會計算一次。
+  * 若按鈕為觸發下一層機器人或是觸發文字訊息回覆，不會計算。
+  * 文字內（非按鈕）的連結不計算。
 
-<figure><img src="../../.gitbook/assets/點擊率.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.23.54.png" alt=""><figcaption><p>聊天機器人 2.0 畫面</p></figcaption></figure> <figure><img src="../../.gitbook/assets/點擊率.png" alt=""><figcaption><p>聊天機器人畫面</p></figcaption></figure></div>
 
-聯絡人點選卡片中的**對話模組**按鈕，會計算點擊率和回應率
+***
 
-<figure><img src="../../.gitbook/assets/回應率.png" alt=""><figcaption></figcaption></figure>
+* 受眾點選卡片中的 **對話模組** 按鈕，會計算點擊率和回應率。
+
+<div><figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.24.23 (1).png" alt=""><figcaption><p>聊天機器人 2.0 畫面</p></figcaption></figure> <figure><img src="../../.gitbook/assets/回應率.png" alt=""><figcaption><p>聊天機器人畫面</p></figcaption></figure></div>
+
+
 
 ### 按鈕點擊率
 
-若推播的模組類型可以追蹤點擊率的話，會依照按鈕類型與數據紀錄在該頁面。每則訊息皆會顯示，若無按鈕會顯示 「無按鈕」。
+若推播的模組類型可以追蹤點擊率的話，會依照按鈕類型與數據紀錄在該頁面。每則訊息皆會顯示，若無按鈕會顯示 「 無按鈕 」。
 
 {% hint style="info" %}
-點擊率計算公式：收到推播訊息 24 小時內不重複的按鈕連結點擊數/成功推播的訊息數
+點擊率計算公式：收到推播訊息 24 小時內不重複的按鈕連結點擊數／成功推播的訊息數
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/按鈕點擊率.png" alt=""><figcaption><p>按鈕點擊率</p></figcaption></figure>
 
-按鈕點擊率按鈕類型為 URL 時支援顯示及點擊連結
+* 按鈕點擊率按鈕類型為 URL 時支援顯示及點擊連結
 
-<figure><img src="../../.gitbook/assets/截圖 2024-10-24 上午11.52.20.png" alt=""><figcaption><p>按鈕類型為 URL 時支援顯示及點擊連結</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.26.45.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **推播條件**
 
-<figure><img src="../../.gitbook/assets/推播條件.png" alt=""><figcaption><p>推播條件</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.27.34.png" alt=""><figcaption></figcaption></figure>
 
-1. 受眾類型分為：使用受眾包（受眾包名稱，需要加購該模組）、自訂條件、CSV推播
-2. 通訊渠道：Facebook、Line、WhatsApp
-3. 套條件再推播：在設定推播時有使用篩選條件的話，條件會被記錄在該頁面中。若想要重複使用同樣的條件，可點擊介面右上角的 「套條件再推播」 按鈕使用。
-4. 預設條件（每則推播預設帶入）：推播時，系統會自動排除超額名單以及取消訂閱名單，因此預設會顯示「超額名單：否」以及「訂閱狀態：已訂閱」。
+1. **受眾類型與渠道：**
+   1. 使用受眾包（此為加購項目）、自訂條件、CSV推播
+   2. 渠道：Facebook、LINE、WhatsApp
+2. **建立受眾包：**&#x5C07;此推播條件建立為新的受眾包。
+3. **再次推播：**&#x4F7F;用與此推播一樣的條件再次推播。
+4. **預設條件（每則推播預設帶入）：**&#x63A8;播時，系統會自動排除超額名單以及取消訂閱名單，因此預設會顯示 「 超額名單：否 」 以及 「 訂閱狀態：已訂閱 」。
+
+
 
 ### **推播內容**
 
@@ -106,8 +119,8 @@
 已回應名單，以 48 小時內回應客人做紀錄
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/推播名單.png" alt=""><figcaption><p>推播名單及發送狀態</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.28.12.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-「已退訂封鎖」 指的是在收到推播訊息後 24 小時內選擇退訂或封鎖的聯絡人。
+「 已退訂封鎖 」 指的是在收到推播訊息後 24 小時內選擇退訂或封鎖的聯絡人。
 {% endhint %}

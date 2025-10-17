@@ -6,7 +6,7 @@ description: 💡使用受眾分群功能的上傳受眾包至LINE 廣告平台�
 
 ### 串接 LINE 廣告帳號路徑：
 
-Omnichat 系統後台**通訊渠道**＞**社群帳號** > **LINE** > **LINE 廣告帳號**
+Omnichat 系統後台**通訊渠道 > 社群帳號 > LINE > LINE 廣告帳號**
 
 串接時需要填寫以下資訊：
 
@@ -14,7 +14,7 @@ Omnichat 系統後台**通訊渠道**＞**社群帳號** > **LINE** > **LINE 廣
 2. API 存取金鑰
 3. API 密鑰
 
-<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-03 上午9.44.40.png" alt=""><figcaption></figcaption></figure>
 
 ### 取得群組 ID 的方法
 
@@ -43,9 +43,9 @@ Omnichat 系統後台**通訊渠道**＞**社群帳號** > **LINE** > **LINE 廣
 
 4. &#x20;關於取得 Omnichat IP 的路徑： 通訊渠道＞社群帳號 > LINE > LINE 廣告帳號
 
-<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-03 上午9.44.40拷貝.png" alt=""><figcaption></figcaption></figure>
 
 5. 資料填寫後勾選要串接的 LINE 帳號
 6. 串接完成
 
-<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-10-03 上午11.40.13 (1).png" alt=""><figcaption></figcaption></figure>

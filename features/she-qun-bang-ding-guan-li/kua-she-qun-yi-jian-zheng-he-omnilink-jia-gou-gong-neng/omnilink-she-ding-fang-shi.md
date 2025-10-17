@@ -1,18 +1,18 @@
 ---
-description: OmniLink 提供 「跨社群渠道跳轉、綁定、觸發訊息同步完成」，達到跨渠道身份整合（不同渠道顧客收攏在一個檔案）的目標。
+description: 跨社群一鍵整合功能，提供 「跨社群渠道跳轉、綁定、觸發訊息同步完成」，達到跨渠道身份整合（不同渠道顧客收攏在一個檔案）的目標。
 ---
 
 # OmniLink 設定方式
 
 功能權限：管理員、主管、行銷人員、行銷客服
 
-### 步驟 1 新增活動
+### 步驟 1 －新增活動
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-22 下午12.02.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-26 上午9.54.19 (1).png" alt=""><figcaption></figcaption></figure>
 
-### **步驟 2 設定整合渠道**
+### **步驟 2 －設定整合渠道**
 
-用戶點擊 OmniLink 時，會從 「來源渠道」 跳轉到 「目標渠道」 。
+用戶點擊 OmniLink 時，會從 「 來源渠道 」 跳轉到 「 目標渠道 」 。
 
 {% hint style="info" %}
 目標渠道：如為LINE渠道
@@ -21,7 +21,7 @@ description: OmniLink 提供 「跨社群渠道跳轉、綁定、觸發訊息同
 * 整合方式：客戶點擊跨社群卡片後，透過 Liff 自動完成整合、觸發成功或失敗訊息
 {% endhint %}
 
-&#x20;**來源渠道**：支援 Facebook / LINE / WhatsApp / IG
+&#x20;**來源渠道**：支援 Facebook / LINE / WhatsApp / Instagram
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-22 下午12.07.02.png" alt=""><figcaption></figcaption></figure>
 

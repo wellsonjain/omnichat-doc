@@ -4,26 +4,26 @@ description: 活動統計可以查看每次活動的相關成效
 
 # 活動統計
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-20 下午3.37.37.png" alt=""><figcaption></figcaption></figure>
+點擊 動作按鈕 > 「 活動統計 」，可查看每次活動的相關成效
 
-* 點擊動作 > 活動統計，可查看每次活動的相關成效
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-26 上午9.58.35 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-20 下午3.50.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-26 上午9.59.24.png" alt=""><figcaption></figcaption></figure>
 
-1. 來源渠道：來源渠道名稱
-2. 目標渠道：目標渠道名稱
-3. 參與人數：觸發卡片且第一次點擊按鈕的次數（參與人數 = 整合成功人數 + 整合失敗人數）
-4. 目標渠道 - 新聯絡人：整合成功且從未存在於團隊中的 channel 聯絡人\
+1. **來源渠道：**&#x4F86;源渠道名稱
+2. **目標渠道：**&#x76EE;標渠道名稱
+3. **參與人數：**&#x89F8;發卡片且第一次點擊按鈕的次數（參與人數 = 整合成功人數 + 整合失敗人數）
+4. **目標渠道－新聯絡人：**&#x6574;合成功且從未存在於團隊中的 channel 聯絡人\
    （ex. 王小明原本是品牌的 FB 聯絡人，透過 OmniLink 成為 LINE 聯絡人，此時就會被認列為新聯絡人
-5. 整合成功人數：觸發卡片且點擊後整合成功人數
-6. 整合失敗人數：
+5. **整合成功人數：**&#x89F8;發卡片且點擊後整合成功人數
+6. **整合失敗人數：**
    * 觸發卡片且點擊後有儲存錯誤原因的人數
    * 沒有錯誤原因人數（點過去沒有整合成功）
-7. 日期區間：可篩選活動期間
+7. **日期區間：**&#x53EF;篩選活動期間
 
 #### 整合成功名單
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-20 下午3.43.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-26 上午10.05.44.png" alt=""><figcaption></figcaption></figure>
 
 1. 整合成功名單：這邊會顯示整合成功名單
 2. 來源渠道 - 姓名：顯示整合成功聯絡人的來源渠道姓名
@@ -38,7 +38,7 @@ description: 活動統計可以查看每次活動的相關成效
 
 #### 整合失敗名單
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-09-23 下午5.13.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-09-26 上午10.05.50.png" alt=""><figcaption></figcaption></figure>
 
 1. 整合失敗名單：這邊會顯示失敗名單
 2. 來源渠道 - 姓名：顯示失敗聯絡人的來源渠道姓名
