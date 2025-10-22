@@ -84,7 +84,7 @@ OSM設定 --> 功能設定 --> 導流功能設定 --> 產品目錄查詢。
 
 ### 如何取得 Shopline 產品目錄網址 <a href="#shopline-product-feed" id="shopline-product-feed"></a>
 
-1. 先利用此 [Shopline 教學網址](https://support.shoplineapp.com/hc/zh-tw/articles/360042210731-Facebook-%E5%95%86%E6%A5%AD%E6%93%B4%E5%85%85%E5%8A%9F%E8%83%BD-%E5%95%86%E6%A5%AD%E6%93%B4%E5%85%85%E5%8A%9F%E8%83%BD)，將產品目錄同步至 Facebook。
+1. 先利用此 [Shopline 教學網址](https://support.shoplineapp.com/hc/zh-tw/articles/360042210731-Facebook-%E5%95%86%E6%A5%AD%E6%93%B4%E5%85%85%E5%8A%9F%E8%83%BD-%E5%95%86%E6%A5%AD%E6%93%B4%E5%85%85%E5%8A%9F%E8%83%BD)，將產品目錄同步至 Facebook（取得網址過程如有問題，<mark style="color:red;">建議可直接與Shopline支援團隊確認</mark>，獲取最完整及正確的資訊）。
 2. 等待產品上傳至 Facebook 後，按你的產品 --> 在 Facebook 上查看你的產品，頁面會轉到 Facebook 後台
 
 ![](<../../.gitbook/assets/螢幕快照 2020-06-29 下午2.46.01.png>)
@@ -101,8 +101,11 @@ OSM設定 --> 功能設定 --> 導流功能設定 --> 產品目錄查詢。
 
 ![](<../../.gitbook/assets/image (3) (1) (1).png>)
 
-{% hint style="info" %}
-注意：Omnichat主要是吃Shopline產品目錄內資料，因此如發現產品目錄內容持續抓取舊商品情境，需請您協助與Shopline顧問確認產品目錄內容或網址是否有異動。並將新的連結更新至Meta以及手動更新在Omnichat產品目錄中。
+{% hint style="warning" %}
+注意：Omnichat是直接吃產品目錄網址裡面的產品資料，如果產品目錄沒有這項產品資料，Omnichat就無法使用到。因此如發現產品目錄連結內的商品有缺漏，需請您協助與Shopline支援團隊確認產品目錄內容或網址是否有異動，並將新的連結更新至Meta以及手動更新在Omnichat產品目錄中。
+
+目前最新Shopline產品目錄格式（請注意紅字是Shopline近期調整）：\
+https://shopline-feeds.s3.amazonaws.com/facebook<mark style="color:red;">\_featured\_products</mark>/自家官網名稱.xml
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/iScreen Shoter - 20250612114852984 (2).jpg" alt=""><figcaption></figcaption></figure>
