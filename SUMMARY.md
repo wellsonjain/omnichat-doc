@@ -49,6 +49,7 @@
   * [Dec 27, 2023](release-note/dec-27-2023.md)
 * [公告](gong-gao/README.md)
   * [手機簡訊更新預告：需設定「簡訊發送者名稱」，預計 10/1 上線](gong-gao/shou-ji-jian-xun-geng-xin-yu-gao-xu-she-ding-jian-xun-fa-song-zhe-ming-cheng-yu-ji-101-shang-xian.md)
+  * [配合簡訊實名制政策，請完成授權並提供指定的簡訊發送者名稱](gong-gao/pei-he-jian-xun-shi-ming-zhi-zheng-ce-qing-wan-cheng-shou-quan-bing-ti-gong-zhi-ding-de-jian-xun-fa.md)
   * [功能名稱調整（9/17 生效）](gong-gao/gong-neng-ming-cheng-diao-zheng-917-sheng-xiao.md)
   * [快速上手 WhatsApp Marketing Messages Lite API](gong-gao/kuai-su-shang-shou-whatsapp-marketing-messages-lite-api.md)
 
