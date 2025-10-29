@@ -48,7 +48,7 @@ description: 透過設定並取得 LIFF ID，讓消費者不需輸入六位數�
 
 1. LIFF App name：可自訂該 LIFF 使用目的（顧客端看得見）
 2. Size：選擇 Compact
-3. Endpoint URL（請直接複製這段）：[`https://pages.omnichat.ai/liff-bind.html?liffId=`](https://pages.omnichat.ai/liff-bind.html?liffId={LIFFID})
+3. Endpoint URL（請直接複製這段）：`https://pages.omnichat.ai/liff-bind.html?liffId=`
 4. Scopes：勾選 profile、chat\_message\_write（勾選是會需要 Enable）、openid 三個均需要打開
 5. Bot link feature：點選 On（Aggressive）
 6. 將 Scan QR 打開
@@ -58,9 +58,9 @@ description: 透過設定並取得 LIFF ID，讓消費者不需輸入六位數�
 
 ![](<../../../../.gitbook/assets/截圖 2024-05-15 下午6.39.34.png>)
 
-#### 步驟三：將 Endpoint URL 改成 [https://pages.omnichat.ai/liff-bind.html?liffId={LIFFID}](https://pages.omnichat.ai/liff-bind.html?liffId={LIFFID})，並按下 Update
+#### 步驟三：將 Endpoint URL 改成 https://pages.omnichat.ai/liff-bind.html?liffId=，並按下 Update
 
-大括號裡面帶 LIFF ID，例如: <mark style="background-color:yellow;">https://pages.omnichat.ai/liff-bind.html?liffId=1657064184-Yox2K7JW</mark>
+等於符號的後面請帶入 LIFF ID，例如: <mark style="background-color:yellow;">https://pages.omnichat.ai/liff-bind.html?liffId=1657064184-Yox2K7JW</mark>
 
 ![](<../../../../.gitbook/assets/截圖 2024-05-15 下午6.39.49.png>)
 
