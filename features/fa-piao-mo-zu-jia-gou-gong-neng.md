@@ -75,7 +75,7 @@ https://pages.omnichat.ai/liff-bind.html?liffId={你的 LIFF ID}
 
 接下來，就可以設定參與次數限制、發票條件、送獎內容。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **每人參與次數**
 

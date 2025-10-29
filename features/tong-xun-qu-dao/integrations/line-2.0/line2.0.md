@@ -244,36 +244,54 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 
 ### 步驟十一
 
-**打開 Use Webhook 開關**
+* 打開 Use Webhook 開關
 
 <figure><img src="../../../../.gitbook/assets/Line Developers 後台.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-如果無法在 LINE Developers 開啟 Use Webhook，可以到 LINE OA 後台的「回應設定」裡調整，在 Webhook 的地方勾選「啟用」
+{% hint style="danger" %}
+如果無法在 LINE Developers 開啟 Use Webhook，可以到 [LINE OA 後台](https://app.gitbook.com/u/bTrIRKkSKRMIYz6FjB1w4sLryq02)，點擊右上角 「設定」 > 「回應設定」 將 Webhook 開關打開（請見下圖）
 {% endhint %}
 
-**Plan A**
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Line OA後台3.png" alt=""><figcaption></figcaption></figure>
+### **Plan A：訊息集中於 Omnichat 回覆**
 
-{% hint style="info" %}
-若您不會在LINE OA原生後台，只會在Omnichat後台回覆訊息，請在LINE OA後台做以下設定
+若您**不會**在LINE OA 原生後台回覆訊息，只會在Omnichat 後台回覆訊息，請在 LINE OA 後台做以下設定：
 
-* 關閉「聊天開關」；啟用 Webhook
+* 關閉 「 聊天 」&#x20;
+* 開啟 「 Webhook 」
+
+{% hint style="warning" %}
+額外補充：
+
+若設定 Plan A，則顧客在傳送訊息給品牌端的 LINE OA 後，因 LINE 官方對於傳送 Push API 訊息的規定，**訊息均會顯示為 「 已讀 」 狀態**。
+
+若品牌端對於自動顯示已讀狀態會有疑慮，建議可以在歡迎訊息 / 自動回覆訊息 ／離線即時訊息當中，補充官方會自動顯示已讀狀態，客服團隊將會盡快協助回覆您的訊息等文案內容，降低顧客的等待情緒。
 {% endhint %}
 
-**Plan B**
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/步驟12.png" alt=""><figcaption><p>若要同時在 LINE OA 後台 &#x26; Omnichat後台回覆客人訊息，請參考此圖設定</p></figcaption></figure>
+***
 
-{% hint style="info" %}
-若您有需要在 LINE OA 後台回覆客人訊息，請務必在 LINE OA「回應設定」做以下設定
+### **Plan B：訊息有需要回到 LINE OA 後台回覆**
 
-* 開啟「聊天開關」；啟用Webhook
-* 關閉「加入好友的歡迎訊息（避免同時觸發 LINE OA 與 Omnichat 兩邊的歡迎訊息功能）
-* 關閉「回應時間」（避免同時觸發 LINE OA 與 Omnichat 兩邊的離線即時訊息功能）
-* 「聊天的回應方式」請務必選擇「手動」（避免同時觸發 LINE OA 與 Omnichat 兩邊的機器人回應、關鍵字自動回覆、歡迎訊息）
+若您有**需要**在 LINE OA 後台回覆客人訊息，請務必在 LINE OA 「 回應設定 」 做以下設定：
+
+* 開啟 「 聊天 」
+* 開啟 「 Webhook 」
+* 關閉 「 加入好友的歡迎訊息 」 （避免同時觸發 LINE OA 與 Omnichat 兩邊的歡迎訊息功能）
+* 關閉 「 回應時間 」 （避免同時觸發 LINE OA 與 Omnichat 兩邊的離線即時訊息功能）
+* 「 聊天的回應方式 」 請務必選擇 「 手動 」 （避免同時觸發 LINE OA 與 Omnichat 兩邊的機器人回應、關鍵字自動回覆、歡迎訊息）
+
+{% hint style="warning" %}
+額外補充：
+
+若設定 Plan B，則顧客在傳送訊息給品牌端的 LINE OA 後，**訊息均不會顯示 「 已讀 」 狀態**。
+
+即便品牌客服人員在 Omnichat 系統的對話介面跟進使用者對話、回覆訊息，也不會顯示 「 已讀 」 狀態。
 {% endhint %}
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟十二
 
@@ -287,6 +305,13 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 
 ### 步驟十三
 
+{% hint style="danger" %}
+補充說明：
+
+* 如果已經在步驟十一根據 Plan A 或 Plan B 調整 LINE OA 後台的 「回應設定」 頁面，則步驟十三可以跳過
+* 如果已經在LINE OA 後台的 「回應設定」 頁面調整，但是 LINE Developers 的 Messaging API 頁面仍沒有更新，是因為 LINE Developers 的顯示不會即時更新，隔一段時間就會更新，所以若已確認 LINE OA 後台已調整完畢就沒問題了
+{% endhint %}
+
 把 **Allow bot to join group chats** 及 **Auto-reply messages** 設定為 "Disable"，請點擊右側的 "Edit"，進入 LINE OA 後台的回應設定裡調整
 
 若有在 Omnichat 後台設定「歡迎訊息」，可以將 Greeting messages 設定為 "Disable"
@@ -298,10 +323,6 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 調整後，畫面如下：
 
 <figure><img src="../../../../.gitbook/assets/步驟13調整後.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-補充說明：如果已經在 LINE OA 後台的「回應設定」頁面調整，但是 LINE Developers 的 Messaging API 頁面仍沒有更新，是因為 LINE Developers 的顯示可能不會即時更新，不過隔一段時間就會更新，所以若已確認 LINE OA 後台已調整完畢就沒問題了
-{% endhint %}
 
 ## **完成！你的 LINE 已經成功整合到 Omnichat**&#x20;
 
