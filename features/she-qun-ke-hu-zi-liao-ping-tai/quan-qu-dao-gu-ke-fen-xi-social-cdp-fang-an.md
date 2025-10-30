@@ -64,7 +64,7 @@ description: 完整記錄全渠道顧客數量與顧客來源。
 
 各社群渠道中有效聯絡人完成社群身份綁定的人數總計。
 
-<figure><img src="../../.gitbook/assets/image (528).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (528) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 新聯絡人數
 

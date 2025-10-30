@@ -56,7 +56,7 @@ WEB 版群發訊息可發送 「圖片訊息」 與 「文字訊息」 總共五
 
 #### 3. 顧客選取完成後，挑選訊息範本及編輯內容，點擊 「發送」 即可完成群發訊息
 
-您必須事先[建立好WhatsApp範本訊息](../tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-fan-ben-xun-xi.md)，此處才可選到該範本及送出群發訊息範本。
+您必須事先[建立好WhatsApp範本訊息](../tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-xun-xi-fan-ben.md)，此處才可選到該範本及送出群發訊息範本。
 
 <figure><img src="../../.gitbook/assets/群發訊息範本3 (3).png" alt=""><figcaption><p>發送群發訊息範本步驟</p></figcaption></figure>
 

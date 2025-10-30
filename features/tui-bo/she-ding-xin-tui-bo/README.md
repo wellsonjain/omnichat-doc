@@ -236,7 +236,7 @@ LINE 官方針對使用任何第三方平台串接 LINE 對話時，將會依據
 
 ### 推播設定－WhatsApp
 
-當推播平台為 WhatsApp 時，推播需要使用 **「 訊息範本 」** 推播，訊息範本相關的說明可以參考[這裡](../../tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-fan-ben-xun-xi.md)
+當推播平台為 WhatsApp 時，推播需要使用 **「 訊息範本 」** 推播，訊息範本相關的說明可以參考[這裡](../../tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-xun-xi-fan-ben.md)
 
 點擊訊息範本的下拉式選單後，會開啟在 Omnichat 提出申請的訊息範本一覽表。
 

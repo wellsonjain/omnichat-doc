@@ -18,8 +18,8 @@ description: >-
 [whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md](whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md)
 {% endcontent-ref %}
 
-{% content-ref url="chuang-jian-whatsapp-fan-ben-xun-xi.md" %}
-[chuang-jian-whatsapp-fan-ben-xun-xi.md](chuang-jian-whatsapp-fan-ben-xun-xi.md)
+{% content-ref url="chuang-jian-whatsapp-xun-xi-fan-ben.md" %}
+[chuang-jian-whatsapp-xun-xi-fan-ben.md](chuang-jian-whatsapp-xun-xi-fan-ben.md)
 {% endcontent-ref %}
 
 {% content-ref url="cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md" %}

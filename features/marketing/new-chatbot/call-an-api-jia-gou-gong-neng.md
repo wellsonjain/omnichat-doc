@@ -43,7 +43,7 @@ Call an API卡片可以做到：
 
 3. **✅ 呼叫其他系統執行動作：**&#x4F8B;如發Email、SMS簡訊、App通知等。
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Call an API 卡片也可以呼叫其他系統執行動作</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Call an API 卡片也可以呼叫其他系統執行動作</p></figcaption></figure>
 
 ## Call an API 應用情境
 

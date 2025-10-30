@@ -11,7 +11,7 @@ hidden: true
 * 發訊者名稱格式：【品牌自行設定的名稱】
 * 位置：簡訊開頭
 
-<div><figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>10/1 功能上線後，請至「團隊資料」設定簡訊發送者名稱。</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>示意圖：簡訊開頭會加上發訊者名稱</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>10/1 功能上線後，請至「團隊資料」設定簡訊發送者名稱。</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>示意圖：簡訊開頭會加上發訊者名稱</p></figcaption></figure></div>
 
 {% hint style="info" %}
 若簡訊文案中涉及第三方姓名、公司名稱等資訊，也請務必事先取得合法授權及相關佐證文件。若未經授權使用，所衍生之法律責任將由品牌方自行承擔。

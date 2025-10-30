@@ -249,7 +249,7 @@
       * [沿用舊有電話號碼申請 WhatsApp Business API (官方商業帳號)及轉移聊天紀錄教學](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/yan-yong-jiu-you-dian-hua-hao-ma-shen-qing-whatsapp-business-api-guan-fang-shang-ye-zhang-hao-ji-zhu.md)
       * [WhatsApp Business API 商業帳號檔案編輯](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md)
       * [修改 WhatsApp Business API 商業帳號敘述](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/xiu-gai-whatsapp-business-api-shang-ye-zhang-hao-xu-shu.md)
-      * [創建 WhatsApp 範本訊息](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-fan-ben-xun-xi.md)
+      * [創建 WhatsApp 訊息範本](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-xun-xi-fan-ben.md)
       * [從其他企業管理平台(BSP)轉移 WhatsApp Business API 號碼](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md)
       * [創建WABA catalogue](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-waba-catalogue.md)
     * [WeChat | 整合到 Omnichat](features/tong-xun-qu-dao/integrations/wechat-zheng-he-dao-omnichat.md)

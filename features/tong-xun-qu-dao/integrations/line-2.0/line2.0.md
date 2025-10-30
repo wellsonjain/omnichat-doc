@@ -269,7 +269,7 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 若品牌端對於自動顯示已讀狀態會有疑慮，建議可以在歡迎訊息 / 自動回覆訊息 ／離線即時訊息當中，補充官方會自動顯示已讀狀態，客服團隊將會盡快協助回覆您的訊息等文案內容，降低顧客的等待情緒。
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -291,7 +291,7 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 即便品牌客服人員在 Omnichat 系統的對話介面跟進使用者對話、回覆訊息，也不會顯示 「 已讀 」 狀態。
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (528).png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟十二
 

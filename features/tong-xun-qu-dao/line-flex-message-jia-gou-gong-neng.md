@@ -51,7 +51,7 @@ hidden: true
     <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 2.  將想要追蹤的按鈕或圖片連結複製並填入下方 URL 區塊中，若有多個按鈕需要追蹤依序透過「新增 URL」 按鈕新增
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 3.  複製追蹤碼後，將對應的 URL 替換成追蹤碼
