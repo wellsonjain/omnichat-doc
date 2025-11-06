@@ -207,7 +207,7 @@ LINE 官方針對使用任何第三方平台串接 LINE 對話時，將會依據
 
     <figure><img src="../../../.gitbook/assets/截圖 2025-10-17 上午9.19.15.png" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src="../../../.gitbook/assets/截圖 2025-10-17 09.27.45 (1).jpeg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/截圖 2025-10-17 09.43.40 (2).jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/截圖 2025-11-06 下午3.17.26.png" alt="" width="325"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/截圖 2025-10-17 09.43.40 (2).jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### 推播設定－Facebook
 
