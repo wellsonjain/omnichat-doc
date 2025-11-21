@@ -106,9 +106,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
          * Email
          * Phone
 
-       {% hint style="info" %}
-       導出資料後續運用可以至 LINE 或 Facebook 成為自訂受眾下廣告。關於 Facebook 後續應用請參考此篇部落格-[【Facebook 廣告受眾設定】鎖定 Messenger 互動粉絲的簡單2方法](https://blog.omnichat.ai/tw/fb-ads-messenger-audience/)
-       {% endhint %}
+       <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>導出資料後續運用可以至 LINE 或 Facebook 成為自訂受眾下廣告。關於 Facebook 後續應用請參考此篇部落格-<a href="https://blog.omnichat.ai/tw/fb-ads-messenger-audience/">【Facebook 廣告受眾設定】鎖定 Messenger 互動粉絲的簡單2方法</a></p></div>
 
 ## 動作頁面細節(1\~3)
 

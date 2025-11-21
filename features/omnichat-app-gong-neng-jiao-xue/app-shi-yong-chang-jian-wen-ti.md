@@ -41,4 +41,4 @@ Ans7：您可以從手機的設定(Setting) 當中選擇 > 輔助使用(Accessib
 
 <figure><img src="../../.gitbook/assets/截圖 2022-12-16 下午1.59.06.png" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

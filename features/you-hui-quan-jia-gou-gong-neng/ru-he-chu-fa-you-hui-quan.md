@@ -33,4 +33,4 @@ description: 在設定好優惠券後，就可以進一步設定在通訊渠道�
 
 ![](../../.gitbook/assets/IMG_FDCAA50882BE-1.jpeg)
 
-\
+<br>

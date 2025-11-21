@@ -37,7 +37,23 @@ description: 你可以透過 Omnichat 客服平台在各個通訊渠道傳送圖
 
 **FB, WhatsApp上傳檔案**
 
-<div><figure><img src="../../.gitbook/assets/FB, WA上傳檔案.jpg" alt=""><figcaption><p>品牌端上傳檔案</p></figcaption></figure> <figure><img src="../../.gitbook/assets/fb顧客端.jpg" alt="" width="160"><figcaption><p>FB顧客端</p></figcaption></figure> <figure><img src="../../.gitbook/assets/wa 顧客端.jpg" alt="" width="159"><figcaption><p>WA顧客端</p></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/FB, WA上傳檔案.jpg" alt=""><figcaption><p>品牌端上傳檔案</p></figcaption></figure>
+
+<div><figure><img src="../../.gitbook/assets/fb顧客端.jpg" alt="" width="160"><figcaption><p>FB顧客端</p></figcaption></figure> <figure><img src="../../.gitbook/assets/wa 顧客端.jpg" alt="" width="159"><figcaption><p>WA顧客端</p></figcaption></figure></div>
+
+**\[顧客端] IG 上傳圖片注意事項**
+
+顧客在品牌的IG聊天室中，點擊左下角相機，拍照上傳圖片的方式有三種：允許重播（Allow replay）、單次檢視（View once）、保留在聊天室中（Keep in chat），可以在上傳前，透過頁面左下角的按鈕進行切換。
+
+<figure><img src="../../.gitbook/assets/Adobe Express - IG_uploadimage.gif" alt=""><figcaption></figcaption></figure>
+
+由於 Meta 端的系統限制，若顧客透過 **允許重播（Allow replay）**、**單次檢視（View once）**&#x5169;種模式傳送圖片，將有機率會無法在Omnichat後台正常顯示，請顧客改透過 **保留在聊天室中（Keep in chat）**&#x7684;模式即可正常顯示囉！
+
+<figure><img src="../../.gitbook/assets/截圖 2025-11-10 下午2.59.23.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 ## 傳送WhatsApp 貼圖包、LINE官方貼圖
 

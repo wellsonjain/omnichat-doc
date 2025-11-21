@@ -88,8 +88,7 @@ description: 適用平台：網站對話插件、Facebook、Instagram、LINE
 <img src="../../../.gitbook/assets/image (511).png" alt="" data-size="original">
 
 1. **支援卡片與按鈕類型**\
-   以下卡片按鈕可以支援設定此點擊觸發動作「分享給 LINE 好友」\
-
+   以下卡片按鈕可以支援設定此點擊觸發動作「分享給 LINE 好友」<br>
    * 文字訊息 (包含真人客服卡片)
      * 一般按鈕
    * 輪播訊息

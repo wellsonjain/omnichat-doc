@@ -6,8 +6,7 @@ description: 機器人模組支援不同類型卡片來應用在各個社群渠�
 
 當您選擇使用在單一社群平台的時候，可使用的機器人卡片會有所不同，請見下方連結。
 
-所有平台都有的機器人卡片設計說明可以往下滑獲取說明唷\
-
+所有平台都有的機器人卡片設計說明可以往下滑獲取說明唷<br>
 
 {% content-ref url="facebook-xian-ding-ji-qi-ren.md" %}
 [facebook-xian-ding-ji-qi-ren.md](facebook-xian-ding-ji-qi-ren.md)
