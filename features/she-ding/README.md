@@ -28,6 +28,6 @@ description: 電商用戶可從以下項目中，查看與調整 Omnichat 帳號
 [online-status.md](online-status.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/ttCblRXPlyx8stjErfif" %}
+[Broken link](/broken/pages/ttCblRXPlyx8stjErfif)
 {% endcontent-ref %}

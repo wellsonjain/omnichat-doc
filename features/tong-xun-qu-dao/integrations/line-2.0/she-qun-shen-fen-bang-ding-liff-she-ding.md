@@ -22,7 +22,7 @@ description: 透過設定並取得 LIFF ID，讓消費者不需輸入六位數�
 
 若已有設定過 Login Channel，請先協助確認以下設定項目是否正確：
 
-* LINE Login Channel 是否有跟 Messaging API Channel 在同一個 Provider 下面
+* **LINE Login Channel 是否有跟 Messaging API Channel 在同一個 Provider 下面**
 * Developing 已有改為 Published（請參考[此步驟](she-ding-liff-id-xian-she-ding-login-channel.md#bu-zhou-san-jiang-login-channel-diao-zheng-wei-published)）
 * LINE Login 的 Linked OA 已有選到正確的 LINE OA 帳號（請參考[此步驟](she-ding-liff-id-xian-she-ding-login-channel.md#bu-zhou-si-diao-zheng-login-channel-lian-jie-line-guan-fang-zhang-hao)）
 
@@ -64,7 +64,17 @@ description: 透過設定並取得 LIFF ID，讓消費者不需輸入六位數�
 
 ![](<../../../../.gitbook/assets/截圖 2024-05-15 下午6.39.49.png>)
 
-#### 步驟四：回到 Omnichat 後台，進到「串接社群渠道」內的 LINE，點擊「編輯」後將 LIFF ID 填入並按下「儲存」
+#### 步驟四：請確認在 LINE Login Chann 的 Basic setting 當中有點選設定到您的 LINE OA 帳號
+
+請在 Basic setting 當中滑到頁面最下方的 Add Friend option 中，將 **Linked LINE Offcial Account** 選擇下拉式選單到您對應的 LINE OA 官方帳號中（請務必確認好此處連結，再進行下一個步驟）
+
+<div><figure><img src="../../../../.gitbook/assets/FAQ FIX -2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/FAQ FIX -1.png" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="danger" %}
+如果您無法在 Lined LINE Offical Account 的下拉式選單中找尋到符合的 LINE 官方帳號，則代表您目前使用的 LINE Login Channel 並沒有與對應的 Messaing API Channel 在同一組 Provider 當中，會需要重新確認您目前在 LINE Developers 當中的權限狀態，可參考 [**LINE Developers 常見問題**](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/line-developers-chang-jian-wen-ti)說明
+{% endhint %}
+
+#### 步驟五：回到 Omnichat 後台，進到「串接社群渠道」內的 LINE，點擊「編輯」後將 LIFF ID 填入並按下「儲存」
 
 <figure><img src="../../../../.gitbook/assets/截圖 2024-05-15 下午6.40.19.png" alt=""><figcaption></figcaption></figure>
 

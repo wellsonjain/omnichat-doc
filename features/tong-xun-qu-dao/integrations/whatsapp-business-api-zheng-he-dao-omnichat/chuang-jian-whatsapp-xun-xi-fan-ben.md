@@ -173,7 +173,7 @@
 
 <figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 上午11.18.57.png" alt=""><figcaption></figcaption></figure>
 
-接著即可至Omnichat後台進行ＷhatsApp推播 （推播功能請詳閱：[使用 CSV 檔案推播個人化 WhatsApp Template Message](broken-reference)）
+接著即可至Omnichat後台進行ＷhatsApp推播 （推播功能請詳閱：[使用 CSV 檔案推播個人化 WhatsApp Template Message](/broken/pages/zLwf5e7UVGSgJglEG3sq#fa-song-tui-bo-whatsapp)）
 
 ## Flow範本設定（需加購）
 
