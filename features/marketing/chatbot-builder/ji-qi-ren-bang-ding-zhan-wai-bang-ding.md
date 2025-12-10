@@ -1,7 +1,7 @@
 ---
 description: >-
   除了使用『社群身份綁定』及『購物車再行銷』中的追蹤插件外，您可以讓消費者從社群渠道上回到網站完成綁定。目前支援綁定的社群渠道有 Facebook
-  Messenger 以及 LINE 官方帳號
+  Messenger, LINE 官方帳號 以及 WhatsApp渠道。
 ---
 
 # 機器人綁定（站外綁定）
