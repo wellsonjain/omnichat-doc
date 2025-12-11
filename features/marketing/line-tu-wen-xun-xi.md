@@ -1,7 +1,7 @@
 # LINE 圖文訊息
 
 {% hint style="info" %}
-設定完圖文訊息後，請在 「 LINE 專用平台機器人」 內使用 「 圖文訊息卡片 」 （設定步驟請參考[此篇](chatbot-builder/ji-qi-ren-mo-zu-she-ding/line-xian-ding-ji-qi-ren.md) ）
+設定完圖文訊息後，請在 「 LINE 專用平台機器人 」 內使用 「 圖文訊息卡片 」 （設定步驟請參考[此篇](chatbot-builder/ji-qi-ren-mo-zu-she-ding/line-xian-ding-ji-qi-ren.md) ）
 {% endhint %}
 
 ### **點擊新增圖文訊息後，跟著以下步驟即可設定內容：**
@@ -15,14 +15,12 @@
 <figure><img src="../../.gitbook/assets/截圖 2025-04-29 上午10.45.31.png" alt=""><figcaption><p>選擇模板-支援透明背景圖</p></figcaption></figure>
 
 {% hint style="info" %}
-1. 新增支援使用透明背景（<mark style="color:red;">記得勾選 「啟用」 顯示透明背景</mark>），格式須為 JPEG、JPG、PNG
-2.  可上傳的圖片尺寸：
+1. 新增支援使用透明背景（<mark style="color:red;">記得勾選 「 啟用 」 顯示透明背景</mark>），格式須為 JPEG、JPG、PNG
+2. 可上傳的圖片尺寸：
 
-    正方形版型：1040 x 1040 px
-
-    自訂版型：寬度最寬 1040px；高度最高 3120px
-
-    檔案大小限制 10 MB
+* 正方形版型：1040 x 1040 px
+* 自訂版型：寬度最寬 1040px；高度最高 3120px
+* 檔案大小限制 10 MB
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/IMG_E16D9E625FEC-1.jpeg" alt="" width="375"><figcaption><p>LINE前台實際呈現畫面</p></figcaption></figure>
@@ -38,7 +36,7 @@
 4. 影片動作可支援：動作鍵顯示文字、連結網址、按下動作後貼上標籤。
 {% endhint %}
 
-1. 文字訊息：設定點擊後送出的訊息內容，可與「[關鍵字自動回覆](keyword-autoreply.md#bu-zhou-si-she-ding-zi-dong-hui-fu-tiao-jian-ji-nei-rong)」搭配使用
+1. 文字訊息：設定點擊後送出的訊息內容，可與 「 [關鍵字自動回覆](keyword-autoreply.md#bu-zhou-si-she-ding-zi-dong-hui-fu-tiao-jian-ji-nei-rong) 」 搭配使用
 2. 開啟 URL：設定 URL 後，客人點擊該動作會引導到站外，**若連結為官網的原網址可完成站外綁定，**&#x8A73;細可參考這裡的[說明](chatbot-builder/ji-qi-ren-bang-ding-zhan-wai-bang-ding.md)
 3. 影片
    * 「上傳影片」 按鈕：將影片檔案進行上傳
@@ -50,10 +48,10 @@
 4. 機器人模組：點擊後會觸發機器人模組
 5. 影片檔案大小限制為：200MB、檔案格式必須為：MP4。
 
-#### &#x20;步驟三： 「內容設定」>「聊天列表的預覽標題」
+#### &#x20;步驟三： 「 內容設定 」 > 「 聊天列表的預覽標題 」
 
 * 用戶可以自訂當客人的 LINE 收到圖文訊息時所顯示的新訊息通知
-* 「聊天列表的預覽標題」欄位：字數上限 100 字
+* 「 聊天列表的預覽標題 」 欄位：字數上限 100 字
 
 <figure><img src="../../.gitbook/assets/截圖 2025-04-29 上午12.51.56.png" alt=""><figcaption></figcaption></figure>
 
@@ -61,15 +59,13 @@
 
 <figure><img src="../../.gitbook/assets/圖文訊息5.PNG" alt="" width="375"><figcaption><p>客人收到圖文訊息時，聊天列表會出現預覽標題</p></figcaption></figure>
 
-###
 
-## 圖文訊息應用-以跳轉機器人模組為例
+
+## 圖文訊息應用－以跳轉機器人模組為例
 
 #### 步驟ㄧ：先建立好不同圖文訊息要使用的空白模組
 
-
-
-<figure><img src="../../.gitbook/assets/截圖 2024-07-23 下午5.35.05.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/截圖 2024-07-23 下午5.35.05.png" alt=""><figcaption><p>聊天機器人1.0畫面</p></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2025-10-29 下午2.50.45.png" alt=""><figcaption><p>聊天機器人2.0畫面</p></figcaption></figure></div>
 
 #### 步驟二：建立好第一層圖文訊息，選擇適合的版型，並在動作選單中使用 「機器人模組」
 
@@ -79,7 +75,7 @@
 
 #### 步驟三：在空白模組中，選擇剛建立好的圖文訊息，並將剩下的圖文訊息設定到對應的模組內
 
-<figure><img src="../../.gitbook/assets/截圖 2024-07-23 下午5.39.29.png" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/截圖 2024-07-23 下午5.39.29.png" alt=""><figcaption><p>聊天機器人1.0畫面</p></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2025-10-29 下午2.49.23.png" alt=""><figcaption><p>聊天機器人2.0畫面</p></figcaption></figure></div>
 
 #### 步驟四：當消費者觸發出圖文訊息時，點擊圖片即會觸發相對應的機器人模組內容
 

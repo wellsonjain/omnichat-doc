@@ -10,7 +10,7 @@ description: 您可以透過此頁面管理及編輯您的預存回覆。
 
 ### 預存回覆列表
 
-![](../../.gitbook/assets/預存回覆.png)
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午11.16.10.png" alt=""><figcaption></figcaption></figure>
 
 1. 預存回覆標題：建立之後可方便搜尋，前台消費者看不到該標題
 2.  內容：訊息類型劃分為 自訂訊息、機器人模組兩個部分

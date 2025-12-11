@@ -23,11 +23,13 @@ description: 在設定好優惠券後，就可以進一步設定在通訊渠道�
 \
 步驟 1：在『優惠券』設定內將優惠券樣式設定完畢。
 
-![](<../../.gitbook/assets/截圖 2022-07-06 下午1.36.15.png>)
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午11.00.16 (1).png" alt=""><figcaption></figcaption></figure>
 
-步驟二：在『只限 LINE 機器人』內的機器人模組內設定『優惠券卡片』並在『[訊息自動回覆](../marketing/xun-xi-zi-dong-hui-fu.md)』設定觸發的關鍵字及觸發的機器人內的優惠券。
+步驟二：在 『只限 LINE 機器人』 內的機器人模組內設定 『優惠券卡片』 並在 『[訊息自動回覆](../marketing/xun-xi-zi-dong-hui-fu.md)』 設定觸發的關鍵字及觸發的機器人內的優惠券。
 
-![](<../../.gitbook/assets/截圖 2022-07-06 下午1.38.29.png>)
+<div><figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午11.11.20.png" alt=""><figcaption><p>聊天機器人 1.0 畫面</p></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午10.58.55 (1).png" alt=""><figcaption><p>聊天機器人 2.0 畫面</p></figcaption></figure></div>
+
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午11.12.55.png" alt=""><figcaption></figcaption></figure>
 
 完成！當消費者在官方帳號輸入包含有『優惠券』的訊息時，就會觸發，進而收到優惠券唷
 

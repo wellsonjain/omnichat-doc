@@ -16,12 +16,14 @@ FB 行銷推播內容只限客人過去跟品牌 24 小時內有互動才能成�
 
 ### 卡片設定
 
-<figure><img src="../../../../.gitbook/assets/截圖 2023-05-09 下午2.20.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2023-05-09 下午2.20.56.png" alt=""><figcaption><p>聊天機器人1.0畫面</p></figcaption></figure>
 
-1. 設定 FB 訂閱定期通知卡片
+<div><figure><img src="../../../../.gitbook/assets/截圖 2025-10-30 下午3.05.18.png" alt=""><figcaption><p>聊天機器人2.0畫面</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/截圖 2025-10-30 下午3.05.42.png" alt=""><figcaption><p>聊天機器人2.0畫面</p></figcaption></figure></div>
+
+1. 新增 FB 訂閱定期通知卡片
 2. 上傳圖片：圖片手機版：1.94 : 1；網頁版：1.66 : 1
 3. 設定主題
-4. 「接收訊息」按鈕無法修改按鈕文字。（因 Facebook 限制）
+4. &#x20;「 接收訊息 」 按鈕無法修改按鈕文字。（因 Facebook 限制）
 5. 對話模組：設計對話模組可以導到其他模組
 6. 標籤：消費者點擊後，為他們加上標籤
 
@@ -41,7 +43,7 @@ FB 行銷推播內容只限客人過去跟品牌 24 小時內有互動才能成�
 
 #### **二**、[**Facebook 主選單（常設功能表）**](../../../tong-xun-qu-dao/automated-messages/chang-she-gong-neng-biao.md)**觸發定期通知型訊息**
 
-![](<../../../../.gitbook/assets/截圖 2022-06-20 下午3.17.31.png>)
+<figure><img src="../../../../.gitbook/assets/截圖 2025-10-30 下午3.04.45.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ![](<../../../../.gitbook/assets/截圖 2022-06-20 下午4.54.54.png>)
 
@@ -58,7 +60,9 @@ FB 行銷推播內容只限客人過去跟品牌 24 小時內有互動才能成�
 * 設定完定期通知訓息機器人卡片後，多設定一個機器人模組來導向 FB 定期訊息機器人
 * 將該貼文私訊回覆，設定為剛剛設定的機器人模組。
 
-![](<../../../../.gitbook/assets/截圖 2022-03-30 下午6.52.55.png>)
+![聊天機器人1.0 ＆ FB/IG留言回覆 1.0 畫面](<../../../../.gitbook/assets/截圖 2022-03-30 下午6.52.55.png>)
+
+<figure><img src="../../../../.gitbook/assets/截圖 2025-10-30 下午3.16.17.png" alt=""><figcaption><p>FB/IG留言回覆 2.0 畫面</p></figcaption></figure>
 
 您也可以設計導向的對話模組內含有誘因（如優惠券代碼、贈品等），提高消費者訂閱意願
 
@@ -96,9 +100,13 @@ FB 行銷推播內容只限客人過去跟品牌 24 小時內有互動才能成�
 
 ### 步驟二：複製需要導向的機器人模組 ID
 
-進到您想觸發的機器人模組內，複製『block-id』後面的那一串編碼
+若為舊版聊天機器人，先用滑鼠手動點擊一次定期訂閱通知卡片，再到連結處最後方複製 「**block-id**」 後面的那一串編碼；
 
-![](<../../../../.gitbook/assets/截圖 2023-03-28 下午2.56.19.png>)
+聊天機器人2.0，則可以在卡片右上角直接點擊 「 複製模組編號 」 。
+
+<figure><img src="../../../../.gitbook/assets/截圖 2025-10-30 下午3.24.22.png" alt=""><figcaption><p>聊天機器人 1.0 畫面</p></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/截圖 2025-10-30 下午3.19.33.png" alt="" width="359"><figcaption><p>聊天機器人 2.0 畫面</p></figcaption></figure>
 
 ### 步驟三：將 m.me 連結與機器人的 block-id 組合起來。
 
@@ -120,25 +128,18 @@ FB 行銷推播內容只限客人過去跟品牌 24 小時內有互動才能成�
 Faceboook 官方於 2022 年推出該功能，關於使用上的相關政策，可參考以下說明網頁：[https://developers.facebook.com/docs/messenger-platform/send-messages/recurring-notifications/](https://developers.facebook.com/docs/messenger-platform/send-messages/recurring-notifications/)
 {% endhint %}
 
-#### 1. Facebook 官方有機會會提前發出「Continue messages」提供給消費者
-
-#### 2. 消費者可以隨時到 Messenger App 內管理訂閱通知，包含「取消」和「恢復」。
+1. Facebook 官方有機會會提前發出「Continue messages」提供給消費者
+2. 消費者可以隨時到 Messenger App 內管理訂閱通知，包含 「 取消 」 和 「 恢復 」 。
 
 ![消費者訂閱之後又停止接收訊息](<../../../../.gitbook/assets/截圖 2022-06-24 下午4.56.57.png>)
 
 ### &#x20;對已經點擊 Facebook 定期通知客人推播時
 
-#### 1. 請留意，雖然可透過定期通訊息聯繫消費者，但仍有一定的機會/其他因素，導致推播訊息時產生失敗的情形。舉例來說：若 Facebook 粉絲專頁的互動率（不重複每日活躍用戶）過低時，FB官方針對該情況有相關限制，導致無法成功推播訊息。
+1. 請留意，雖然可透過定期通訊息聯繫消費者，但仍有一定的機會/其他因素，導致推播訊息時產生失敗的情形。舉例來說：若 Facebook 粉絲專頁的互動率（不重複每日活躍用戶）過低時，FB官方針對該情況有相關限制，導致無法成功推播訊息。
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-09-30 下午3.48.52.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. **Facebook 官方文件中有提出限制，針對同一位消費者，在 7 天內最多可發送 10 次訂閱定期通知卡片的提醒，在 1 天內最多可發送 5 次訂閱定期通知卡片的提醒，若您 Facebook 粉絲專頁互動率過低，有機會減少上述所提及的可發送次數**
-
-#### 3. 推播時，您會需要再勾選以下兩個條件為「是」，並且為「訂閱中」來進行篩選才是這個時間可以使用定期通知來推播的人數唷
-
-<figure><img src="../../../../.gitbook/assets/截圖 2022-11-08 下午3.25.37.png" alt=""><figcaption></figcaption></figure>
-
-#### 4.  如您是要對已經訂閱 Facebook 定期通知的客人使用機器人模組來推播，請留意機器人模組內僅能含有一張機器人卡
-
-如您機器人模組內有第二張以上（包含第二張）機器人卡片，文字或是圖片，則會改為一般標準訊息來發送，就會受到 [Facebook 24 政策限制](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/)
+2. Facebook 官方文件中有提出限制，針對同一位消費者，在 7 天內最多可發送 10 次訂閱定期通知卡片的提醒，在 1 天內最多可發送 5 次訂閱定期通知卡片的提醒，若您 Facebook 粉絲專頁互動率過低，有機會減少上述所提及的可發送次數
+3. 如您是要對已經訂閱 Facebook 定期通知的客人使用機器人模組來推播，請留意機器人模組內僅能含有一張機器人卡\
+   如您機器人模組內有第二張以上（包含第二張）機器人卡片，文字或是圖片，則會改為一般標準訊息來發送，就會受到 [Facebook 24 政策限制](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/)
 

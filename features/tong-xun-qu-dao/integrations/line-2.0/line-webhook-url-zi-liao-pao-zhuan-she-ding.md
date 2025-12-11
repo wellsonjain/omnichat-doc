@@ -16,6 +16,6 @@ description: 如您有使用其他第三方廠商且 Omnichat 系統及對方系
 
 將複製好的 Webhook URL 進到 Omnichat 後台—通訊渠道>>串接通訊渠道>>[LINE 內進行貼上跟儲存](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/line-zheng-he-yi-nan-pai-cha#id-2.-jian-cha-messaging-api-she-ding-shi-fou-zheng-que)
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-11-18 下午1.41.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-09 下午4.18.10 (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-11-18 下午1.58.22.png" alt=""><figcaption></figcaption></figure>

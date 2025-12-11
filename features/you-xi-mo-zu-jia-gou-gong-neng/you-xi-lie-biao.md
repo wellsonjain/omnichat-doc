@@ -4,7 +4,7 @@ description: 關於已經設定的各個遊戲功能，都可以在這邊查詢�
 
 # 遊戲列表
 
-<figure><img src="../../.gitbook/assets/截圖 2022-09-28 下午5.58.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-11-20 下午2.19.14 (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 搜尋：可利用關鍵字搜尋遊戲活動
 2. 遊戲名稱：會顯示於前台讓消費者看到
@@ -70,3 +70,4 @@ description: 關於已經設定的各個遊戲功能，都可以在這邊查詢�
 * 發佈後相關應用可以參考[這裡](../hu-dong-you-xi-jia-gou-gong-neng/hu-dong-you-xi-ying-yong.md)
 
 <figure><img src="../../.gitbook/assets/截圖 2023-11-08 下午4.34.15.png" alt=""><figcaption></figcaption></figure>
+

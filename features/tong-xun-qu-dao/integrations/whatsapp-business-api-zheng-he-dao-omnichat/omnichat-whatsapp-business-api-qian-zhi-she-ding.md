@@ -18,7 +18,7 @@ description: 如何先從 Omnichat 後台開始創建您的 WhatsApp Business AP
 
 ## 步驟一：進到 Omnichat 後台的「串接社群渠道」內打開 WhatsApp 選項
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午8.06.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-09 下午4.27.16.png" alt=""><figcaption></figcaption></figure>
 
 ## 步驟二：點擊後會打開（或跳轉）另一個分頁，如顯示的 Facebook 個人帳號是您的名稱，請按繼續。並按下『Get Started』
 
@@ -102,7 +102,7 @@ description: 如何先從 Omnichat 後台開始創建您的 WhatsApp Business AP
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午8.13.03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午8.12.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午8.12.50.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 如果您在前面的步驟還未驗證 WhatsApp Business 號碼，會需要請您重新點擊「開始設定 WhatsApp Business API 帳號」做完號碼驗證。
 

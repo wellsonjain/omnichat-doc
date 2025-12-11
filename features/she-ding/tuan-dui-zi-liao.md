@@ -1,7 +1,15 @@
----
-description: 若想要更換團隊照片，可以在團隊資料中更改。重新上傳新的團隊照片後按下「完成」即可。
----
-
 # 團隊資料
 
-![](<../../.gitbook/assets/團隊資料 (1).png>)
+### 基本資料
+
+這裡可以查看／編輯目前團隊的基本資料
+
+<figure><img src="../../.gitbook/assets/截圖 2025-12-11 上午10.17.18.png" alt="" width="563"><figcaption></figcaption></figure>
+
+***
+
+### 訂閱方案
+
+這裡可以查看目前團隊的方案詳細資料
+
+<figure><img src="../../.gitbook/assets/截圖 2025-12-11 上午10.17.28.png" alt="" width="563"><figcaption></figcaption></figure>

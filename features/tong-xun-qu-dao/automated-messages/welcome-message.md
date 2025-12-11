@@ -34,7 +34,7 @@ description: 當消費者第一次透過 Facebook Messenger、LINE、WhatsApp、
 
 當客人**第一次**傳送訊息到你的Instagram帳號時，自動發送「**歡迎訊息**」
 
-<figure><img src="../../../.gitbook/assets/歡迎訊息 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/歡迎訊息 (3).png" alt="" width="501"><figcaption></figcaption></figure>
 
 ### LINE
 

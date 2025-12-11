@@ -13,7 +13,7 @@ description: 透過設定並取得 LIFF ID，讓消費者不需輸入六位數�
 -發票模組
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午7.47.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-09 下午4.18.10 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午7.50.46.png" alt=""><figcaption></figcaption></figure>
 

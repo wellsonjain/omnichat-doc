@@ -19,9 +19,9 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 2. 在左側選單選擇「**通訊渠道 >** [**社群帳號**](https://console.omnichat.ai/social-channels?tab=facebook-pages)」
 3. 點擊 **Facebook Messenger** 分頁部份 -> 點擊「**串接 Facebook 專頁**」
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.01.45 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.01.40.png" alt=""><figcaption></figcaption></figure>
 
-4\. 會另開網站分頁，請點擊「**以 O O O 的身份繼續**」
+4\. 會另開網站分頁，請點擊 「**以 O O O 的身份繼續**」
 
 {% hint style="info" %}
 如您尚未登入 Facebook 帳號，請先進行登入
@@ -69,7 +69,7 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 
 12. 串接完成之後，畫面右上角會呈現 **「串接成功」** 的提示，並且在頁面列表當中也會出現串接好的 FB 粉專。
 
-<figure><img src="../../../.gitbook/assets/FB 串接截圖 -8.png" alt=""><figcaption><p>串接完成畫面</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.02.49.png" alt=""><figcaption></figcaption></figure>
 
 ## 常見問題
 
@@ -123,7 +123,7 @@ Facebook 的授權會因為以下原因而失效，授權失效後會影響 Omni
 
 5\. 斷開連接後，點擊 「**串接** **Facebook** 專頁」
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.01.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.01.40 (1).png" alt=""><figcaption></figcaption></figure>
 
 6\. 點擊 「**以** **OOO** **的身份繼續**」 完成重新授權
 
@@ -131,7 +131,7 @@ Facebook 的授權會因為以下原因而失效，授權失效後會影響 Omni
 
 7\. 成功重新授權後， Facebook 專頁會列出，請勾選需要串接的 Facebook 粉專後點擊 「**串接**」。
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.10.00 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.04.05.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 如果想要串接的專頁沒有出現，請回到 「第6步」 點擊下方 「**編輯設定**」 檢查是否有勾選想要串接的 Facebook 專頁及授權所有 Omnichat 要求的權限（如下圖）。
@@ -207,7 +207,7 @@ Facebook 的授權會因為以下原因而失效，授權失效後會影響 Omni
 系統每小時會判斷一次串接是否有效，若串接失效會寄信通知，並在後台提示錯誤。
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/截圖 2024-10-15 下午1.58.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.05.41 (1).png" alt=""><figcaption></figcaption></figure>
 
 **渠道串接失效信件**
 

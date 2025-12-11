@@ -30,11 +30,11 @@ description: 新推出的自動化排程功能，讓你可以針對指定受眾�
 
 1. 請至 社群客戶資料平台 → [受眾分群](https://console.omnichat.ai/audiences)頁面新增一組受眾包，作為觸發排程的對象。
 
-<figure><img src="../../.gitbook/assets/截圖 2025-04-25 下午4.01.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午10.51.44.png" alt=""><figcaption></figcaption></figure>
 
-請至 進階自動化功能 → [旅程](https://console.omnichat.ai/customer-journey) 頁面 新增一組旅程，作為觸發排程的任務。
+2. 請至 進階自動化功能 → [旅程](https://console.omnichat.ai/customer-journey) 頁面 新增一組旅程，作為觸發排程的任務。
 
-<figure><img src="../../.gitbook/assets/截圖 2025-04-25 下午4.06.04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午10.53.13.png" alt=""><figcaption></figcaption></figure>
 
 **⚠️ 請注意旅程的「觸發條件」要設定為「系統功能觸發」。**
 

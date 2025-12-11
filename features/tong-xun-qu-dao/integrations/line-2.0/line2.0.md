@@ -208,7 +208,7 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 
 登入 [Omnichat 管理](https://app.omnichat.ai/)，前往 通訊渠道 ->  [串接通訊渠道](https://app.easychat.co/integration.html)，並點選「**串接 LINE 官方帳號**」 **-> 新增 LINE 官方帳號**
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-08-31 下午5.27.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-11 上午9.52.24.png" alt=""><figcaption></figcaption></figure>
 
 點擊後會彈出視窗，再麻煩填入貼上剛剛取得的 5 個資料，點擊「**串接**」
 
@@ -222,7 +222,7 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-09-29 上午11.28.04.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-08-31 下午5.41.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-11 上午9.53.48.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟十
 
@@ -336,9 +336,9 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 
 &#x20;   若逐步檢查後仍有問題，歡迎從後台右下角的對話插件與 Omnichat 線上客服聯繫
 
-**2. 出現以下圖中的彈出視窗，該怎麼處理？**
+**2. 出現以下圖中的 「串接失敗ChannelAlreadyExist-Channel already existed.」 錯誤訊息彈出視窗，該怎麼處理？**
 
-<figure><img src="../../../../.gitbook/assets/2 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-09 下午4.15.42.png" alt=""><figcaption></figcaption></figure>
 
 出現此提示，表示你的 LINE 官方帳&#x865F;**`已經整合至其他團隊後台`**，請先回到另一個後台解除 LINE 官方帳號的整合，再回到現在的後台進行整合
 
@@ -352,6 +352,6 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 如果貴司未來不再使用 Omnichat 服務，請先刪除 Omnichat 與 LINE 後台相關設定，再取消 LINE 的連結。如： LINE 圖文選單等。
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-08-31 下午6.07.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-09 下午4.16.28.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-08-31 下午6.08.29.png" alt=""><figcaption></figcaption></figure>

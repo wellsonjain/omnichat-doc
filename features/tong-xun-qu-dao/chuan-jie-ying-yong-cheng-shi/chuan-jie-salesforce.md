@@ -29,7 +29,7 @@ Salesforce 方案：
 ```
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/salesforce 登入畫面.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/salesforce 登入畫面.png" alt="" width="496"><figcaption></figcaption></figure>
 
 授權成功後，回到 Omnichat 後臺繼續後續設定。
 

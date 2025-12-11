@@ -61,7 +61,7 @@ Ex: [https://game.omnichat.ai/?liffId=1655713626-ljKQMJy2](https://game.omnichat
 
 到通訊渠道 -> 社群帳號 -> 點開三個點的地方，按下「編輯」
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午7.47.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-09 下午4.18.10.png" alt=""><figcaption></figcaption></figure>
 
 將 LIFF ID 貼上，點擊「儲存」就大功告成！
 

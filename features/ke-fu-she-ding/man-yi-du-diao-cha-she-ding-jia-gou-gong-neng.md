@@ -20,7 +20,7 @@ description: 想從客人端得知對於客服回覆速度及品質的評價嗎�
 1. 事件結束後，自動發送
 2. 事件結束後，手動決定發送
 
-<figure><img src="../../.gitbook/assets/滿意度調查_發送時機.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午11.14.12拷貝.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/截圖 2025-06-17 下午4.52.51.png" alt=""><figcaption></figcaption></figure>
 
@@ -34,9 +34,9 @@ description: 想從客人端得知對於客服回覆速度及品質的評價嗎�
 
 從 Omnichat 後台的『滿意度調查』，先將「開啟滿意度調查」調整為開啟狀態，並在訊息標題、按鈕文字及評分文字這三個欄位裡設定文字內容。
 
-### 步驟二：設定完成後按下『儲存』，並開啟開關
+### 步驟二：設定完成後按下 『儲存』 ，並開啟開關
 
-<figure><img src="../../.gitbook/assets/截圖 2023-05-08 上午10.19.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午11.14.12.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 此為加購項目，如想了解此項目的收費方式及方案細節，歡迎聯繫 Omnichat

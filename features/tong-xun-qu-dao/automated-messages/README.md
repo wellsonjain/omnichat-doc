@@ -14,7 +14,7 @@ description: >-
 
 在社群常用訊息頁面，你可以設定各個社群渠道的歡迎訊息、離線訊息、即時訊息、常用功能等等，此頁面目前開放管理員、主管、客服經理、行銷人員角色可進行編輯。
 
-<figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-11 上午10.03.17.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="xian-shi-tuan-dui-cheng-yuan-ming-cheng.md" %}
 [xian-shi-tuan-dui-cheng-yuan-ming-cheng.md](xian-shi-tuan-dui-cheng-yuan-ming-cheng.md)

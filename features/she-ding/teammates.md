@@ -8,41 +8,32 @@ description: 添加團隊成員，即時轉介顧客查詢致相關團隊成員�
 
 <figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.24.14.png" alt=""><figcaption></figcaption></figure>
 
-1.「**搜尋功能**」：能夠根據姓名、Email、手機號碼來進行搜尋。&#x20;
-
-2.「**篩選功能**」：根據團隊成員的狀態來進行篩選，成員狀態：上線中、已離線、已停用。&#x20;
-
-3.「**新增團隊成員**」：點擊後填寫成員資料及選取權限後即可新增團隊成員。&#x20;
-
-4.「**更多功能**」：批次匯入銷售人員、批次匯出 QR Code、查看角色權限。&#x20;
-
-5.「**客服成員數**」：擁有客服功能權限的團隊成員數量 。
-
-6.「**行銷成員數**」：擁有行銷功能權限的團隊成員數量。（行銷成員無客服功能權限）&#x20;
-
-7.「 **OMO 成員數**」：擁有 OMO 功能的團隊成員數量 。（ 僅支援使用 OMO 方案的客戶 ）
-
-8.「**團隊成員權限快速篩選列表**」：不同權限角色的列表。&#x20;
-
-9.「**成員資料列表**」：團隊成員的姓名、Email、手機號碼、設定「動作」都在列表中。
-
-10.「**動作**」：設定為已離線、編輯成員訊息、停用此帳號、強制登出。
+1. **搜尋功能**：能夠根據姓名、Email、手機號碼來進行搜尋。&#x20;
+2. **篩選功能**：根據團隊成員的狀態來進行篩選，成員狀態：上線中、已離線、已停用。&#x20;
+3. **新增團隊成員**：點擊後填寫成員資料及選取權限後即可新增團隊成員。&#x20;
+4. **更多功能**：批次匯入銷售人員、批次匯出 QR Code、查看角色權限。&#x20;
+5. **客服成員數**：擁有客服功能權限的團隊成員數量 。
+6. **行銷成員數**：擁有行銷功能權限的團隊成員數量。（行銷成員無客服功能權限）&#x20;
+7. **OMO 成員數**：擁有 OMO 功能的團隊成員數量 。（ 僅支援使用 OMO 方案的客戶 ）
+8. **團隊成員權限快速篩選列表**：不同權限角色的列表。&#x20;
+9. **成員資料列表**：團隊成員的姓名、Email、手機號碼、設定「動作」都在列表中。
+10. **動作**：設定為已離線、編輯成員訊息、停用此帳號、強制登出。
 
 ## 團隊成員-搜尋功能
 
 <figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午2.29.00.png" alt=""><figcaption></figcaption></figure>
 
-以「姓名」、「 Email 」或「手機號碼」來搜尋團隊成員。
+以 「姓名」、「 Email 」 或 「手機號碼」 來搜尋團隊成員。
 
 {% hint style="info" %}
-上圖「根據店員編號」的搜尋選項，只支援使用 OMO 方案的用戶使用。
+上圖 「根據店員編號」 的搜尋選項，只支援使用 OMO 方案的用戶使用。
 {% endhint %}
 
 ## 團隊成員-篩選功能
 
 <figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午12.19.23.png" alt=""><figcaption></figcaption></figure>
 
-透過團隊成員狀態「上線中」、「已離線」、「已停用」篩選團隊成員。
+透過團隊成員狀態 「上線中」、「已離線」、「已停用」篩選團隊成員。
 
 {% hint style="info" %}
 若使用 OMO 方案，能夠依分店、依區域 來進行篩選。
@@ -54,15 +45,15 @@ description: 添加團隊成員，即時轉介顧客查詢致相關團隊成員�
 
 ## 新增團隊團隊成員
 
-<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午12.25.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午12.25.29.png" alt="" width="563"><figcaption></figcaption></figure>
 
-輸入成員姓名、Email或手機號碼（擇一必填）、選擇權限後點擊【發出邀請】按鈕，即可新增成員。
+輸入成員姓名、Email或手機號碼（擇一必填）、選擇權限後點擊 【發出邀請】 按鈕，即可新增成員。
 
 {% hint style="info" %}
-新增的團隊成員權限若為「銷售經理」、「銷售人員」，畫面會出現「員工編號」、「分店」 資料欄位。
+新增的團隊成員權限若為 「銷售經理」、「銷售人員」，畫面會出現 「員工編號」 、 「分店」 資料欄位。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午2.35.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午2.35.38.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -82,39 +73,39 @@ description: 添加團隊成員，即時轉介顧客查詢致相關團隊成員�
 
 <figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午1.35.32.png" alt=""><figcaption><p>範例檔案內容</p></figcaption></figure>
 
-1.「**name**」：銷售人員名稱。\
-2.「**email**」：銷售人員Email。\
-3.「**phone**」：銷售人員手機號碼。\
-4.「**role**」：銷售人員權限；銷售人員：6、銷售經理：7。\
-5.「**employeeCode**」：會員編號。\
-6.「**shopLocationCode**」：分店編號。
+1. **name**：銷售人員名稱。
+2. **email**」：銷售人員Email。
+3. **phone**：銷售人員手機號碼。
+4. **role**：銷售人員權限；銷售人員：6、銷售經理：7。
+5. **employeeCode**：會員編號。
+6. **shopLocationCode**：分店編號。
 
 
 
-## 更多功能-批次匯出成員 QR Code
+## 更多功能－批次匯出成員 QR Code
 
 <figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午1.51.43.png" alt=""><figcaption><p>點選批次匯出QR Code按鈕</p></figcaption></figure>
 
-首先，先點選【批次匯出QR Code】。
+首先，先點選 【 批次匯出 QR Code 】。
 
 <figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午1.44.05.png" alt=""><figcaption></figcaption></figure>
 
-點選【批次匯出 QR Code】後會出現確定要匯出的畫面，點選【確定】後會匯出一份 CSV 檔案，\
+點選 【批次匯出 QR Code】 後會出現確定要匯出的畫面，點選 【確定】 後會匯出一份 CSV 檔案，\
 QR Code會以「網址」來呈現，點擊網址後會出現QR Code畫面。
 
-### **批次匯出銷售人員QR Code-檔案內容：**
+### **批次匯出銷售人員QR Code－檔案內容：**
 
 <figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午2.05.08.png" alt=""><figcaption><p>銷售人員QR Code檔案內容</p></figcaption></figure>
 
-1.**「Agent Name」**：銷售人員名稱。\
-2.**「Employee Code」**：員工編號。\
-3.**「Shop Location Name」**：分店名稱。\
-4.**「Shop Location Code」**：分店編號。\
-5.**「Channel」**：社群渠道\
-6.**「Channel Name」**：社群渠道名稱\
-7.**「Channel ID」**：社群渠道 ID\
-8.**「Message Link」**：團隊成員訊息連結\
-9.**「QR Code Image URL」**：團隊成員的QR Code。
+1. **Agent Name**：銷售人員名稱。
+2. **Employee Code**：員工編號。
+3. **Shop Location Name**：分店名稱。
+4. **Shop Location Code**：分店編號。
+5. **Channel**：社群渠道
+6. **Channel Name**：社群渠道名稱
+7. **Channel ID**：社群渠道 ID
+8. **Message Link**：團隊成員訊息連結
+9. **QR Code Image URL**：團隊成員的QR Code。
 
 ## 更多功能-查看角色權限
 
@@ -171,7 +162,7 @@ QR Code會以「網址」來呈現，點擊網址後會出現QR Code畫面。
 
 
 
-## 團隊成員列表「動作」-設定為已離線
+## 團隊成員列表「動作」－設定為已離線
 
 {% hint style="info" %}
 管理員、主管才可調整成員在線狀態、離線狀態。
@@ -187,7 +178,7 @@ QR Code會以「網址」來呈現，點擊網址後會出現QR Code畫面。
 
 
 
-## 團隊成員列表「動作」-編輯成員資訊
+## 團隊成員列表「動作」－編輯成員資訊
 
 {% hint style="info" %}
 編輯團隊成員的Email / 電話時，該團隊成員將會被 強制登出。
@@ -197,11 +188,11 @@ QR Code會以「網址」來呈現，點擊網址後會出現QR Code畫面。
 
 後台團隊成員列表，點擊「動作」後，點擊【編輯成員資訊】，會跳出編輯成員資訊畫面。
 
-<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.05.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.05.02.png" alt="" width="563"><figcaption></figcaption></figure>
 
 確認團隊成員資料編輯完成後，點擊【儲存】即可成功編輯。
 
-<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.19.01.png" alt=""><figcaption><p>編輯成員畫面，可以新增or移除圖片。</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.19.01.png" alt="" width="563"><figcaption><p>編輯成員畫面，可以新增or移除圖片。</p></figcaption></figure>
 
 若預將原頭像移除再上傳新頭像，點擊【移除目前照片】後上傳新照片即可。
 
@@ -215,7 +206,7 @@ QR Code會以「網址」來呈現，點擊網址後會出現QR Code畫面。
 
 後台團隊成員列表，點擊「動作」後，點擊【停用此帳號】，會跳出確認停用畫面。
 
-<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.09.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.09.52.png" alt="" width="563"><figcaption></figcaption></figure>
 
 點擊【停用】後就能成功將該團隊成員停用。
 
@@ -225,6 +216,6 @@ QR Code會以「網址」來呈現，點擊網址後會出現QR Code畫面。
 
 後台團隊成員列表，點擊「動作」後，點擊【強制登出】，會跳出確認強制登出畫面。
 
-<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.12.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2023-01-06 下午3.12.06.png" alt="" width="563"><figcaption></figcaption></figure>
 
 點擊【強制登出】後就能成功將該團隊成員強制登出。

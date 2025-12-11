@@ -51,7 +51,7 @@ description: 依據顧客互動狀況（如：完成結帳、會員升級、貼�
 
 ### 1. 設定顧客旅程的起點
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午10.49.09.png" alt=""><figcaption></figcaption></figure>
 
 1. 儲存：將建立好的旅程儲存至草稿階段。
 2. 發佈：將建立好的旅程發佈、正式上線。

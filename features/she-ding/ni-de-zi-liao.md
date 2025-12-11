@@ -1,9 +1,11 @@
 ---
-description: 團隊成員可以在此設定名稱與大頭照，設定後按下「完成」即可。
+description: 團隊成員可以在此設定名稱與大頭照，設定後按下 「完成」 即可。
 ---
 
-# 你的資料
+# 我的資料
 
-![](../../.gitbook/assets/更改你的資料.png)
+點擊左上角自己的頭貼 > 「我的資料」，可以修改相關資訊
 
-輸入您的名稱後，記得按下「更改你的名稱」按鈕，最後再按下「完成」即可。&#x20;
+<figure><img src="../../.gitbook/assets/截圖 2025-12-11 上午10.12.54.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/截圖 2025-12-11 上午10.12.59.png" alt="" width="563"><figcaption></figcaption></figure>

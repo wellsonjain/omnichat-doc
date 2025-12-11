@@ -36,7 +36,7 @@ description: 如何整合 Instagram Messenger 到 Omnichat？
 但是如果你<mark style="color:red;">**已經有串接 Facebook 粉專到 Omnichat**</mark>，請使用負責串接 Facebook 粉專的<mark style="color:red;">**同一個 Facebook 用戶串接 Instagram。**</mark>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-31 下午3.48.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.07.10.png" alt=""><figcaption></figcaption></figure>
 
 4\. 點擊「**串接 Instagram 帳號**」後會另開一個分頁，並出現以下 Facebook 視窗，請點擊「**以 O O O 的身份繼續**」
 
@@ -72,7 +72,7 @@ description: 如何整合 Instagram Messenger 到 Omnichat？
 
 9\. 成功授權的 Instagram 帳號會在原本頁面彈出視窗，請勾選要串接的 Instagram 帳號後，點擊「**串接**」，即完成串接。
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-31 下午4.05.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.07.28.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 如果您看不到您想串接的 Instagram 帳號，請檢查：
@@ -104,19 +104,19 @@ Instagram 的授權會因為以下原因而失效，授權失效後會影響 Omn
 3. 打開「**Instagram 帳號整合**」部份
 4. 在「**已連接的 Instagram 帳號**」部份，點擊「**不連接**」把需要重新授權的 Instagram 帳號斷開連接
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-31 下午4.12.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.09.00.png" alt=""><figcaption></figcaption></figure>
 
 5\. 斷開連接後，點擊「**串接 Instagram 帳號**」
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-31 下午3.48.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.07.10 (1).png" alt=""><figcaption></figcaption></figure>
 
 6\. 點擊「**以 OOO 的身份繼續**」完成重新授權
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-08-31 下午3.50.06.png" alt="" width="375"><figcaption></figcaption></figure>
 
-7\. 成功授權的 Instagram 帳號會在原本頁面彈出視窗，請勾選要串接的 Instagram 帳號後，點擊「**串接**」，即完成串接。
+7\. 成功授權的 Instagram 帳號會在原本頁面彈出視窗，請勾選要串接的 Instagram 帳號後，點擊 「**串接**」，即完成串接。
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-31 下午4.05.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.11.37.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 如果彈出的視窗沒有列出您想要整合的 Instagram 帳號，請在「第 6 步」點擊「**編輯設定**」，檢查是否有勾選整合的 Instagram 帳號及連接該 Instagram 帳號的 Facebook 粉專
@@ -154,7 +154,7 @@ Instagram 的授權會因為以下原因而失效，授權失效後會影響 Omn
 * 團隊方案已結束的客戶將不會收到信件。
 * 失效原因及如何重新授權請參考[此處說明](instagram.md#ru-he-chong-xin-shou-quan)。
 
-<figure><img src="../../../.gitbook/assets/串接失效副本.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.12.55.png" alt=""><figcaption></figcaption></figure>
 
 ### 渠道串接失效信件
 

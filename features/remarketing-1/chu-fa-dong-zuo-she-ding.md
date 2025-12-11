@@ -33,7 +33,7 @@ description: 您可以在這裡了解 4 種官網顧客行銷的完整設定
 
 * 文字
 
-<figure><img src="../../.gitbook/assets/截圖 2024-06-04 下午3.03.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2024-06-04 下午3.03.52.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 圖片
 
@@ -46,14 +46,14 @@ description: 您可以在這裡了解 4 種官網顧客行銷的完整設定
 4. 如您使用網址已帶有 UTM，則 Omnichat 也不會加上 Omnichat UTM
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/截圖 2024-06-04 下午3.04.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2024-06-04 下午3.04.15.png" alt="" width="563"><figcaption></figcaption></figure>
 
 * Youtube 影片
 
 1. 目前支援顯示 Youtube 影片（包含 Shorts），不包含其他類型影片
 2. Youtube 影片網址連結目前支援 Youtube 原始網址，不支援短網址或其他特殊處理的網址
 
-<figure><img src="../../.gitbook/assets/截圖 2024-06-04 下午3.04.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2024-06-04 下午3.04.27.png" alt="" width="563"><figcaption></figcaption></figure>
 
 呈現參考
 

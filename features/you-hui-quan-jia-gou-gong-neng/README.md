@@ -18,7 +18,7 @@ description: 可透過 Omnichat 自訂優惠券樣式，並可在不同情境下
 
 ### 步驟一：新增優惠券
 
-<figure><img src="../../.gitbook/assets/截圖 2024-11-04 下午4.21.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午10.55.13.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟二
 
@@ -207,15 +207,17 @@ P.S 網址要是原始網址，不能轉網址、縮網址、短網址；且網�
 3. 機器人模組要有優惠券卡片，該機器人模組需為僅使用在單一渠道上的機器人
 {% endhint %}
 
-路徑：『進階自動化功能』→『自助設計機器人』→點選 『優惠券卡片』&#x20;
+路徑：『進階自動化功能』 → 『自助設計機器人』 → 點選 『優惠券卡片』&#x20;
 
-在『優惠券卡片』中的『選擇優惠券』可以選擇是要使用哪一個優惠券。
+在 『優惠券卡片』 中的 『選擇優惠券』 可以選擇是要使用哪一個優惠券。
 
-![](<../../.gitbook/assets/截圖 2022-07-06 下午1.20.26 (1).png>)
+![聊天機器人 1.0 畫面](<../../.gitbook/assets/截圖 2022-07-06 下午1.20.26 (1).png>)
+
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午10.58.55.png" alt=""><figcaption><p>聊天機器人 2.0 畫面</p></figcaption></figure>
 
 ## 優惠券列表以及領取紀錄
 
-<figure><img src="../../.gitbook/assets/優惠券管理1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-11-05 上午10.55.51.png" alt=""><figcaption></figcaption></figure>
 
 1. 搜尋：可以直接搜尋優惠券
 2. 領取數：可以查看目前**系統已發送**多少優惠券

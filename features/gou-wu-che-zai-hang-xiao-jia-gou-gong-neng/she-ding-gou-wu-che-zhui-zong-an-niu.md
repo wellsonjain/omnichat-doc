@@ -31,7 +31,7 @@ Omnichat 是藉由追蹤網頁訪客的購物行為，進而對訪客的 LINE / 
 
 ## 設定 LINE 彈出式綁定訊息
 
-<figure><img src="../../.gitbook/assets/購物車再行銷 2.0 .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2025-10-29 上午9.57.02.png" alt=""><figcaption></figcaption></figure>
 
 在 **購物車再行銷** 頁面，按下 LINE 分頁按鈕，即可進入 LINE 彈出式綁定訊息設定頁面。LINE 的設定頁面與 Facebook 基本相同。
 

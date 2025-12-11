@@ -68,9 +68,9 @@
 
 ### 4. 回到 Omnichat 使用者後台並刷新頁面後，恭喜您！ 您的號碼已完成接通囉。&#x20;
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-12-05 下午5.25.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-11 上午10.00.02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-12-05 下午5.25.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-11 上午10.00.08.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 1. **成功綁定了 WABA 後， 要在 30 天內完成 Meta 商業驗證（位置在 Meta 的安全中心內）**

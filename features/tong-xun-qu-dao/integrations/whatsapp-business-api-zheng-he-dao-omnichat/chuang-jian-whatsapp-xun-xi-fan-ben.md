@@ -200,7 +200,7 @@
 * 不支援送審後再次編輯 (WhatsApp API 暫不開放)，因此當範本被拒絕時或是需要修改範本格式時須另新增範本。僅允許 Omnichat 本身功能的設定調整，如：顯示名稱、適用對象、類別。
 * 不適用於「系統通知」類型，例如：Chat-to-order 訂單通知。
 
-<figure><img src="../../../../.gitbook/assets/Adobe Express - ScreenRecording_10-04-2025 10-01-14_1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Adobe Express - ScreenRecording_10-04-2025 10-01-14_1.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Step 1. 設定文字訊息
 
@@ -239,7 +239,7 @@
   * 撥打電話（最多只能一組）
   * 快速回覆
 
-<figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 下午2.45.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 下午2.45.05.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Step 3. 設定個別媒體卡片
 
@@ -250,7 +250,7 @@
   * 最多只能有 2 個換行符號，超過後 error 提示「換行次數不可以超過 2 次」。
 * 每張卡片按鈕為必填，動作類型以及按鈕順序必須每張一致，名稱以及按鈕行為可以不同。
 
-<figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 下午2.57.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 下午2.57.56.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 推播 WhatsApp 訊息 ｜取消訂閱
 
@@ -264,7 +264,7 @@
 
 在**訊息範本的**內容設定中，在按鈕區塊新增多一個「快速回覆」按鈕 -> 輸入按鈕名稱為"取消訂閱"或"Unsubscribe"
 
-<figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 下午1.44.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 下午1.44.09.png" alt="" width="563"><figcaption></figcaption></figure>
 
 後續範本審核完成後，在推播此訊息範本時，即可針對這顆按鈕設定動作為「取消訂閱通知」。\
 設定路徑為：推播 -> 點擊右上角「新推播」 -> 新增WhatsApp渠道的推播 -> 推播內容選擇該則訊息範本 -> 編輯內容中將按鈕動作設定為「取消訂閱通知」

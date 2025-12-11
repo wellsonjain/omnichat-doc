@@ -13,7 +13,7 @@ description: 透過手機號碼比對顧客 LINE 帳號，不論是否是官方�
 
 若事件發生時，在第一階段發送 LINE 通知訊息失敗時，會採以簡訊方式發送，並邀請客人加入品牌 LINE 官方帳號。
 
-<figure><img src="../../.gitbook/assets/Line lon update.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Line lon update.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 1. 目前該功能需要進行 API 串接，請依照 [API 文件](https://developers.omnichat.ai/password?redirect=/docs/send-notification-messages-to-contacts) 進行開發

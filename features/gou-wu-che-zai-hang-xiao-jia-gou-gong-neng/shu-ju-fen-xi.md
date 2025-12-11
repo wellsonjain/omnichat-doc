@@ -6,7 +6,9 @@
 2. [日期區間分析](shu-ju-fen-xi.md#ri-qi-ou-jian-fen-xi)
 3. [導出訂單](shu-ju-fen-xi.md#dao-chu-ding-chan)
 
-<div><figure><img src="../../.gitbook/assets/FB (2).png" alt=""><figcaption><p>Facebook 購物車再行銷訊息</p></figcaption></figure> <figure><img src="../../.gitbook/assets/LINE (2).png" alt=""><figcaption><p>LINE 購物車再行銷訊息</p></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2024-03-29 上午10.50.00.png" alt=""><figcaption><p>WABA 購物車再行銷訊息</p></figcaption></figure></div>
+### Facebook/LINE/WhatsApp 購物車再行銷頁面分別如下
+
+<div><figure><img src="../../.gitbook/assets/截圖 2025-10-29 下午1.47.15.png" alt="Facebook 購物車再行銷訊息"><figcaption><p>Facebook 購物車再行銷訊息</p></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2025-10-29 下午1.47.22.png" alt=""><figcaption><p>LINE 購物車再行銷訊息</p></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2025-10-29 下午1.47.28.png" alt=""><figcaption><p>WABA 購物車再行銷訊息</p></figcaption></figure></div>
 
 ### 購物車再行銷總覽 <a href="#abondancart-all" id="abondancart-all"></a>
 

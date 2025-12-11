@@ -4,12 +4,12 @@ description: 當收到消費者送出訊息至社群時，系統即時發送回�
 
 # 離線訊息 / 即時回覆
 
-{% hint style="info" %}
-「**離線訊息**」或「**即時回覆**」只會傳送**一次**給「**待處理**」事件的客人。
+{% hint style="warning" %}
+「**離線訊息**」 或 「**即時回覆**」 只會傳送**一次**給 「**待處理**」 事件的客人。
 {% endhint %}
 
 {% hint style="info" %}
-對話被標記為「**已結束**」後，如果再次收到客人的訊息，「**離線訊息**」或「**即時回覆**」會再次觸發。\
+對話被標記為「**已結束**」後，如果再次收到客人的訊息，「**離線訊息**」 或 「**即時回覆**」 會再次觸發。\
 且離線／即時訊息的回覆狀態會落在<mark style="color:red;">**待處理-真人客服**</mark>狀態
 {% endhint %}
 
@@ -44,7 +44,7 @@ description: 當收到消費者送出訊息至社群時，系統即時發送回�
 
 然後，添加另一個即時回覆，在「**特定時間**」下，勾選 **星期一至星期五**，時間設為 **10:00 至 19:00**
 
-<figure><img src="../../../.gitbook/assets/範例2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/範例2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 設定範例（二）：只設定「離線訊息」
 
@@ -52,11 +52,11 @@ description: 當收到消費者送出訊息至社群時，系統即時發送回�
 
 首先，添加一個即時回覆，在「**特定時間**」，勾選 **星期一至星期五**，時間設為 **19:00 至 09:59**
 
-<figure><img src="../../../.gitbook/assets/範例3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/範例3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 然後，添加另一個即時回覆，在「**特定時間**」下，勾選 **星期六及星期日**，時間設為 **00:00 至 23:59**
 
-<figure><img src="../../../.gitbook/assets/範例4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/範例4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 設定範例（三）：只設定「即時回覆」
 
@@ -64,7 +64,7 @@ description: 當收到消費者送出訊息至社群時，系統即時發送回�
 
 添加一個即時回覆，在「**特定時間**」下，勾選 **星期一至星期五**，時間設為 **10:00 至 19:00**
 
-<figure><img src="../../../.gitbook/assets/範例5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/範例5.png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 當客人第一次傳送訊息到您的 Instagram 帳號時，如果傳送的時間符合離線訊息或即時回覆的設定，系統會先發送「歡迎訊息」，客人在收到歡迎訊息後再次傳送的訊息，才會觸發離線訊息或即時回覆。

@@ -12,9 +12,9 @@ description: >-
 
 ### 步驟二
 
-**從「通訊渠道」-> 「社群帳號」-> 「WhatsApp 」-> 點擊鉛筆圖示**
+**從 「通訊渠道」** → **「社群帳號」** → **「WhatsApp 」** → **點擊鉛筆圖示**
 
-<figure><img src="../../../../.gitbook/assets/截圖 2022-09-01 下午8.16.57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/截圖 2025-12-11 上午9.57.18.png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟三
 
