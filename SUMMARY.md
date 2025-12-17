@@ -203,7 +203,7 @@
     * [購物行為 2.0](features/tong-ji-biao/funnel-1/shopping-behavior.md)
     * [來源 / 媒介 2.0](features/tong-ji-biao/funnel-1/source-medium.md)
   * [導購連結報表](features/tong-ji-biao/product-referral.md)
-  * [WhatsApp 對話統計](features/tong-ji-biao/whatsapp-dui-hua-tong-ji.md)
+  * [WhatsApp 訊息報表](features/tong-ji-biao/whatsapp-xun-xi-bao-biao.md)
   * [點數歷程（加購功能）](features/tong-ji-biao/dian-shu-li-cheng-jia-gou-gong-neng.md)
 * [通訊渠道](features/tong-xun-qu-dao/README.md)
   * [SurveyCake（加購功能）](features/tong-xun-qu-dao/third-party-survey/README.md)

@@ -20,8 +20,8 @@ description: >-
 [product-referral.md](product-referral.md)
 {% endcontent-ref %}
 
-{% content-ref url="whatsapp-dui-hua-tong-ji.md" %}
-[whatsapp-dui-hua-tong-ji.md](whatsapp-dui-hua-tong-ji.md)
+{% content-ref url="whatsapp-xun-xi-bao-biao.md" %}
+[whatsapp-xun-xi-bao-biao.md](whatsapp-xun-xi-bao-biao.md)
 {% endcontent-ref %}
 
 {% content-ref url="dian-shu-li-cheng-jia-gou-gong-neng.md" %}
