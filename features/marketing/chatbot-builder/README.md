@@ -1,5 +1,6 @@
 ---
 description: 設計Omnichat 支援聊天機器人，可使用在網站 Omnichat 插件或是運用在 Omnichat 其他後台功能
+hidden: true
 ---
 
 # 聊天機器人 (Bot Builder)

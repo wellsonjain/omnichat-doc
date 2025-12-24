@@ -1,5 +1,6 @@
 ---
 description: 利用 Omnichat 對已經將商品加入購物車卻未結帳的顧客發送訊息，提升整體營收。
+hidden: true
 ---
 
 # 購物車再行銷 (加購功能)

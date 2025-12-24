@@ -23,17 +23,29 @@
 * 檔案大小限制 10 MB
 {% endhint %}
 
+{% hint style="danger" %}
+如果圖文訊息搭配透明圖片時，運用在推播上會導致開封率數字高於實際開封情形。
+
+詳情請見[此說明](https://docs.omnichat.ai/features/tui-bo/tui-bo-ji-lu)。
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/IMG_E16D9E625FEC-1.jpeg" alt="" width="375"><figcaption><p>LINE前台實際呈現畫面</p></figcaption></figure>
 
-#### 步驟二 定義行動：文字訊息、開啟 URL、影片文字訊息、機器人模組
+#### 步驟二 定義行動：文字訊息、開啟 URL、影片訊息、機器人模組
 
-若選擇的行動為 開啟URL、影片文字訊息、機器人模組，可以同步為觸發行動的客人貼上標籤
+若選擇的行動為 開啟URL、影片訊息、機器人模組，可以同步為觸發行動的客人貼上標籤
 
 {% hint style="warning" %}
 1. 自動貼標動作若網址為短網址、縮網址、轉網址或網址非帶有 Omnichat 網站插件的網頁時，上述情況**均可做到自動貼標**。
 2. **只能有一個行動為影片**，當其中一個動作為影片時，其他行動能選無法擇影片
 3. 一則圖文訊息中，機器人模組與影片只能擇一設定，若設定機器人模組，則無法新增影片行動
 4. 影片動作可支援：動作鍵顯示文字、連結網址、按下動作後貼上標籤。
+{% endhint %}
+
+{% hint style="danger" %}
+如果定義行動-影片訊息運用在推播上，會導致開封率數字高於實際開封情形。
+
+詳情請見[此說明](https://docs.omnichat.ai/features/tui-bo/tui-bo-ji-lu)。
 {% endhint %}
 
 1. 文字訊息：設定點擊後送出的訊息內容，可與 「 [關鍵字自動回覆](keyword-autoreply.md#bu-zhou-si-she-ding-zi-dong-hui-fu-tiao-jian-ji-nei-rong) 」 搭配使用
