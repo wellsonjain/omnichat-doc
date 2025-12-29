@@ -47,7 +47,7 @@ description: 透過 「手機綁定」 功能，可讓顧客於 LINE 上查看�
 * 請選擇 LINE Login 的選項\
   （請確保 LINE Login Channel 與 Messaging API Channel 在同一 Providers-Admin 之中）
 * 選擇 LIFF 設定
-* 請選擇 LIFF app name 為 「社群身份綁定」 的選項進行編輯，若尚未設定，請參照 [教學手冊](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/she-qun-shen-fen-bang-ding-liff-she-ding) 先建立完成
+* 請選擇 LIFF app name 為 「官網綁定（舊名：社群身份綁定）」 的選項進行編輯，若尚未設定，請參照 [教學手冊](https://docs.omnichat.ai/features/tong-xun-qu-dao/integrations/line-2.0/she-qun-shen-fen-bang-ding-liff-she-ding) 先建立完成
 
 <figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption><p>LINE Login Channel - LIFF</p></figcaption></figure>
 
@@ -61,7 +61,7 @@ description: 透過 「手機綁定」 功能，可讓顧客於 LINE 上查看�
 
 <figure><img src="../../.gitbook/assets/截圖 2024-07-30 下午5.30.25.png" alt=""><figcaption><p>設定 Omnichat 後台 「綁定 Liff ID」</p></figcaption></figure>
 
-* 返回 Omnichat 後台（若曾因社群身份綁定，綁定 LIFF ID 已設定過，則不需再設定一次）
+* 返回 Omnichat 後台（若曾因官網綁定，綁定 LIFF ID 已設定過，則不需再設定一次）
 * 前往 通訊渠道 > 串接社群通訊渠道，點選 「LINE」 平台，選擇要使用手機綁定的渠道，點選此渠道動作裡的編輯按鈕，更新 「**綁定 Liff ID**」 並按儲存。
 
 ## 手機綁定 - 「品牌端」 設定
@@ -74,8 +74,8 @@ description: 透過 「手機綁定」 功能，可讓顧客於 LINE 上查看�
 * 此設置僅支援，後台管理權限：「管理員、主管」 來操作。
 * 設定方式
 
-1. <mark style="color:green;">可於 LINE 自助設計機器人中卡片按鈕設定系統預設模組 > 手機綁定</mark>&#x20;
-2. <mark style="color:green;">可取得綁定連結 (動作 > 複製綁定連結) 設定於圖文選單、圖文訊息、機器人模組、1：1 訊息</mark>
+1. <mark style="color:red;">可於 LINE 自助設計機器人中卡片按鈕設定系統預設模組 > 手機綁定</mark>&#x20;
+2. <mark style="color:red;">可取得綁定連結 (動作 > 複製綁定連結) 設定於圖文選單、圖文訊息、機器人模組、1：1 訊息</mark>
 
 * 若有使用會員卡功能，建議直接在機器人或圖文選單中設定 **會員卡** 的綁定連結，但顧客尚未完成手機綁定，點選會員卡的連結後，會引導進行手機綁定流程
 * 每個手機綁定渠道皆可設置-暫時停用
