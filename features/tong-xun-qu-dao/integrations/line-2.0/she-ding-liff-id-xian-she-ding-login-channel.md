@@ -116,17 +116,25 @@ LINE 官方帳號內管理員權限不代表擁有 Messaging API Channel 權限�
 
 <figure><img src="../../../../.gitbook/assets/截圖 2021-12-09 下午6.30.03.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/截圖 2021-12-09 下午6.38.22 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/developers.line.biz_console_channel_new_provider=2003890131&#x26;type=line-login拷貝.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/developers.line.biz_console_channel_new_provider=2003890131&#x26;type=line-login拷貝2.png" alt=""><figcaption></figcaption></figure>
 
 1. Channel Type：LINE Login（固定）
 2. Provider：為您們原先 Provider 名稱
 3. Region 選擇 **Taiwan**
 4. Channel icon 用 貴司官方帳號的 icon
 5. Channel name 為 貴司的 LINE 官方帳號名稱
-6. Channel Description – LINE 好友要玩遊戲前會有允許權限的流程，會顯示這個描述，所以請不要複製上方文字，請描述該認證流程。如您不知道該填寫什麼內容，可填寫品牌名稱
+6. Channel Description：LINE 好友要玩遊戲前會有允許權限的流程，會顯示這個描述，所以請不要複製上方文字，請描述該認證流程。如您不知道該填寫什麼內容，可填寫品牌名稱
 7. App types 兩個都勾選
-8. 勾選『 I have read and agree to the LINE Developers Agreement』
-9. 點選 create
+8.  Require two-factor authentication：此開關會影響客人可以自行決定授權項目種類，以及是否授權的同時也加入好友，另外此開關也會影響新加入好友的遊戲體驗：
+
+    * 開啟此功能（下方左圖）：新加入好友需要在授權流程中開啟「加入好友」的選項，後續才能順利跳轉到遊戲畫面。
+    * 關閉此功能（下方右圖）：新加入好友**無需**在授權流程進行特別操作，後續即可順利跳轉到遊戲畫面。
+
+    <div><figure><img src="../../../../.gitbook/assets/截圖 2026-01-08 下午4.56.48.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../../.gitbook/assets/截圖 2026-01-08 下午5.02.30.png" alt=""><figcaption></figcaption></figure></div>
+9. 勾選『 I agree to the LINE Developers Agreement.』
+10. 點選 Create 按鈕
 
 ### 步驟三：將 Login Channel 調整為 Published
 

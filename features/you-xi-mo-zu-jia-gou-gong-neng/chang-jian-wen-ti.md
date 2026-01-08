@@ -103,3 +103,16 @@ A：當遊戲剩餘次數為零時，若再次點擊遊玩遊戲，將會顯示�
 A：請到Line Developer，找到LINE Login > LIFF > 把shareTargetPicker打開就可以排解問題囉！
 
 <figure><img src="../../.gitbook/assets/Line遊戲分享.png" alt=""><figcaption></figcaption></figure>
+
+#### Q：為什麼新加入LINE的好友點擊遊戲連結或掃描QRcode，並完成加入好友流程後，不會直接跳轉到遊戲頁面？
+
+A：請到LINE Developer後台，找到設定該組遊戲LIFF ID的LINE Login > LINE Login頁籤 > 確認「Require two-factor authentication」功能是否已關閉。
+
+<figure><img src="../../.gitbook/assets/截圖 2026-01-08 上午11.15.34.png" alt=""><figcaption></figcaption></figure>
+
+此功能會影響客人可以自行決定授權的同時，是否也要一起加入好友，即會影響新加入好友的遊戲體驗：
+
+* 若想要保持開啟此功能（下方左圖）：新加入好友需要在授權流程中開啟「加入好友」的選項，後續才能順利跳轉到遊戲畫面。
+* 若想要保持關閉此功能（下方右圖）：新加入好友**無需**在授權流程進行特別操作，後續即可順利跳轉到遊戲畫面。
+
+<div><figure><img src="../../.gitbook/assets/截圖 2026-01-08 下午4.56.48.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/截圖 2026-01-08 下午5.02.30.png" alt=""><figcaption></figcaption></figure></div>
