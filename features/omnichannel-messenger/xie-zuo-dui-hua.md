@@ -15,7 +15,7 @@
 {% hint style="info" %}
 * 網頁後台與 Omnichat App 皆有支援此功能喔！
   * 此項功能會分批開放，可與服務窗口聯繫確認貴團隊此功能的上線時間
-  * 使用 OMO 方案的團隊，預計2025 Q4開始支援
+  * 使用 OMO 方案的團隊，預計2026 Q1 開始支援
 * 適用渠道：WhatsApp、LINE、Facebook、Instagram、Wechat（Webchat預計2025/02上線）
 * 每個協作對話中最多只會有 1 位主要跟進者以及最多 5 位協作成員。
 {% endhint %}
