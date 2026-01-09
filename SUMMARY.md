@@ -3,6 +3,7 @@
 * [開始使用 Omnichat](README.md)
 * [功能更新通知](release-note/README.md)
   * [Jul 23, 2025](release-note/jul-23-2025.md)
+  * [Dec 29. 2025](release-note/dec-29.-2025.md)
   * [Dec 10, 2025](release-note/dec-10-2025.md)
   * [Oct 29, 2025](release-note/oct-29-2025.md)
   * [Oct 15, 2025](release-note/oct-15-2025.md)
