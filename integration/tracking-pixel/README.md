@@ -20,13 +20,14 @@
 
 ## 網站基本會員資料
 
-| 參數               | 類型     | 必須提供 |
-| ---------------- | ------ | ---- |
-| memberId         | string | 否    |
-| memberEmail      | string | 否    |
-| memberPhone      | string | 否    |
-| memberName       | string | 否    |
-| memberProfilePic | string | 否    |
+| 參數                     | 類型     | 必須提供 |
+| ---------------------- | ------ | ---- |
+| memberId               | string | 否    |
+| memberEmail            | string | 否    |
+| memberPhone            | string | 否    |
+| memberName             | string | 否    |
+| memberProfilePic       | string | 否    |
+| memberCustomAttributes | string | 否    |
 
 安裝插件後，可以透過以下方法啓動網站行為追蹤。
 
