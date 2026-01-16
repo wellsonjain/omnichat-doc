@@ -63,7 +63,36 @@
 * 取代 **\<LOGGED-IN-MEMBER-PROFILE-PICTURE>** 為網站上已登入會員的大頭貼網址。如果是訪客或沒有相關資料，可以漏空。
 * 取代 **\<CUSTOM-ATTRIBUTES-KEY>** 為自訂屬性的名稱，例如：會員等級, 生日 , 性別。此名稱將作為標籤顯示於您的後台。
 * 取代 **\<CUSTOM-ATTRIBUTES-VALUE>** 為已登入使用者的自訂屬性數值。若使用者是訪客或無相關資訊，請保留空白。
-* 建議儲存 5 個以內 的自訂屬性，且每個自訂屬性長度不得超過 60 字。若呼叫 API 總長度超出 URL 限制，將導致儲存失敗，請於正式使用前先行測試以確認可正常儲存。
+  1. 在儲存自訂屬性前，需先於 Omnichat 後台建立對應的 key；若接收資料時 key 不存在，系統將自動忽略該屬性。
+  2. 建議儲存 5 個以內 的自訂屬性，且每個自訂屬性長度不得超過 60 字。若呼叫 API 總長度超出 URL 限制，將導致儲存失敗，請於正式使用前先行測試以確認可正常儲存。
+  3. 傳送自訂屬性時，屬性值需符合以下格式規範
+     * 文字（text）：無特定格式限制
+     * 數字（number）：使用數值格式（整數／浮點數），不可使用字串
+     * 是 / 否（boolean）：使用 true / false
+     * 時間與時間（datetime）：使用 ISO8601 格式的日期時間字串，例如 2022-11-01T14:16:00
+     * 日期（date）：使用 YYYY-MM-DD 格式的字串
+
+```javascript
+<script type="text/javascript">
+    // OMNICHAT TRACKER V1.0
+    window.omnichatTracker = window.omnichatTracker || [];
+    window.omnichatTracker.push(['init', 'config', {
+        "memberId": "<LOGGED-IN-MEMBER-ID>",
+        "memberEmail": "<LOGGED-IN-MEMBER-EMAIL>",
+        "memberPhone": "<LOGGED-IN-MEMBER-PHONE-NUMBER>",
+        "memberName": "<LOGGED-IN-MEMBER-NAME>",
+        "memberProfilePic": "<LOGGED-IN-MEMBER-PROFILE-PICTURE-URL>",
+        "memberCustomAttributes": { 
+          "key": "value",
+	        "ThirdPartyId": "xxxx-xxxx-xxxx-xxxx", 
+	        "TotalSpending": 900.00, 
+	        "AcceptedMarketingPromotion": true,
+	        "LastPurchaseDate": "2022-11-01",
+	        "RegisterDatetime": "2022-11-01T14:16:00"
+        }
+    }]);
+</script>
+```
 
 ## 電子商務追蹤
 
