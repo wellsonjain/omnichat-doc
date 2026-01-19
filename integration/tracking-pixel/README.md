@@ -29,10 +29,9 @@
 | memberProfilePic       | string | 否    |
 | memberCustomAttributes | string | 否    |
 
-安裝插件後，可以透過以下方法啓動網站行為追蹤。
-
-\
 儲存自訂屬性需另行加購「Pixel 使用自訂屬性」功能；若需協助埋放，將再另行收取費用。
+
+安裝插件後，可以透過以下方法啓動網站行為追蹤。
 
 
 
