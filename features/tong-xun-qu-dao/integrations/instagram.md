@@ -2,9 +2,9 @@
 description: 如何整合 Instagram Messenger 到 Omnichat？
 ---
 
-# Instagram Messenger | 整合到 Omnichat
+# Instagram | 整合到 Omnichat
 
-## 如何整合 Instagram Messenger
+## 如何整合 Instagram
 
 ### 前置條件
 
