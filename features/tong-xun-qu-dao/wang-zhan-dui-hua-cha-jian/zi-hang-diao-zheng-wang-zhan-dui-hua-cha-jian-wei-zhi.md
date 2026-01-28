@@ -22,7 +22,7 @@ description: 以下說明幾種常用的情景如何利用 CSS 調整對話插�
 * `bottom` 後面的數字 `15px` 代表對話插件與 **網頁的最底邊界** 的距離 (預設是 15px)，若您想要讓您的插件出現在比較上面一點，請改成比 `15` 更大的數字，實際需要多大的數字可以根據您的網站 UI 配置。
 * `right` 後面的數字 `15px` 代表對話插件與 **網頁的最右邊界** 的距離 (預設是 15px)，若您想要讓您的插件出現在比較左邊一點，請改成比 `15` 更大的數字，實際需要多大的數字可以根據您的網站 UI 配置。
 
-#### 若您的對話插件設定在左邊請加入以下代碼:
+#### 若您的對話插件設定在<mark style="color:$danger;">左邊</mark>請加入以下代碼:
 
 ```markup
 <style type="text/css">
@@ -152,7 +152,27 @@ bottom / right / left，並不需要全部都設定，若您只需要調整與�
 
 <figure><img src="../../../.gitbook/assets/手機版.png" alt="" width="375"><figcaption><p>調整後的效果</p></figcaption></figure>
 
+#### 若您的對話插件設定在<mark style="color:$danger;">左邊</mark>請加入以下代碼:
 
+若您的對話插件設定在左邊，又希望在手機版把插件縮小到 40px，並將插件顯示位置提高到 50px，請這樣設定：
+
+\*\* bottom這段的代碼在 #easychat-floating-button-left 上請注意有加上「left」。
+
+```html
+<style type="text/css">
+@media (max-width: 575px) {
+  #easychat-floating-button,
+  #easychat-floating-button-left {
+    width: 40px !important;
+    height: 40px !important;
+  }
+  
+  #easychat-floating-button-left {
+    bottom: 50px !important;
+  }
+}
+</style>
+```
 
 ## 調整社群身份綁定插件位置 (手機簡易版)
 
