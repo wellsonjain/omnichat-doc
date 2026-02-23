@@ -4,14 +4,18 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 
 # Facebook Messenger | 整合到 Omnichat
 
+{% hint style="warning" %}
+Marketing Message 上線前串接 Facebook 的既有客戶，使用 Marketing Message 前須重新串接！
+{% endhint %}
+
 ## 如何整合 Facebook Messenger
 
 ### 前置條件
 
-* 你的 Facebook 帳號需要擁有該 Facebook 專頁的 **「管理員」 權限**
-* 檢查權限路徑：粉絲專頁頭像下拉 > 設定和隱私 > 設定 > 左側面 「🏳️粉絲專頁設定」
+* 你的 Facebook 帳號需要擁有該商業資產（Business Portfolio）的 **「管理員」 權限**
+* 檢查權限路徑：至 Meta Business Suite 設定 > 用戶 > 用戶，查看相關人員中是否有自己
 
-<div><figure><img src="../../../.gitbook/assets/截圖 2025-01-16 下午12.04.25 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/截圖 2025-01-16 下午12.05.39 (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/截圖 2026-02-03 下午6.44.40.png" alt=""><figcaption></figcaption></figure>
 
 ### 串接步驟
 
@@ -27,49 +31,66 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 如您尚未登入 Facebook 帳號，請先進行登入
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.07.56.png" alt=""><figcaption></figcaption></figure>
+<div align="center"><figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午3.22.43.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/截圖 2025-01-13 下午2.32.43.png" alt="" width="563"><figcaption></figcaption></figure>
+<div align="center"><figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午3.24.34.png" alt="" width="367"><figcaption></figcaption></figure></div>
 
-5\. 勾選你想要連接的 Facebook 專頁，然後按 「**下一步**」
-
-{% hint style="info" %}
-**注意：如有較多粉絲專頁，不確定如何完整授權，建議可選取 「所有」 粉絲專頁確保無遺漏。如果選擇第二種 「目前」 粉絲專頁，且您之前已串接其他專頁到 Omnichat 過，請勿取消打勾原本的專頁勾選狀態，另外勾選此次新加入的專頁即可。**
-{% endhint %}
-
-<div><figure><img src="../../../.gitbook/assets/截圖 2025-01-14 下午4.26.43.png" alt=""><figcaption><p>存取 「所有」 粉絲專頁</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/想使用的專頁.webp" alt=""><figcaption><p>存取 「目前」 粉絲專頁</p></figcaption></figure></div>
-
-6. 勾選你想要連接的商家，然後按 「**下一步」**&#x20;
+5\. 勾選要連結的商家資產（商家資產管理組合、Facebook 粉絲專頁、廣告帳號），如您未建立廣告帳號，則選擇「建立新的廣告帳號」。選擇後&#x6309;**「繼續」**。
 
 {% hint style="info" %}
-**注意：如有較多商家，不確定如何完整授權，建議可選取 「所有」 商家確保無遺漏。**
+Marketing Message 的推播需要透過廣告帳號完成設定預算、建立受眾等，為必要的步驟與條件，須至 Meta 後台完成信用卡綁卡設定。
 {% endhint %}
 
-<div><figure><img src="../../../.gitbook/assets/截圖 2025-01-14 下午4.27.10 (2).png" alt=""><figcaption><p>存取 「所有」 商家</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/截圖 2025-01-14 下午4.27.16 (1).png" alt=""><figcaption><p>存取 「目前」 商家</p></figcaption></figure></div>
+<div align="right"><figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午3.28.54.png" alt="" width="366"><figcaption><p>選擇欲連結至 Omnichat 的粉絲專頁與廣告帳號</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午3.29.48.png" alt="" width="370"><figcaption><p>廣告幣別設定為 Marketing Message 扣款之貨幣</p></figcaption></figure></div>
 
-7. Omnichat使用權限一覽，確認後點選右下角 「儲存」&#x20;
+{% hint style="info" %}
+若看到以下畫面，代表目前已存在未綁卡的廣告帳號。一個商業資產只能有一個未綁卡的廣告帳號，**請選擇已經建立的廣告帳號來使用！**
 
-<figure><img src="../../../.gitbook/assets/截圖 2025-01-14 下午4.27.23 (1).png" alt="" width="563"><figcaption><p>Omnichat 使用權限一覽</p></figcaption></figure>
+<p align="center"><img src="../../../.gitbook/assets/截圖 2026-02-03 下午6.32.41.png" alt="" data-size="original"></p>
+{% endhint %}
 
-8. 點擊 「**前往 『企業整合工具』** 」 。
+6\. 確認欲連結的粉絲專頁與廣告帳號是否正確，然後&#x6309;**「確認」**
 
-<figure><img src="../../../.gitbook/assets/FB 串接截圖 -3.png" alt="" width="563"><figcaption><p>前往 「企業整合工具」</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午3.49.16.png" alt=""><figcaption></figcaption></figure>
 
-9. 在左側列表找到 「企業整合工具」 ，點擊 Omnichat 旁的 **「檢視並編輯」** 。
+7\. 稍等片刻即會顯示「你的帳號已連結至Omnichat Limited」，然後&#x6309;**「完成」**
+
+<figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午3.49.35.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;
+
+8. 確認權限都有開啟後，回到 Omnichat 後台，成功授權的 Facebook 專頁會在 「**串接 Facebook 專頁**」 小畫面列出，請勾選需要串接的 Facebook 粉專後點擊 「**串接**」 。
+
+<figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午3.52.58.png" alt=""><figcaption></figcaption></figure>
+
+9. 串接完成之後，畫面右上角會呈現 **「串接成功」** 的提示，並且在頁面列表當中也會出現串接好的 FB 粉專。
+
+<figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午3.53.04.png" alt=""><figcaption><p>成功串接 Facebook 粉絲專頁畫面</p></figcaption></figure>
+
+#### **若須使用 Marketing Message、上傳 Facebook 廣告受眾、CAPI ，請繼續以下步驟。若不使用即完成串接**
+
+10. 點擊「Facebook 廣告」切換頁面，並點&#x64CA;**「串接 Facebook 廣告帳號」**
+
+<figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午4.03.50.png" alt=""><figcaption></figcaption></figure>
+
+11. 將對應的廣告帳號與 Facebook 粉絲專頁串接在一起
+
+<figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午4.04.33.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/截圖 2026-01-25 下午4.05.55.png" alt=""><figcaption><p>廣告帳號與 Facebook 粉絲專頁串接完成畫面</p></figcaption></figure>
+
+***
+
+當以上步驟都設定完但還是串接失敗可以至「企業整合工具」 [https://www.facebook.com/settings/?tab=business\_tools](https://www.facebook.com/settings/?tab=business_tools) 查看權限是否都開啟。
+
+1. 在左側列表找到 「企業整合工具」 ，點擊 Omnichat 旁的 **「檢視並編輯」**&#x20;
+2. 下滑將所有權限項目都開啟，最下方 **「這個企業整合工具是否能傳送通知給你？」** 的設定選擇 **「是」**&#x20;
 
 <figure><img src="../../../.gitbook/assets/FB 串接截圖 -4.png" alt=""><figcaption><p>企業整合工具設定</p></figcaption></figure>
 
-10. 下滑將所有權限項目都開啟，最下方 **「這個企業整合工具是否能傳送通知給你？」** 的設定選擇 **「是」** 。
-
 <div><figure><img src="../../../.gitbook/assets/FB 串接截圖 -5.png" alt=""><figcaption><p>將所有權限項目都開啟</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/FB 串接截圖 -6.png" alt=""><figcaption><p>將所有權限項目都開啟</p></figcaption></figure></div>
 
-11. 確認權限都有開啟後，回到 Omnichat 後台，成功授權的 Facebook 專頁會在 「**串接 Facebook 專頁**」 小畫面列出，請勾選需要串接的 Facebook 粉專後點擊 「**串接**」 。
-
-<figure><img src="../../../.gitbook/assets/FB 串接截圖 -7.png" alt=""><figcaption><p>勾選需要串接的粉絲專頁</p></figcaption></figure>
-
-12. 串接完成之後，畫面右上角會呈現 **「串接成功」** 的提示，並且在頁面列表當中也會出現串接好的 FB 粉專。
-
-<figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.02.49.png" alt=""><figcaption></figcaption></figure>
+***
 
 ## 常見問題
 
@@ -96,7 +117,19 @@ description: 如何整合 Facebook Messenger 到 Omnichat？
 
 若您直接從 Facebook 原生後台 Messenger 收件夾回覆顧客，該回覆的訊息<mark style="color:red;">**不保證**</mark>能進到 Omnichat 的對話事件中，這是由於 Meta 官方針對第三方系統商分享對話資料經常有系統 Bug 導致該訊息無法正常出現在 Omnichat 後台，因此建議您非必要時<mark style="color:red;">**仍可以 Omnichat 系統端為主要回覆 Facebook 對話事件的平台**</mark>。
 
+### 5. 串接FB廣告帳號是否會佔用到「社群渠道上限數」呢 <a href="#replyfbconinorgin" id="replyfbconinorgin"></a>
 
+<mark style="color:red;">**不會。**</mark>社群渠道上限（例如支援多少個 FB Page / IG帳號 / WA 號碼）是針對訊息渠道設定的。<mark style="color:red;">**廣告帳號不是訊息渠道，不會佔用上限名額。**</mark>
+
+### 6. 可以授權多個廣告帳號嗎？會衝突嗎？ <a href="#replyfbconinorgin" id="replyfbconinorgin"></a>
+
+可以。Meta 容許品牌授權多個廣告帳號，Omnichat 也能支援，系統會依照客戶在 Omnichat 中選擇的廣告帳號進行受眾上傳與推播
+
+### 7. 如果廣告帳號被封、被限制投放，會影響 Marketing Message 嗎？ <a href="#replyfbconinorgin" id="replyfbconinorgin"></a>
+
+廣告帳號若失效，可能導致受眾上傳失敗、token 無法取得、Marketing Message 推播流程中斷等，因此品牌若發生廣告帳號被封，需要盡快替換為可用帳號。
+
+***
 
 ## 如何排解權限失效狀態
 
@@ -118,18 +151,19 @@ Facebook 的授權會因為以下原因而失效，授權失效後會影響 Omni
 2. 在左側選單選擇 「**通訊渠道 >** [**社群帳號**](https://console.omnichat.ai/social-channels?tab=facebook-pages)」 _（點擊連結可直接進入團隊後台串接頁面）_
 3. 打開 **Facebook Messenger 分頁**
 4. 在**已串接的Facebook 專頁**，點擊 「**解除串接**」 把需要重新授權的 Facebook 專頁斷開連接
+5. <mark style="color:$danger;">**新增「廣告帳號」，並連結 Facebook 粉絲專頁與廣告帳號**</mark>
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-08-29 下午6.44.09 (1).png" alt=""><figcaption></figcaption></figure>
 
-5\. 斷開連接後，點擊 「**串接** **Facebook** 專頁」
+6\. 斷開連接後，點擊 「**串接** **Facebook** 專頁」
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.01.40 (1).png" alt=""><figcaption></figcaption></figure>
 
-6\. 點擊 「**以** **OOO** **的身份繼續**」 完成重新授權
+7\. 點擊 「**以** **OOO** **的身份繼續**」 完成重新授權
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-01-13 下午2.19.55 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-7\. 成功重新授權後， Facebook 專頁會列出，請勾選需要串接的 Facebook 粉專後點擊 「**串接**」。
+8\. 成功重新授權後， Facebook 專頁會列出，請勾選需要串接的 Facebook 粉專後點擊 「**串接**」。
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.04.05.png" alt=""><figcaption></figcaption></figure>
 

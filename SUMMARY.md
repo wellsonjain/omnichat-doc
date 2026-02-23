@@ -96,6 +96,7 @@
   * [受眾分群（加購項目）](features/she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-guan-li-jia-gou-xiang-mu/README.md)
     * [串接 LINE 廣告帳號](features/she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-guan-li-jia-gou-xiang-mu/chuan-jie-line-guang-gao-zhang-hao.md)
     * [建立 LINE 廣告受眾](features/she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-guan-li-jia-gou-xiang-mu/jian-li-line-guang-gao-shou-zhong.md)
+    * [建立 Facebook 行銷受眾](features/she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-fen-qun-jia-gou-xiang-mu/jian-li-facebook-xing-xiao-shou-zhong.md)
   * [自訂屬性（加購功能）](features/she-qun-ke-hu-zi-liao-ping-tai/zi-ding-shu-xing-jia-gou-gong-neng.md)
   * [標籤](features/she-qun-ke-hu-zi-liao-ping-tai/biao-qian-guan-li.md)
   * [資料匯入](features/she-qun-ke-hu-zi-liao-ping-tai/zi-liao-hui-ru/README.md)
