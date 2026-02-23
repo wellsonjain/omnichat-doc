@@ -32,6 +32,7 @@ description: 渠道適用檢視各社群渠道聯絡人資訊，精準掌握顧�
       2. 此動作會永久**刪除聯絡人**在 Omnichat 後台的資料、對話紀錄
       3. 減少 「有效聯絡人」 的數量
       4. 請注意這個動作確定送出後，將不可復原
+      5. 連絡人資料刪除後，系統約需 60～90 分鐘完成更新，請稍後再回到此頁面查看最新的聯絡人資料與人數。
 
 <figure><img src="../../.gitbook/assets/image (365).png" alt="" width="375"><figcaption></figcaption></figure>
 
