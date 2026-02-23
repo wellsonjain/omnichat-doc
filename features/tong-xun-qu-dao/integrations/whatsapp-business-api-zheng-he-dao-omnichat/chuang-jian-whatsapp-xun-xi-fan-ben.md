@@ -276,3 +276,24 @@
 在設定訊息範本內容時，在「內文」或「頁尾」註明引導客人需輸入「取消訂閱」或「Unsubscribe」，Omnichat系統會自動識別「取消訂閱」或「Unsubscribe」字眼，自動幫助客人取消WhatsApp訊息訂閱。
 
 <figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 下午1.58.32.png" alt=""><figcaption></figcaption></figure>
+
+### 常見問題
+
+#### **Q1：建立範本後分類自動從 Utility 轉成 Marketing？**
+
+請先根據下方列表，檢查目前範本是否有可以調整的地方。若有，請建立一個新的範本並調整內容試試看：
+
+1. Meta 對於 Utility 分類的 fee、費用、優惠、價格 等行銷相關字眼比較敏感，盡量避免在 Utility 使用，可以用款項、service fee等詞來替換，有較高機率可以成功
+2. 顯示名稱要改掉，不能跟原本的範本一模一樣（例如舊名稱為「上課通知」，新名稱可以調整成「上課通知1」或「課堂通知」等等）
+3. 範本內容的間距只留一行，不要空多於一行
+4. 如果客戶有「這是自動訊息，請勿回覆」、「this is an automated message, please do not reply」這句，把這句放在頁尾訊息，不要放在內文裡面
+5. 範本內容過短、太少，就算內容沒問題，也可能會被 Meta 判定成 Marketing
+
+{% hint style="danger" %}
+**如果範本內容都有符合上述條件，卻還是被 Meta 審核為 Marketing，我們有以下建議可以提高以 Utility 審核通過的機率：**
+
+1. 到 [Meta Template Library](https://business.facebook.com/latest/whatsapp_manager/template_library/) 參考 Meta 提供的 Utility 範本模板內容去修改
+2. 使用 AI 工具調整多版範本內容（例如 Gemini, ChatGPT 等等）
+{% endhint %}
+
+Meta 對於範本審核越趨嚴格，不二法門就是「**不斷嘗試不同內容去建立新範本**」。
