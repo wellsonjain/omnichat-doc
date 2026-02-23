@@ -1,4 +1,8 @@
-# 創建WABA catalogue
+---
+description: 此篇文章將帶您創建 WABA Catalogue，若您需要此功能請先與您的客戶顧問進行諮詢
+---
+
+# 創建 WhatsApp Business API  catalogue
 
 ## 第一步：登入Meta Business Suite
 

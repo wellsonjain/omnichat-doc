@@ -14,14 +14,30 @@ description: >-
 [omnichat-whatsapp-business-api-qian-zhi-she-ding.md](omnichat-whatsapp-business-api-qian-zhi-she-ding.md)
 {% endcontent-ref %}
 
-{% content-ref url="whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md" %}
-[whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md](whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md)
+{% content-ref url="jiang-whatsapp-business-api-hao-ma-cong-ling-yi-ge-facebook-business-manager-zhuan-yi.md" %}
+[jiang-whatsapp-business-api-hao-ma-cong-ling-yi-ge-facebook-business-manager-zhuan-yi.md](jiang-whatsapp-business-api-hao-ma-cong-ling-yi-ge-facebook-business-manager-zhuan-yi.md)
+{% endcontent-ref %}
+
+{% content-ref url="cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md" %}
+[cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md](cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md)
+{% endcontent-ref %}
+
+{% content-ref url="yan-yong-jiu-you-dian-hua-hao-ma-shen-qing-whatsapp-business-api-guan-fang-shang-ye-zhang-hao-ji-zhu.md" %}
+[yan-yong-jiu-you-dian-hua-hao-ma-shen-qing-whatsapp-business-api-guan-fang-shang-ye-zhang-hao-ji-zhu.md](yan-yong-jiu-you-dian-hua-hao-ma-shen-qing-whatsapp-business-api-guan-fang-shang-ye-zhang-hao-ji-zhu.md)
 {% endcontent-ref %}
 
 {% content-ref url="chuang-jian-whatsapp-xun-xi-fan-ben.md" %}
 [chuang-jian-whatsapp-xun-xi-fan-ben.md](chuang-jian-whatsapp-xun-xi-fan-ben.md)
 {% endcontent-ref %}
 
-{% content-ref url="cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md" %}
-[cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md](cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md)
+{% content-ref url="chuang-jian-whatsapp-business-api-catalogue.md" %}
+[chuang-jian-whatsapp-business-api-catalogue.md](chuang-jian-whatsapp-business-api-catalogue.md)
+{% endcontent-ref %}
+
+{% content-ref url="whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md" %}
+[whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md](whatsapp-business-api-shang-ye-zhang-hao-dang-an-bian-ji.md)
+{% endcontent-ref %}
+
+{% content-ref url="xiu-gai-whatsapp-business-api-shang-ye-zhang-hao-xu-shu.md" %}
+[xiu-gai-whatsapp-business-api-shang-ye-zhang-hao-xu-shu.md](xiu-gai-whatsapp-business-api-shang-ye-zhang-hao-xu-shu.md)
 {% endcontent-ref %}
