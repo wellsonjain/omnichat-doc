@@ -91,7 +91,13 @@
 
 <figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.26.45.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+如推播使用「CTA 按鈕為 Flow」 這類型範本，在推播詳情中會無法追蹤到點擊率、點擊數等數據。
 
+此為 Meta 官方限制，沒有回傳相關數據給第三方平台，若需要呈現點擊率，建議改用快速回覆（Quick reply）卡片，選擇機器人模組（WhatsApp Flow 設定在機器人模組中）即可追蹤。
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (543).png" alt=""><figcaption></figcaption></figure>
 
 ### **推播條件**
 
