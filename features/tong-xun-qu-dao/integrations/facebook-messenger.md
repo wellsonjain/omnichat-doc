@@ -23,6 +23,10 @@ Marketing Message 上線前串接 Facebook 的既有客戶，使用 Marketing Me
 2. 在左側選單選擇「**通訊渠道 >** [**社群帳號**](https://console.omnichat.ai/social-channels?tab=facebook-pages)」
 3. 點擊 **Facebook Messenger** 分頁部份 -> 點擊「**串接 Facebook 專頁**」
 
+{% hint style="info" %}
+目前僅支援 PC 版本或是筆電（laptop）進行串接，手機無法執行串接步驟。
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.01.40.png" alt=""><figcaption></figcaption></figure>
 
 4\. 會另開網站分頁，請點擊 「**以 O O O 的身份繼續**」

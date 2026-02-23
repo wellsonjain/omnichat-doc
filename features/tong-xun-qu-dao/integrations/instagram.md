@@ -34,6 +34,8 @@ description: 如何整合 Instagram Messenger 到 Omnichat？
 無需先將FB粉專連結到 Omnichat，才能串接Instagram到Omnichat。兩者獨立，**可直接串接Instagram到Omnichat**。
 
 但是如果你<mark style="color:red;">**已經有串接 Facebook 粉專到 Omnichat**</mark>，請使用負責串接 Facebook 粉專的<mark style="color:red;">**同一個 Facebook 用戶串接 Instagram。**</mark>
+
+目前僅支援 PC 版本或是筆電（laptop）進行串接，手機無法執行串接步驟。
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.07.10.png" alt=""><figcaption></figcaption></figure>
