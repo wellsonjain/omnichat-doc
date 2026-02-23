@@ -124,6 +124,10 @@ FB、IG、LINE 可發送機器人模組，WhatsApp 可發送機器人模組、�
 
 等待時間後觸發下一節點，可設定日、小時、分鐘，需至少填入一欄，且不能為 0。
 
+{% hint style="warning" %}
+旅程訊息節點因系統判斷規則需要至少 3-5 分鐘的檢查時間，為確保顧客端可以正常時間內收到訊息，建議訊息節點前設計至少 5 分鐘的時間延遲。
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 
 ### 2-2 條件節點：分眾條件
