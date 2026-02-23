@@ -178,7 +178,7 @@
   * [LINE 圖文訊息](features/marketing/line-tu-wen-xun-xi.md)
   * [WhatsApp 貼圖包（加購功能）](features/marketing/whatsapp-tie-tu-bao-jia-gou-gong-neng.md)
   * [旅程（加購功能）](features/marketing/quan-qu-dao-gu-kelcheng-jia-gou-gong-neng.md)
-  * [自動化排程（加購功能）](features/marketing/zi-dong-hua-pai-cheng-jia-gou-gong-neng.md)
+  * [自動化排程（加購功能）](features/marketing/zi-dong-hua-pai-cheng.md)
 * [優惠券（加購功能）](features/you-hui-quan-jia-gou-gong-neng/README.md)
   * [如何觸發優惠券](features/you-hui-quan-jia-gou-gong-neng/ru-he-chu-fa-you-hui-quan.md)
 * [客服設定](features/ke-fu-she-ding/README.md)
