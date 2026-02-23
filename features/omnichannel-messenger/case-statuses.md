@@ -45,6 +45,10 @@
 如有設定[關鍵字自動指派](https://docs.omnichat.ai/features/marketing/guan-jian-zi-zi-dong-zhi-pai-2.0)給團隊成員，事件狀態會是 「**處理中**」。
 {% endhint %}
 
+{% hint style="warning" %}
+在**待處理**的事件，若直接點&#x64CA;**「結束對話」**，會直接落&#x5230;**「團隊－已結束」**&#x4E2D;（因為沒有特定成員跟進）。
+{% endhint %}
+
 ### 處理中
 
 所有在 「處理中」 狀態的事件**並不會因為收到的訊息類型而改變狀態**。
@@ -71,6 +75,10 @@
 
 {% hint style="info" %}
 如有設定[關鍵字自動指派](https://docs.omnichat.ai/features/marketing/guan-jian-zi-zi-dong-zhi-pai-2.0)給團隊成員，事件狀態會是「**處理中**」。
+{% endhint %}
+
+{% hint style="warning" %}
+在**待處理**的事件，若直接點&#x64CA;**「結束對話」**，會直接落&#x5230;**「團隊－已結束」**&#x4E2D;（因為沒有特定成員跟進）。
 {% endhint %}
 
 ## 傳送訊息狀態
