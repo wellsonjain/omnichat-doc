@@ -41,7 +41,7 @@
 3. 語言：選擇消費者看到的範本訊息語言 （選擇單一語言，例如只選擇英文版或中文版）
 4. 範本類型：
    * 標準範本（預設公版）
-   * Flow（需加購，**Marketing** 和 **Utility** 兩種分類皆可使用，詳細說明請見[這邊](chuang-jian-whatsapp-xun-xi-fan-ben.md#flow)）
+   * Flow（需加購，**Marketing** 和 **Utility** 兩種分類皆可使用，詳細說明請見[這邊](../../../marketing/new-chatbot/whatsapp-flow-ka-pian-whatsapp-only.md)）
    * 媒體卡片輪播範本（需加購，僅有 **Marketing** 分類可使用，詳細說明請見[這邊](chuang-jian-whatsapp-xun-xi-fan-ben.md#mei-ti-ka-pian-lun-bo-she-ding)）
 
 <figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 上午10.46.43.png" alt=""><figcaption></figcaption></figure>
