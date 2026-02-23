@@ -4,18 +4,19 @@
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-10-07 下午5.53.22.png" alt=""><figcaption></figcaption></figure>
 
-推播流程共有下方兩個步驟：
+推播流程共有兩個步驟：
 
 * 受眾設定
 * [推播設定](./#tui-bo-she-ding-line)
 
 ## 受眾設定
 
-可利用以下三種方式篩選受眾：
+可利用以下四種方式篩選受眾：
 
 1. 使用受眾包 （需加購，詳細介紹請參考 [shou-zhong-guan-li-jia-gou-xiang-mu](../../she-qun-ke-hu-zi-liao-ping-tai/shou-zhong-guan-li-jia-gou-xiang-mu/ "mention")）
 2. [使用自訂條件](./#shi-yong-zi-ding-tiao-jian)
 3. [上傳CSV檔案推播](./#shi-yong-csv-tui-bo)
+4. [使用 Facebook 行銷受眾](./#shi-yong-facebook-xing-xiao-shou-zhong)
 
 ### 使用受眾包（加購項目）
 
@@ -154,7 +155,34 @@ Omnichat 支援使用客人的 「**社群編號**」、「**會員編號**（ *
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-06 下午11.54.17 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 推播設定－**LINE**
+### 使用 Facebook 行銷受眾
+
+{% hint style="info" %}
+Facebook 行銷受眾的推播方式，是使用 Facebook Marketing Message 行銷訊息的付費主動訊息來推播，協助品牌透過 Messenger 再觸及有意願的顧客，提升互動、召回不活躍用戶，並帶動銷售。
+
+使用 Facebook 行銷受眾推播前，需先在社群帳號中完成 Meta 企業管理平台串接，詳情請參考 (這邊要放 kyle 的連結)
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/Image from Notion.png" alt=""><figcaption></figcaption></figure>
+
+1. 可以選擇在「受眾分群 > Facebook 行銷訊息受眾」中完成名單核對的受眾包
+2. 選擇受眾後會顯示此受眾包核對到的名單人數
+
+{% hint style="warning" %}
+此受眾人數不代表最終完成推播的人數，並且核對的人數必須超過 100 人才可以選擇。
+{% endhint %}
+
+
+
+### 推播設定
+
+會根據推播平台不同而有差異，請往下參照
+
+* LINE 平台推播設定
+* [Facebook 平台推播設定](./#tui-bo-she-ding-facebook)
+* [Whatsapp 平台推播設定](./#tui-bo-she-ding-whatsapp)
+
+### **LINE 平台推播設定**
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-10-17 上午9.23.00.png" alt=""><figcaption></figcaption></figure>
 
@@ -209,19 +237,39 @@ LINE 官方針對使用任何第三方平台串接 LINE 對話時，將會依據
 
 <div><figure><img src="../../../.gitbook/assets/截圖 2025-11-06 下午3.17.26.png" alt="" width="325"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/截圖 2025-10-17 09.43.40 (2).jpeg" alt="" width="375"><figcaption></figcaption></figure></div>
 
+
+
 ### 推播設定－Facebook
 
 當推播平台為 Facebook 時，會需要額外選擇訊息標籤，其餘推播的設定可以參考上方 LINE 的說明
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-10-17 上午9.23.29.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+關於訊息標籤與 Marketing Message 行銷訊息的比較，請參考[ Omnichat 部落格文章](https://blog.omnichat.ai/tw/facebook-marketing-message/)
+{% endhint %}
+
 #### Facebook 推播的訊息標籤分類與定義
+
+* **行銷訊息（Facebook Marketing Message）**：使用上傳至 Meta 企業管理平台核對後的行銷受眾包發送推播，可以推送推廣性質內容
+
+{% hint style="info" %}
+選擇行銷訊息後，介面上會顯示「廣告訊息預算設定」介面
+
+其中的預算範圍為 Meta 提供的金額試算區間，實際的預算金額可在推播完成後，至推播介面的推播詳情中查看。
+
+此外，此筆金額會連動您串接在後台的 Facebook 廣告帳號扣取，並非由 Omnichat 收取。
+
+<img src="../../../.gitbook/assets/Image from Notion (1).jpeg" alt="" data-size="original">
+
+目前 Meta 不提供指定發送順序，因此當預算不足時，實際收到推播的會是隨機的一部分用戶，而非依照任何特定排序（例如建立時間、互動紀錄等）。
+{% endhint %}
 
 * **標準訊息**：受 Facebook Messenger 24 小時政策限制，只可發送給 24 小時內有互動的客人，可以推送推廣性內容。
 * **活動通知**：發送活動通知給已登記或購買門票的客人。例如：上課/活動時間提醒、活動確認。(不受 24 小時對話限制，但只可推送**非推廣性質內容**)
 * **購買後通知**：發送與客人最近購買有關的通知。例如：出貨狀態變更提醒、訂單狀態變更提醒。(不受 24 小時對話限制，但只可推送**非推廣性質內容**)
 * **帳戶通知**：發送與客人帳號有關的通知。例如：帳號申請狀態變更提醒、帳號有異常變更提醒。(不受 24 小時對話限制，但只可推送**非推廣性質內容**)
-* <mark style="color:red;">**限制**</mark>**：除「標準訊息」外，其他訊息標籤：活動通知、購買後通知、帳戶通知皆不可以用於發送推廣內容，包括但不限於推廣優惠，優惠券和折扣**。我們的系統會自動偵測推播內容是否符合 Facebook Messenger 的規定，如有違規，系統會自動把使用訊息標籤推播的功能封鎖，以保障你的專頁不會被 Facebook 判定為不當使用，導致你的專頁無法傳送訊息。
+* <mark style="color:red;">**限制**</mark>**：除「行銷訊息」、「標準訊息」外，其他訊息標籤：活動通知、購買後通知、帳戶通知皆不可以用於發送推廣內容，包括但不限於推廣優惠，優惠券和折扣**。我們的系統會自動偵測推播內容是否符合 Facebook Messenger 的規定，如有違規，系統會自動把使用訊息標籤推播的功能封鎖，以保障你的專頁不會被 Facebook 判定為不當使用，導致你的專頁無法傳送訊息。
 
 {% hint style="danger" %}
 **Facebook Messenger 政策**
@@ -233,6 +281,14 @@ LINE 官方針對使用任何第三方平台串接 LINE 對話時，將會依據
 
 **詳情可查看**：[https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/](https://developers.facebook.com/docs/messenger-platform/policy/policy-overview/)
 {% endhint %}
+
+#### Facebook 常見推播問題
+
+1. 有什麼可能原因會導致「**行銷訊息**」類別發送訊息失敗
+   1. 用戶未訂閱或已取消訂閱
+   2. 預算不足導致 Meta 中止部分推播
+   3. 用戶封鎖粉專、Messenger 設定拒收商業訊息
+   4. 尚未到可推播時間（一顧客 12hrs 內只能收 Marketing Message 一次）
 
 ### 推播設定－WhatsApp
 

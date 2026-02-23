@@ -24,6 +24,15 @@
   * HK：0.7\*訊息成功數 (HK$)&#x20;
   * TW：2.724\*訊息成功數 (NT$)&#x20;
   * SG：0.089\*訊息成功數 (US$)
+* Facebook：由於此費率是浮動的，此數字是依照 Facebook 廣告帳號回傳的數字&#x20;
+{% endhint %}
+
+{% hint style="warning" %}
+若您的推播是使用「Facebook 行銷訊息推播」，基於 Meta 隱私政策，有以下限制：
+
+1. 12/24/48 小時回應率無法追蹤計算
+2. 退訂封鎖無法追蹤計算
+3. 我們無法得知哪些顧客完成推播，因此無法顯示推播名單
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.21.18.png" alt=""><figcaption></figcaption></figure>
@@ -115,12 +124,10 @@
 
 而右上角的 「匯出名單」，可以將資料匯出整理後再次匯入到系統中使用
 
-{% hint style="info" %}
-已回應名單，以 48 小時內回應客人做紀錄
-{% endhint %}
-
 <figure><img src="../../.gitbook/assets/截圖 2025-10-07 下午5.28.12.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
+「已回應名單」，指的是以 48 小時內回應客人做紀錄
+
 「 已退訂封鎖 」 指的是在收到推播訊息後 24 小時內選擇退訂或封鎖的聯絡人。
 {% endhint %}
