@@ -28,8 +28,8 @@ description: >-
 [whatsapp-business-api-zheng-he-dao-omnichat](whatsapp-business-api-zheng-he-dao-omnichat/)
 {% endcontent-ref %}
 
-{% content-ref url="wechat-zheng-he-dao-omnichat/" %}
-[wechat-zheng-he-dao-omnichat](wechat-zheng-he-dao-omnichat/)
+{% content-ref url="wechat-zheng-he-dao-omnichat.md" %}
+[wechat-zheng-he-dao-omnichat.md](wechat-zheng-he-dao-omnichat.md)
 {% endcontent-ref %}
 
 {% content-ref url="she-qun-ping-tai-shou-quan-cao-zuo-shuo-ming.md" %}

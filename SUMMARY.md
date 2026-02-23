@@ -258,7 +258,7 @@
       * [創建 WhatsApp 訊息範本](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-xun-xi-fan-ben.md)
       * [從其他企業管理平台(BSP)轉移 WhatsApp Business API 號碼](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/cong-qi-ta-qi-ye-guan-li-ping-tai-bsp-zhuan-yi-whatsapp-business-api-hao-ma.md)
       * [創建WABA catalogue](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-waba-catalogue.md)
-    * [WeChat | 整合到 Omnichat](features/tong-xun-qu-dao/integrations/wechat-zheng-he-dao-omnichat/README.md)
+    * [WeChat | 整合到 Omnichat](features/tong-xun-qu-dao/integrations/wechat-zheng-he-dao-omnichat.md)
       * [整合 Wechat 需要通過年審](features/tong-xun-qu-dao/integrations/wechat-zheng-he-dao-omnichat/zheng-he-wechat-xu-yao-tong-guo-nian-shen.md)
     * [社群平台授權操作說明](features/tong-xun-qu-dao/integrations/she-qun-ping-tai-shou-quan-cao-zuo-shuo-ming.md)
   * [社群常用訊息](features/tong-xun-qu-dao/automated-messages/README.md)
