@@ -6,7 +6,7 @@ description: 若您有串接 Wechat 的需求，請於串接前先確認您的 W
 
 ## 前置作業
 
-若您需要在 Wechat 發送訊息，請務必完成年審認證流程，詳細步驟請參考下方資訊
+若您需要在 WeChat 發送訊息，請務必完成年審認證流程，詳細步驟請參考下方資訊
 
 {% content-ref url="wechat-zheng-he-dao-omnichat/zheng-he-wechat-xu-yao-tong-guo-nian-shen.md" %}
 [zheng-he-wechat-xu-yao-tong-guo-nian-shen.md](wechat-zheng-he-dao-omnichat/zheng-he-wechat-xu-yao-tong-guo-nian-shen.md)
@@ -52,7 +52,7 @@ description: 若您有串接 Wechat 的需求，請於串接前先確認您的 W
 
 #### 2. 在服務器配置中，您需要填入 URL 、Token、EncodingAESKey、Outbound IP這四項資訊 並選擇「明文模式」 。
 
-請向您的Omnichat顧問索取以下三項資訊：URL、Token 和 EncodingAESKey，取得後請貼到下方欄位中：
+請向您的 Omnichat 顧問索取以下三項資訊：URL、Token 和 EncodingAESKey，取得後請貼到下方欄位中：
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-11-09 at 2.19.20 PM.png" alt=""><figcaption></figcaption></figure>
 

@@ -260,7 +260,7 @@
       * [將 WhatsApp Business API 號碼從另一個 Facebook Business Manager 轉移](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/jiang-whatsapp-business-api-hao-ma-cong-ling-yi-ge-facebook-business-manager-zhuan-yi.md)
       * [創建 WhatsApp Business API  catalogue](features/tong-xun-qu-dao/integrations/whatsapp-business-api-zheng-he-dao-omnichat/chuang-jian-whatsapp-business-api-catalogue.md)
     * [WeChat | 整合到 Omnichat](features/tong-xun-qu-dao/integrations/wechat-zheng-he-dao-omnichat.md)
-      * [Wechat 年度審核確認方式](features/tong-xun-qu-dao/integrations/wechat-zheng-he-dao-omnichat/zheng-he-wechat-xu-yao-tong-guo-nian-shen.md)
+      * [WeChat 年度審核確認方式](features/tong-xun-qu-dao/integrations/wechat-zheng-he-dao-omnichat/zheng-he-wechat-xu-yao-tong-guo-nian-shen.md)
     * [社群平台授權操作說明](features/tong-xun-qu-dao/integrations/she-qun-ping-tai-shou-quan-cao-zuo-shuo-ming.md)
   * [社群常用訊息](features/tong-xun-qu-dao/automated-messages/README.md)
     * [顯示團隊成員名稱](features/tong-xun-qu-dao/automated-messages/xian-shi-tuan-dui-cheng-yuan-ming-cheng.md)
