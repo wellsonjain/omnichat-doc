@@ -7,7 +7,7 @@
 推播流程共有兩個步驟：
 
 * 受眾設定
-* [推播設定](./#tui-bo-she-ding-line)
+* [推播設定](./#tui-bo-she-ding-ye-mian)
 
 ## 受眾設定
 
