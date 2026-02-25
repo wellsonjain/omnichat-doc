@@ -19,6 +19,8 @@ description: Omnichat 支援以對話自動指派事件到特定團隊成員，�
 
 1. 如果自動指派對象是<mark style="color:red;">客服人員</mark>：訊息自動回覆+對話自動指派 都能成功
 2. 如果自動指派對象是<mark style="color:red;">銷售人員</mark>：無法觸發對話自動回覆，只會出現指派成功的綁定訊息！&#x20;
+
+⚠️ 若對話在<mark style="color:$primary;">**網站對話插件**</mark>，無法同時觸發「訊息自動回覆」與「對話自動指派」。**會依照順序先觸發「訊息自動回覆」，第二句話才會觸發「訊息自動指派」。**
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/關鍵字自動指派（編輯）.png" alt=""><figcaption></figcaption></figure>
