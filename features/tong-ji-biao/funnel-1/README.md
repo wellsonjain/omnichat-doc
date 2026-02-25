@@ -32,7 +32,7 @@ description: Conversion Analysis
 * &#x20;「來源/媒介」  是以 「使用者」 <mark style="color:red;">**最後的 UTM campaign source（最終點擊）**</mark>來計算
   * 如果完成交易的工作階段沒有 UTM source/medium，系統會把交易歸入 「使用者」 最後一個 UTM source/medium
 * 不同 「來源/媒介」 的交易數量與 Google Analytics 4 可能不同
-  * 因為我們沒有置入代碼前的數據，部份交易會被歸入 direct / none
+  * 沒有置入代碼前的數據，部份交易會被歸入 direct / none
   * 在 GA 上使用者的來源會保留較長時間，所以亦會造成數據不相同
 
 {% content-ref url="shopping-behavior.md" %}

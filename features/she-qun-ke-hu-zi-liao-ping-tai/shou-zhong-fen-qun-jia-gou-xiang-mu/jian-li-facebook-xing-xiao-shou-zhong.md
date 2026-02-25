@@ -1,5 +1,5 @@
 ---
-description: 行銷受眾💡受眾分群中支援上傳 LINE 受眾包至 LINE 廣告後台
+description: 行銷受眾💡支援從 Facebook 帳號中新增受眾名單至 Facebook 廣告後台
 ---
 
 # 建立 Facebook 行銷受眾
@@ -51,6 +51,7 @@ Facebook 行銷受眾推播的限制
 * 上傳名單後約 24 小時內完成比對；**比對成功的用戶即可成為可推播對象**
 * 基於 Meta 隱私政策，我們無法得知哪些顧客比對成功
 * **比對成功人數需達 100 人以上**，Meta 才會允許使用該受眾
+* 若使用 Facebook 行銷受眾進行推播，基於 Meta 官方現行機制影響，<mark style="color:$danger;">**無法追蹤到回應率、退訂封鎖率**</mark>
 {% endhint %}
 
 ## 常見問題

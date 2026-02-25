@@ -8,8 +8,8 @@ description: 若您有串接 Wechat 的需求，請於串接前先確認您的 W
 
 若您需要在 Wechat 發送訊息，請務必完成年審認證流程，詳細步驟請參考下方資訊
 
-{% content-ref url="wechat-zheng-he-dao-omnichat/wechat-annualverification.md" %}
-[wechat-annualverification.md](wechat-zheng-he-dao-omnichat/wechat-annualverification.md)
+{% content-ref url="wechat-zheng-he-dao-omnichat/zheng-he-wechat-xu-yao-tong-guo-nian-shen.md" %}
+[zheng-he-wechat-xu-yao-tong-guo-nian-shen.md](wechat-zheng-he-dao-omnichat/zheng-he-wechat-xu-yao-tong-guo-nian-shen.md)
 {% endcontent-ref %}
 
 若您已完成前置作業，可再往下完成串接流程
