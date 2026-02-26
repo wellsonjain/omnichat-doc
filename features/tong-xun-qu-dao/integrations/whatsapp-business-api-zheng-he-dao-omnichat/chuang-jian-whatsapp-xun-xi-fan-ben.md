@@ -185,7 +185,7 @@
 
 確認 Flow 已有完成後，即可在Marketing 與 Utility 分類下選擇「Flow」的範本進行設定。
 
-在「按鈕」區塊會由系統預設帶入 Flow 格式，只需輸入按鈕名稱以及選擇 Flow ID 即可，更多詳細說明請點擊[這邊](https://app.gitbook.com/o/-L_qBouk_wijumBR7PT3/s/-LaFmilpuDQ-f7VKjHCH/~/diff/~/changes/1982/features/marketing/new-chatbot/whatsapp-flow-ka-pian-whatsapp-only#whatsapp-xun-xi-fan-ben)查看。
+在「按鈕」區塊會由系統預設帶入 Flow 格式，只需輸入按鈕名稱以及選擇 Flow ID 即可，更多詳細說明請點擊[這邊](../../../marketing/new-chatbot/whatsapp-flow-ka-pian-whatsapp-only.md)查看。
 
 <figure><img src="../../../../.gitbook/assets/截圖 2025-09-22 下午3.03.52.png" alt=""><figcaption></figcaption></figure>
 
