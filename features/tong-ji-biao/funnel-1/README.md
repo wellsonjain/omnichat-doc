@@ -2,7 +2,7 @@
 description: Conversion Analysis
 ---
 
-# 轉換率分析 2.0
+# 轉換率分析
 
 轉換率分析有分成 「購物行為」 與 「來源 / 媒介」 兩個區塊。當安裝 Omnichat Pixel 之後，可以查看各個階段的轉換率與各個來源的轉換成效。
 
@@ -10,7 +10,7 @@ description: Conversion Analysis
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-07-03 下午5.13.27.png" alt=""><figcaption></figcaption></figure>
 
-* 一進到網頁的預設日期，是從今天開始算到過去 7 天（一週）
+* 一進到網頁的預設日期，是從今天開始算到過去 14 天（二週）
 * &#x20;可以點選日期，去選擇想看到的日期區間，再按搜尋
 * 搜尋新日期之後，「購物行為」 與 「來源 / 媒介」 的數據都會同時被更新
 
