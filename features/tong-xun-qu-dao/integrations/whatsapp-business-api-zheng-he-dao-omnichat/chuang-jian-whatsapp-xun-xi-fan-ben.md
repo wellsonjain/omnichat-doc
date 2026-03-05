@@ -130,7 +130,7 @@
 須選完範本 「分類」 （Marketing, Utility），才能出現 「按鈕設定」 介面。
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (527) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (527) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 按鈕可以可以選擇兩種類型：Call To Action 或 Quick Reply (快速回覆）
 

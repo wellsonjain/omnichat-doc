@@ -252,7 +252,7 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 如果無法在 LINE Developers 開啟 Use Webhook，可以到 [LINE OA 後台](https://app.gitbook.com/u/bTrIRKkSKRMIYz6FjB1w4sLryq02)，點擊右上角 「設定」 > 「回應設定」 將 Webhook 開關打開（請見下圖）
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
 
 ### **Plan A：訊息集中於 Omnichat 回覆**
 
@@ -269,7 +269,7 @@ Channel ID 和 Channel secret 會在 Messaging API 頁面顯示，亦可在此�
 若品牌端對於自動顯示已讀狀態會有疑慮，建議可以在歡迎訊息 / 自動回覆訊息 ／離線即時訊息當中，補充官方會自動顯示已讀狀態，客服團隊將會盡快協助回覆您的訊息等文案內容，降低顧客的等待情緒。
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (527) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
