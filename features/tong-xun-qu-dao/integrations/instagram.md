@@ -13,6 +13,10 @@ description: 如何整合 Instagram Messenger 到 Omnichat？
   * **切換成商業帳戶的過程中，將要求選擇一個Facebook粉專與將Instagram相連結（此為必要動作，兩者相連才能與Omnichat系統串接）**
   * 如何判定是否已為商業帳號：可以到「Instagram App > 「≡」 設定和動態 > 商業工具和控制項 > 切換帳號類型 確認目前類型。若帳號為「商業帳號」，切換時只會出現切換為個人帳號或創作者帳號。
 
+{% hint style="danger" %}
+**目前僅支援 PC 版本或是筆電進行串接，手機無法執行串接步驟。**
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/IG商業帳號確認畫面" alt=""><figcaption><p>中英文介面參考</p></figcaption></figure>
 
 * 如先前切換商業帳戶時未與FB粉專相連，請再次確認先將你需要整合的 Instagram 帳號連接到你的 Facebook 粉專（可參考： [https://www.facebook.com/business/help/connect-instgram-to-page](https://www.facebook.com/business/help/connect-instgram-to-page) ）
@@ -34,8 +38,6 @@ description: 如何整合 Instagram Messenger 到 Omnichat？
 無需先將FB粉專連結到 Omnichat，才能串接Instagram到Omnichat。兩者獨立，**可直接串接Instagram到Omnichat**。
 
 但是如果你<mark style="color:red;">**已經有串接 Facebook 粉專到 Omnichat**</mark>，請使用負責串接 Facebook 粉專的<mark style="color:red;">**同一個 Facebook 用戶串接 Instagram。**</mark>
-
-目前僅支援 PC 版本或是筆電（laptop）進行串接，手機無法執行串接步驟。
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-12-09 下午4.07.10.png" alt=""><figcaption></figcaption></figure>

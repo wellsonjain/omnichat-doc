@@ -15,6 +15,10 @@ Marketing Message 上線前串接 Facebook 的既有客戶，使用 Marketing Me
 * 你的 Facebook 帳號需要擁有該商業資產（Business Portfolio）的 **「管理員」 權限**
 * 檢查權限路徑：至 Meta Business Suite 設定 > 用戶 > 用戶，查看相關人員中是否有自己
 
+{% hint style="danger" %}
+**目前僅支援 PC 版本或是筆電進行串接，手機無法執行串接步驟。**
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/截圖 2026-02-03 下午6.44.40.png" alt=""><figcaption></figcaption></figure>
 
 ### 串接步驟
