@@ -155,18 +155,19 @@ Omnichat 支援使用客人的 「**社群編號**」、「**會員編號**（ *
 
 <figure><img src="../../../.gitbook/assets/截圖 2024-09-06 下午11.54.17 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 使用 Facebook 行銷受眾
+### 使用 Facebook 行銷受眾 （近期即將上線）
 
 {% hint style="info" %}
 Facebook 行銷受眾的推播方式，是使用 Facebook Marketing Message 行銷訊息的付費主動訊息來推播，協助品牌透過 Messenger 再觸及有意願的顧客，提升互動、召回不活躍用戶，並帶動銷售。
 
-使用 Facebook 行銷受眾推播前，需先在社群帳號中完成 Meta 企業管理平台串接，詳情請參考 (這邊要放 kyle 的連結)
+使用 Facebook 行銷受眾推播前，需先在社群帳號中完成 Meta 企業管理平台串接，[詳情請參考 ](../../tong-xun-qu-dao/integrations/facebook-messenger.md)
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Image from Notion.png" alt=""><figcaption></figcaption></figure>
 
 1. 可以選擇在「受眾分群 > Facebook 行銷訊息受眾」中完成名單核對的受眾包
 2. 選擇受眾後會顯示此受眾包核對到的名單人數
+3. 關於推播之後在 FB 推播上所產生的訊息費用，請至 Meta 廣告後台進行參考，目前 Meta 官方針對收費機制尚無相關公告
 
 {% hint style="warning" %}
 此受眾人數不代表最終完成推播的人數，並且核對的人數必須超過 100 人才可以選擇。
