@@ -70,7 +70,7 @@ description: Omnichat 支援以對話自動指派事件到特定團隊成員，�
 
 <figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption><p>團隊成員可以在左側選單更改自己的上線狀態</p></figcaption></figure>
 
-## 關鍵字條件 <a href="#guan-jian-zi-tiao-jian" id="guan-jian-zi-tiao-jian"></a>
+### 關鍵字條件 <a href="#guan-jian-zi-tiao-jian" id="guan-jian-zi-tiao-jian"></a>
 
 * 包含任一
   * 例：
@@ -92,7 +92,7 @@ description: Omnichat 支援以對話自動指派事件到特定團隊成員，�
   * 例：
     * 收到任何文字訊息 → 符合條件 ✅
 
-## 關鍵字 QR Code ＆ URL 運用：
+### 關鍵字 QR Code ＆ URL 運用：
 
 {% hint style="info" %}
 請注意！關鍵字 QRCode 僅支援一個關鍵字，如為多個關鍵字無法產生 QRCode
@@ -127,3 +127,37 @@ description: Omnichat 支援以對話自動指派事件到特定團隊成員，�
 **步驟二：**&#x9EDE;擊進入統計表後，就可以查看該關鍵字在不同渠道的觸發次數。
 
 <figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+
+### 其他常見問題
+
+#### 1. 透過FB/IG廣告貼文進來的對話，如何設定觸發自動指派的條件
+
+一般來說，透過FB/IG廣告進到Omnichat的對話，格式會分兩則訊息：
+
+1. 第一則：貼文內文資訊（結尾包含：source: 貼文網址/ Ad ID 一串數值）
+2. 第二則：預填訊息（品牌端可在設定廣告時填寫此段訊息，當顧客點擊廣告貼文進到聊天室時，對話輸入匡將預先填好這段文字）
+
+<div><figure><img src="../../.gitbook/assets/顧客視角.jpg" alt="" width="350"><figcaption><p>顧客端畫面</p></figcaption></figure> <figure><img src="../../.gitbook/assets/廣告預填文字.jpg" alt="" width="563"><figcaption><p>Omnichat對話事件後台</p></figcaption></figure></div>
+
+{% hint style="info" %}
+自動指派條件設定方式（以上面範例為例）：
+
+1. 完全符合「預填文字 + 一個空白格 + Ad ID」一整句：`Where can I buy in stores? 120239156226090600`
+2. 純Ad ID（請勿包含Ad ID這個詞）：`120239156226090600`
+3. 預填訊息：`Where can I buy in stores?`&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (573).png" alt=""><figcaption><p>正確的自動指派條件設定方式</p></figcaption></figure>
+
+{% hint style="danger" %}
+請注意，以下設定方式無法觸發：
+
+* `Ad ID: 120239156226090600`
+* `Where can I buy in stores? Ad ID: 120239156226090600`
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (575).png" alt=""><figcaption><p>錯誤的自動指派條件設定方式</p></figcaption></figure>
+
+**補充**：貼文source顯示為 Post ID 的貼文，設定方式亦同
+
+<figure><img src="../../.gitbook/assets/post id oc 端.jpg" alt="" width="375"><figcaption></figcaption></figure>
