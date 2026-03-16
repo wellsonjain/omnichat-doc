@@ -127,11 +127,11 @@ P.S 網址要是原始網址，不能轉網址、縮網址、短網址；且網�
 
 ### 步驟五 設定顧客重複領取上限
 
-<figure><img src="../../.gitbook/assets/截圖 2023-07-03 11.41.35 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2026-02-02 下午6.57.12.png" alt=""><figcaption></figcaption></figure>
 
 1. 當您選擇「不限次數」時，表示每個客人有機會重複領取該優惠券
-2. 當您設定每個客人可領取次數時，當客人領取次數已達上限時，會發出派發完畢的提示訊息給客人
-3. 可設定「聯絡人姓名參數」
+2. 當您設定每個客人可領取次數時，當客人領取次數已達上限時，會發出領取已達上限的提示訊息給客人
+3. 可設定「emoji」
 
 {% hint style="info" %}
 優惠券發布後，顧客重複領取上限依舊可調整及重新發步。舉例：
@@ -147,11 +147,11 @@ P.S 網址要是原始網址，不能轉網址、縮網址、短網址；且網�
 
 當發放優惠券總數量已經沒有時，當消費者仍想拿到該優惠券時，會觸發出該訊息
 
-<figure><img src="../../.gitbook/assets/截圖 2022-10-25 下午3.53.38.png" alt=""><figcaption><p>行銷類型的優惠券</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (583).png" alt=""><figcaption></figcaption></figure>
 
 #### 銷售類型（OMO 功能）
 
-<figure><img src="../../.gitbook/assets/截圖 2022-10-25 下午3.55.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
 
 ### 步驟六
 
