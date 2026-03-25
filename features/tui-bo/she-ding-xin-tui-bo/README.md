@@ -133,6 +133,12 @@ Omnichat 支援使用客人的 「**社群編號**」、「**會員編號**（ *
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-10-08 下午3.51.46.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+若一位聯絡人有多筆電話號碼需發送，<mark style="color:red;">請使用半型逗號「, 」做分隔，</mark>若使用其他符號 (例如：分號) 將導致檔案資料格式錯誤無法使用。
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/CSV檔逗號示意.jpg" alt=""><figcaption></figcaption></figure>
+
 ### CSV檔案上傳失敗／成功畫面
 
 **失敗（上傳後將提示錯誤原因）**
