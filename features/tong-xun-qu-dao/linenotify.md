@@ -5,8 +5,8 @@ description: 透過手機號碼比對顧客 LINE 帳號，不論是否是官方�
 # LINE 通知快捷（加購功能）
 
 {% hint style="info" %}
-若需開通該功能，請洽 Omnichat 顧問或可線上與我們聯繫。\
-使用該功能前<mark style="color:red;">**請先完成 LINE 訊息 & 簡訊費用儲值**</mark>，方才能使用
+* 若您需要使用此功能，**請與 Omnichat 顧問團隊進行聯繫，或是可透過線上客服支援團隊說明目前需求**。由於不同開店平台端針對此功能的設定流程稍有差異，因此會請 Omnichat 顧問團隊協助品牌端完成相關設定流程。
+* 使用該功能前<mark style="color:red;">**請先完成 LINE 訊息 & 簡訊費用儲值**</mark>，方能使用
 {% endhint %}
 
 ## LINE 通知快捷發送流程說明
