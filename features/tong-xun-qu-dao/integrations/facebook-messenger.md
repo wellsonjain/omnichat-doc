@@ -19,6 +19,10 @@ Marketing Message 上線前串接 Facebook 的既有客戶，使用 Marketing Me
 **目前僅支援 PC 版本或是筆電進行串接，手機無法執行串接步驟。**
 {% endhint %}
 
+{% hint style="danger" %}
+**如果已經遺失商業資產的管理員帳號，可以按照**[**官方指示**](https://www.facebook.com/business/help/474856681929983)**申請。**
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/截圖 2026-02-03 下午6.44.40.png" alt=""><figcaption></figcaption></figure>
 
 ### 串接步驟
