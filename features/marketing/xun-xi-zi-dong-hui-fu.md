@@ -228,6 +228,8 @@ Instagram不支援使用關鍵字 QRCode 觸發功能（Instagram官方技術不
 
 #### 2. 透過FB/IG廣告貼文進來的對話，如何設定觸發自動回覆的條件
 
+**適用渠道：Facebook; Instagram; WhatsApp**
+
 一般來說，透過FB/IG廣告進到Omnichat的對話，格式會分兩則訊息：
 
 1. 第一則：貼文內文資訊（結尾包含：source: 貼文網址/ Ad ID 一串數值）
@@ -238,12 +240,14 @@ Instagram不支援使用關鍵字 QRCode 觸發功能（Instagram官方技術不
 {% hint style="info" %}
 自動回覆條件設定方式（以上面範例為例）：
 
-1. 完全符合「預填文字 + 一個空白格 + Ad ID」一整句：`Where can I buy in stores? 120239156226090600`
-2. 純Ad ID（請勿包含Ad ID這個詞）：`120239156226090600`
-3. 預填訊息：`Where can I buy in stores?`&#x20;
+1. 內容完全一致：「預填文字 + 一個空白格 + Ad ID」一整句 e.g: `Where can I buy in stores? 120239156226090600`
+2. 包含任一：純Ad ID（請勿包含Ad ID這個詞）e.g: `120239156226090600`
+3. 包含任一：預填訊息 e.g: `Where can I buy in stores?`&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (572).png" alt=""><figcaption><p>正確的自動回覆條件設定方式</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>正確的自動回覆條件設定方式</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>正確的自動回覆條件設定方式</p></figcaption></figure>
 
 {% hint style="danger" %}
 請注意，以下設定方式無法觸發：
