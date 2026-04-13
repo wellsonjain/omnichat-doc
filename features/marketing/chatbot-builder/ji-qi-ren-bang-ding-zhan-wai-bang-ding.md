@@ -17,7 +17,7 @@ description: >-
 
 * 機器人按鈕設定的 URL『**不可轉址**』、『**不可為縮網址**』和『**不可為短網址**』，否則綁定無法成功
 * 機器人按鈕設定的 URL 需為含有 Omnichat 插件代碼的網址，如為其他外部網址（例如google 表單）將無法完成機器人按鈕綁定
-* 機器人卡片中的機器人按鈕皆適用此功能（包含：文字訊息、輪播訊息和 LINE 圖文訊息等）
+* 機器人卡片中的機器人按鈕皆適用此功能（包含：文字訊息、輪播訊息和 LINE 圖文訊息等）; 此外輪播 & 圖片輪播卡片的圖片點擊前往連結亦適用
 * 只要能連結到 Omnichat 的機器人模組都可以做到機器人按鈕綁定功能。例如：訊息自動回覆、歡迎模組等
 {% endhint %}
 
@@ -29,56 +29,62 @@ description: >-
 
 路徑： 「 進階自動化功能 」 → 「 自助機器人 」&#x20;
 
-![](<../../../.gitbook/assets/Screen Shot 2022-02-16 at 6.17.09 PM.png>)
+<figure><img src="../../../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure>
 
 步驟二：設定 LINE 官方帳號的訊息自動回覆條件，並且連結到步驟一設定好的機器人模組（請參考：[訊息自動回覆教學](../keyword-autoreply.md)設定）
 
 路徑：「 進階自動化功能 」 → 「 訊息自動回覆 」
 
-![](<../../../.gitbook/assets/Screen Shot 2022-02-16 at 6.18.06 PM.png>)
+<figure><img src="../../../.gitbook/assets/image (588).png" alt=""><figcaption></figcaption></figure>
 
-步驟 三 ：客人輸入關鍵字（如圖中 「 新品 」 字詞）觸發訊息自動回覆，並且 「 點擊機器人按鈕 」（如圖中 「 點我看人氣商品 」 ）開啟官網
+步驟三 ：客人輸入關鍵字（如圖中 「 新品 」 字詞）觸發訊息自動回覆，並且 「 點擊機器人按鈕 」（如圖中 「 點我看人氣商品 」 ）開啟官網
 
-![（在LINE官方帳號中觸發機器人模組）](../../../.gitbook/assets/IMG_5178.jpg)
+<figure><img src="../../../.gitbook/assets/image (589).png" alt="" width="485"><figcaption></figcaption></figure>
 
-![(點擊LINE官方帳號中的機器人按鈕開啟官網網址）](../../../.gitbook/assets/IMG_5177.jpg)
+<figure><img src="../../../.gitbook/assets/電商案例 - Omnichat Blog (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 步驟 四：客人成功完成官網綁定（可至渠道聯絡人中查詢此客人，點擊右方 「 查看詳情 」 ，如客人 「 官網綁定 」 欄位顯示 「 已綁定 」，就表示綁定成功）
 
 <figure><img src="../../../.gitbook/assets/截圖 2025-10-30 下午4.42.02.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/截圖 2025-10-30 下午4.43.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 注意：
 
 * 此功能僅適用 「 機器人按鈕 」，如設定在LINE圖文選單的URL中，將無法社群身份綁定功能。如想在圖文選單進行綁定，需在定義行動時選擇機器人模組，以此方式引導消費者點擊機器人按鈕完成綁定。
-* 透過『機器人按鈕』完成綁定時，客人將不會收到『綁定成功訊息』，也就是說客人不會知道自己按下機器人按鈕的行為已經完成社群身份綁定
+* 透過『機器人按鈕』完成綁定時，客人將不會收到『綁定成功訊息』，也就是說客人不會知道自己按下機器人按鈕的行為已經完成官網綁定
 {% endhint %}
 
 ### FB Ｍessenger（以訊息自動回覆為例）
 
-步驟 一 ：先在 Omnichat『進階自動化功能』『自助機器人』中完成機器人模組設定。機器人模組需設定機器人按鈕選擇『開啟 URL』，並務必貼上完整網址（請參考：[自助機器人設定](https://docs.omnichat.ai/features/marketing/chatbot-builder)）
+步驟一 ：先在 Omnichat『進階自動化功能』『自助機器人』中完成機器人模組設定。機器人模組需設定機器人按鈕選擇『開啟 URL』，並務必貼上完整網址（請參考：[自助機器人設定](https://docs.omnichat.ai/features/marketing/chatbot-builder)）
 
-![](<../../../.gitbook/assets/Screen Shot 2022-02-16 at 6.17.09 PM.png>)
+
+
+<figure><img src="../../../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure>
 
 步驟二：設定 FB Messenger 訊息自動回覆條件，並且連結到步驟一設定好的機器人模組（請參考：[訊息自動回覆教學](../keyword-autoreply.md)設定）
 
-![](<../../../.gitbook/assets/Screen Shot 2022-02-16 at 6.18.06 PM.png>)
 
-步驟 三 ：客人輸入關鍵字（如圖中『新品』字詞）觸發訊息自動回覆，並且『點擊機器人按鈕』（如圖中『點我看人氣商品』）開啟官網
 
-![（在FB Messenger中觸發機器人模組）](../../../.gitbook/assets/IMG_5179.jpg)
+<figure><img src="../../../.gitbook/assets/image (588).png" alt=""><figcaption></figcaption></figure>
 
-![(點擊FB Messenger中機器人按鈕開啟官網網址）](../../../.gitbook/assets/IMG_5177.jpg)
+
+
+步驟三 ：客人輸入關鍵字（如圖中『新品』字詞）觸發訊息自動回覆，並且『點擊機器人按鈕』（如圖中『點我看人氣商品』）開啟官網
+
+<figure><img src="../../../.gitbook/assets/image (591).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/電商案例 - Omnichat Blog (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 步驟 四：客人成功完成社群身份綁定（可至連絡人及推播訊息中查看，如客人FB社群身份有在『綁定官網』欄位顯示『是』，就表示綁定成功）
 
-![](<../../../.gitbook/assets/FB (1).png>)
+<figure><img src="../../../.gitbook/assets/image (593).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 注意：
 
-* 透過『機器人按鈕』完成綁定時，客人將不會收到『綁定成功訊息』，也就是說客人不會知道自己按下 FB Messenger 機器人按鈕的行為已經完成 FB Messenger 社群身份綁定
+* 透過『機器人按鈕』完成綁定時，客人將不會收到『綁定成功訊息』，也就是說客人不會知道自己按下 FB Messenger 機器人按鈕的行為已經完成 FB Messenger 官網綁定
 {% endhint %}
 
