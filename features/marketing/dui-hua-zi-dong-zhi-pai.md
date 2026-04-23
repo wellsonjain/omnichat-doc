@@ -149,7 +149,7 @@ description: Omnichat 支援以對話自動指派事件到特定團隊成員，�
 3. 包含任一：預填訊息 e.g: `Where can I buy in stores?`&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>正確的自動指派條件設定方式</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (10).png" alt=""><figcaption><p>正確的自動指派條件設定方式</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>正確的自動回覆條件設定方式</p></figcaption></figure>
 
